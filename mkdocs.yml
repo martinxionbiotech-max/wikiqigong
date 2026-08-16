@@ -1,0 +1,92 @@
+site_name: WikiQigong
+site_url: https://wikiqigong.com/
+site_description: >-
+  A clear English guide to Tai Chi, Qigong, and Chinese mind–body practices —
+  deep Chinese understanding translated into natural, accurate English
+  education for beginners and practitioners.
+site_author: WikiQigong Editorial Team
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Core Articles:
+      - What Is Qigong?: articles/what-is-qigong.md
+      - What Is Tai Chi?: articles/what-is-tai-chi.md
+      - Qigong Principles: articles/qigong-principles.md
+      - Tai Chi Principles: articles/tai-chi-principles.md
+  - Practices:
+      - Baduanjin: articles/baduanjin.md
+      - Zhan Zhuang: articles/zhan-zhuang.md
+      - Qigong Breathing: articles/qigong-breathing.md
+  - Comparisons:
+      - Tai Chi vs Qigong: articles/tai-chi-vs-qigong.md
+      - Qigong vs Yoga: articles/qigong-vs-yoga.md
+      - Qigong vs Meditation: articles/qigong-vs-meditation.md
+  - Glossary:
+      - glossary/index.md
+      - Core Concepts:
+          - Qi: glossary/qi.md
+          - Dantian: glossary/dantian.md
+          - Yin–Yang: glossary/yin-yang.md
+          - Jing: glossary/jing.md
+          - Shen: glossary/shen.md
+          - Qigong: glossary/qigong.md
+          - Tai Chi: glossary/tai-chi.md
+          - Neigong: glossary/neigong.md
+      - Practice:
+          - Breathing: glossary/breathing.md
+          - Meditation: glossary/meditation.md
+          - Zhan Zhuang: glossary/zhan-zhuang.md
+      - Philosophy:
+          - Wu Xing: glossary/wu-xing.md
+          - Balance: glossary/balance.md
+  - About & Standards:
+      - Editorial Standards: editorial-standards.md
+      - Medical Disclaimer: disclaimer.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/martinxionbiotech-max/wikiqigong

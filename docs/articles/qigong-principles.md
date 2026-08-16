@@ -136,7 +136,7 @@ regulation of breath — and it can be done anywhere, anytime.
 ## Regulation of mind (調心 *tiao xin*)
 
 **What it is.** Attention is gathered and gently placed — on the breath, on a
-sensation, or on a focal point like the [dantian](/glossary/dantian/) — and
+sensation, or on a focal point like the [dantian](../glossary/dantian.md) — and
 held there with patience rather than force.
 
 **Why it matters.** The mind is the director. Body and breath can be perfectly
@@ -180,7 +180,7 @@ never "try harder" — it is *return gently* to the pillar that slipped.
 
 ## The three regulations and qi
 
-Where does [qi](/glossary/qi/) fit into all this? In the traditional framing,
+Where does [qi](../glossary/qi.md) fit into all this? In the traditional framing,
 the three regulations are the *method* by which qi is cultivated: a regulated
 body lets qi flow, a regulated breath moves qi, and a regulated mind directs
 qi.
@@ -202,7 +202,7 @@ Here is the three regulations in a single seated practice you can do now:
 2. **Breath.** Place a hand on your belly and breathe slowly through the nose,
    belly rising and falling, shoulders still. *(2 minutes)*
 3. **Mind.** Rest attention lightly on the lower belly — the
-   [dantian](/glossary/dantian/). When the mind drifts, notice and return.
+   [dantian](../glossary/dantian.md). When the mind drifts, notice and return.
    *(2 minutes)*
 
 That is qigong: body, breath, and mind, harmonized. Everything else — the
@@ -212,15 +212,15 @@ routines, the forms, the lineages — is a variation on this three-part seed.
 
 ## Where to go next
 
-- **[What Is Qigong?](/articles/what-is-qigong/)** — the parent concept.
-- **[Qigong Breathing](/articles/qigong-breathing/)** — the breath regulation,
+- **[What Is Qigong?](what-is-qigong.md)** — the parent concept.
+- **[Qigong Breathing](qigong-breathing.md)** — the breath regulation,
   in depth.
-- **[Zhan Zhuang: Standing Meditation](/articles/zhan-zhuang/)** — a practice
+- **[Zhan Zhuang: Standing Meditation](zhan-zhuang.md)** — a practice
   that embodies all three regulations in stillness.
-- **[Tai Chi Principles](/articles/tai-chi-principles/)** — the martial
+- **[Tai Chi Principles](tai-chi-principles.md)** — the martial
   sibling's parallel framework.
-- Glossary anchors: [Breathing](/glossary/breathing/), [Dantian](/glossary/dantian/),
-  [Qi](/glossary/qi/), [Meditation](/glossary/meditation/).
+- Glossary anchors: [Breathing](../glossary/breathing.md), [Dantian](../glossary/dantian.md),
+  [Qi](../glossary/qi.md), [Meditation](../glossary/meditation.md).
 
 ---
 

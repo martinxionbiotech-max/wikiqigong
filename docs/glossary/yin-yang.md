@@ -72,15 +72,15 @@ when it moves well.
 
 ## Related concepts
 
-- **[Qi](../glossary/qi/)** — yin and yang are the qualities qi takes as it
+- **[Qi](qi.md)** — yin and yang are the qualities qi takes as it
   moves and transforms.
-- **[Tai Chi](../glossary/tai-chi/)** — the name itself refers to the
+- **[Tai Chi](tai-chi.md)** — the name itself refers to the
   undivided source of yin and yang, and the practice embodies their exchange.
-- **[Qigong](../glossary/qigong/)** — many qigong sets aim to harmonize yin
+- **[Qigong](qigong.md)** — many qigong sets aim to harmonize yin
   and yang in the body.
-- **[Wu Xing](../glossary/wu-xing/)** — the five phases extend yin–yang
+- **[Wu Xing](wu-xing.md)** — the five phases extend yin–yang
   thinking into a richer cycle of transformation.
-- **[Balance](../glossary/balance/)** — yin–yang is a framework for
+- **[Balance](balance.md)** — yin–yang is a framework for
   understanding dynamic balance.
 
 ## Common misunderstandings

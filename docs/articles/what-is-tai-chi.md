@@ -64,7 +64,7 @@ The full Chinese name is 太極拳 (*tàijíquán*), and every part of it matter
 **Tai** (太) means "supreme" or "great." **Ji** (極) means "ultimate" or
 "extreme." Together, **taiji** (太極) is the "Supreme Ultimate" — a central
 term in Chinese philosophy naming the undivided whole from which the two
-complementary forces, [yin and yang](/glossary/yin-yang/), emerge. It is the
+complementary forces, [yin and yang](../glossary/yin-yang.md), emerge. It is the
 state before division, the source of balance. (This is why the familiar
 black-and-white symbol is often called the "taiji diagram.")
 
@@ -160,7 +160,7 @@ stable and grounded, like a tree with deep roots. This is the physical basis
 of tai chi's famous balance benefits.
 
 **3. Whole-body movement.** Power and motion originate from the center — the
-waist and the [dantian](/glossary/dantian/) — and flow out to the limbs. The
+waist and the [dantian](../glossary/dantian.md) — and flow out to the limbs. The
 arms do not move on their own; the whole body moves as one connected unit.
 
 **4. Continuity.** Movement flows without stop or jerk, "like drawing silk" —
@@ -170,7 +170,7 @@ stopped or snatched.
 **5. Yin–yang shifting.** Weight is always fully on one leg or the other
 ("substantial" and "insubstantial"), and the practice is the continuous,
 mindful exchange between the two. This is the philosophy of
-[yin and yang](/glossary/yin-yang/) made physical.
+[yin and yang](../glossary/yin-yang.md) made physical.
 
 **6. Mind leading the body.** Attention stays inside the movement — on the
 sensation of weight, breath, and posture — rather than wandering. This is why
@@ -186,7 +186,7 @@ art and a health practice.
 
 As with qigong, two honest framings coexist.
 
-**The traditional framing.** Tai chi trains the body to move with [qi](/glossary/qi/)
+**The traditional framing.** Tai chi trains the body to move with [qi](../glossary/qi.md)
 — relaxed, connected, and rooted — so that energy flows smoothly and force is
 absorbed and redirected rather than met head-on. The slow pace is deliberate:
 it lets the practitioner feel and refine the internal quality of each movement.
@@ -238,7 +238,7 @@ Tai chi and qigong are often confused. Here is the difference at a glance.
 | **Primary aim** | Balance, coordination, mindfulness | Health, relaxation, breath | Calming the mind |
 | **Typical session** | One continuous form | A short routine | Seated stillness |
 
-For the full treatment, see [Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/).
+For the full treatment, see [Tai Chi vs Qigong](tai-chi-vs-qigong.md).
 Tai chi shares qigong's breathing and attention but is fundamentally a
 different animal: it is *qigong's martial sibling*.
 
@@ -314,15 +314,15 @@ is a signal to stop and adjust.
 
 ## Where to go next
 
-- **[What Is Qigong?](/articles/what-is-qigong/)** — the sibling practice, and
+- **[What Is Qigong?](what-is-qigong.md)** — the sibling practice, and
   how it differs.
-- **[Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/)** — the direct comparison.
-- **[Tai Chi Principles](/articles/tai-chi-principles/)** — the six principles
+- **[Tai Chi vs Qigong](tai-chi-vs-qigong.md)** — the direct comparison.
+- **[Tai Chi Principles](tai-chi-principles.md)** — the six principles
   above, explored in depth.
-- **[Zhan Zhuang: Standing Meditation](/articles/zhan-zhuang/)** — the standing
+- **[Zhan Zhuang: Standing Meditation](zhan-zhuang.md)** — the standing
   practice that builds tai chi's root.
-- Glossary anchors: [Qi](/glossary/qi/), [Yin–Yang](/glossary/yin-yang/),
-  [Dantian](/glossary/dantian/).
+- Glossary anchors: [Qi](../glossary/qi.md), [Yin–Yang](../glossary/yin-yang.md),
+  [Dantian](../glossary/dantian.md).
 
 ---
 
@@ -347,7 +347,7 @@ gradually and check with a healthcare professional if you have concerns.
 Tai chi is a martial art with a meditative method; qigong is a health practice
 with no martial component. Tai chi is a long sequence of linked movements;
 qigong is often simpler, single movements or stillness. See the full
-comparison in [Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/).
+comparison in [Tai Chi vs Qigong](tai-chi-vs-qigong.md).
 
 **Can I learn tai chi from videos?**
 Videos can introduce the movements, but a qualified teacher is strongly

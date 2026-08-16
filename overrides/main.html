@@ -1,0 +1,85 @@
+{#-
+  Site-wide schema override for WikiQigong.
+  Extends Material's base template and injects JSON-LD into <head>.
+-#}
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  {# Organization + WebSite (site-wide) #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "{{ config.site_url }}#organization",
+        "name": "WikiQigong",
+        "url": "{{ config.site_url }}",
+        "description": "{{ config.site_description }}",
+        "sameAs": [
+          "https://github.com/martinxionbiotech-max/wikiqigong"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ config.site_url }}#website",
+        "name": "WikiQigong",
+        "url": "{{ config.site_url }}",
+        "publisher": {
+          "@id": "{{ config.site_url }}#organization"
+        }
+      }
+    ]
+  }
+  </script>
+
+  {% if page and page.meta and page.meta.type %}
+  {# Article schema for pillar/concept/practice pages #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ page.title }}",
+    "description": "{{ page.meta.description }}",
+    "author": {
+      "@type": "Organization",
+      "name": "{{ page.meta.author | default('WikiQigong Editorial Team') }}"
+    },
+    "publisher": {
+      "@id": "{{ config.site_url }}#organization"
+    },
+    "datePublished": "{{ page.meta.date_published }}",
+    "dateModified": "{{ page.meta.date_modified }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.canonical_url }}"
+    },
+    "inLanguage": "en"
+  }
+  </script>
+  {% endif %}
+
+  {% if page and page.meta and page.meta.faq %}
+  {# FAQPage schema #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in page.meta.faq %}
+      {
+        "@type": "Question",
+        "name": {{ item.q | tojson }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ item.a | tojson }}
+        }
+      }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+{% endblock %}

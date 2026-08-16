@@ -127,7 +127,7 @@ travel down to your feet rather than tipping your upper body.
 ## Principle 3: Whole-body movement
 
 **What it is.** Movement originates from the center — the waist and the
-[dantian](/glossary/dantian/) — and flows outward to the limbs. The body moves
+[dantian](../glossary/dantian.md) — and flows outward to the limbs. The body moves
 as one connected unit, not as separate parts.
 
 **Why it matters.** This is the difference between "moving your arm" and
@@ -176,7 +176,7 @@ constant *effort* if not constant *speed*, is continuity.
 and "insubstantial" — and the practice is the continuous, mindful exchange
 between the two.
 
-**Why it matters.** This is the philosophy of [yin and yang](/glossary/yin-yang/)
+**Why it matters.** This is the philosophy of [yin and yang](../glossary/yin-yang.md)
 made physical. Full and empty, heavy and light, gather and release — the body
 expresses the core idea of the art: that everything alternates through two
 complementary states. Functionally, it is also what makes tai chi stable in
@@ -249,7 +249,7 @@ tai chi's health benefits:
 
 - **Rooting + yin–yang shifting** are slow, controlled balance training — the
   direct basis of the fall-prevention evidence discussed in
-  [What Is Tai Chi?](/articles/what-is-tai-chi/).
+  [What Is Tai Chi?](what-is-tai-chi.md).
 - **Relaxation + mind-leading** *may help* activate the body's rest-and-digest
   response and reduce mind-wandering, in ways *studied for* stress reduction.
 - **Whole-body movement + continuity** train coordination and joint mobility
@@ -284,15 +284,15 @@ into a long, flowing sequence.
 
 ## Where to go next
 
-- **[What Is Tai Chi?](/articles/what-is-tai-chi/)** — the parent concept.
-- **[Zhan Zhuang: Standing Meditation](/articles/zhan-zhuang/)** — the
+- **[What Is Tai Chi?](what-is-tai-chi.md)** — the parent concept.
+- **[Zhan Zhuang: Standing Meditation](zhan-zhuang.md)** — the
   standing practice that most directly trains relaxation and rooting.
-- **[Qigong Principles](/articles/qigong-principles/)** — the shared
+- **[Qigong Principles](qigong-principles.md)** — the shared
   foundations of tai chi's sibling practice.
-- **[Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/)** — how the two systems
+- **[Tai Chi vs Qigong](tai-chi-vs-qigong.md)** — how the two systems
   relate.
-- Glossary anchors: [Yin–Yang](/glossary/yin-yang/), [Dantian](/glossary/dantian/),
-  [Qi](/glossary/qi/).
+- Glossary anchors: [Yin–Yang](../glossary/yin-yang.md), [Dantian](../glossary/dantian.md),
+  [Qi](../glossary/qi.md).
 
 ---
 

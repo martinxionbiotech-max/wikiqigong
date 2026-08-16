@@ -45,7 +45,7 @@ Chinese practice.
 ## Traditional interpretation
 
 Traditionally, breathing is understood as the way qi is *moved*: the exhale is
-said to guide qi downward to the [dantian](/glossary/dantian/), the inhale to
+said to guide qi downward to the [dantian](dantian.md), the inhale to
 gather it. Slow, quiet, deep breathing is described as building and conserving
 qi, while quick, shallow breathing is associated with its dispersal. The
 phrase 氣沉丹田 (*qì chén dāntián*), "qi sinks to the dantian," captures the
@@ -72,15 +72,15 @@ to engage the body's relaxation response.
 
 ## Related concepts
 
-- **[Qi](../glossary/qi/)** — breath and qi were historically understood as
+- **[Qi](qi.md)** — breath and qi were historically understood as
   linked; "qi" began as "vapor/breath."
-- **[Dantian](../glossary/dantian/)** — abdominal breathing is the most direct
+- **[Dantian](dantian.md)** — abdominal breathing is the most direct
   way to bring attention to the lower dantian.
-- **[Qigong](../glossary/qigong/)** — breath is one of qigong's three
+- **[Qigong](qigong.md)** — breath is one of qigong's three
   regulations.
-- **[Tai Chi](../glossary/tai-chi/)** — movement and breath are coordinated in
+- **[Tai Chi](tai-chi.md)** — movement and breath are coordinated in
   tai chi.
-- **[Meditation](../glossary/meditation/)** — the breath is the most common
+- **[Meditation](meditation.md)** — the breath is the most common
   object of meditation attention.
 
 ## Common misunderstandings

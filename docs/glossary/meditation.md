@@ -36,7 +36,7 @@ Meditation in China developed along two main streams that eventually merged:
 
 - **Daoist quiet sitting** — part of internal alchemy, aiming to still the
   body and mind so that vitality could gather and refine. The
-  [Shen](/glossary/shen/) (spirit/mind) was to be "settled" through stillness.
+  [Shen](shen.md) (spirit/mind) was to be "settled" through stillness.
 - **Buddhist meditation** — arriving from India around the early centuries CE,
   bringing techniques of breath-following and attention training (*chan*, the
   ancestor of Zen).
@@ -44,12 +44,12 @@ Meditation in China developed along two main streams that eventually merged:
 These traditions cross-pollinated for over a millennium. The result is that
 Chinese meditation — and, through it, tai chi and qigong — treats stillness of
 mind not as an escape from the body but as something rooted *in* the body: in
-the breath, in posture, in the [dantian](/glossary/dantian/).
+the breath, in posture, in the [dantian](dantian.md).
 
 ## Traditional interpretation
 
 Traditionally, meditation is the practice of "settling the
-[shen](/glossary/shen/)" — calming the mind's aware, luminous quality so that
+[shen](shen.md)" — calming the mind's aware, luminous quality so that
 it rests within rather than scattering outward. The body is arranged (upright
 but relaxed), the breath is allowed to slow, and attention is placed on the
 breath or the dantian. Distraction is not a failure but the raw material of
@@ -69,7 +69,7 @@ modern framing is well-established:
   many other mind–body techniques, though effect sizes vary.
 - **Mechanism** — much of the benefit is understood through the same slow
   breathing and relaxation pathways described in the
-  [Breathing](/glossary/breathing/) entry.
+  [Breathing](breathing.md) entry.
 
 As always: meditation is a practice, not a treatment. It *may support*
 relaxation and attention; it does not cure disease, and nothing here is
@@ -77,15 +77,15 @@ medical advice.
 
 ## Related concepts
 
-- **[Shen](../glossary/shen/)** — meditation is the primary practice for
+- **[Shen](shen.md)** — meditation is the primary practice for
   settling the shen.
-- **[Breathing](../glossary/breathing/)** — the breath is the most common
+- **[Breathing](breathing.md)** — the breath is the most common
   object of meditation attention.
-- **[Tai Chi](../glossary/tai-chi/)** — tai chi is described as "meditation in
+- **[Tai Chi](tai-chi.md)** — tai chi is described as "meditation in
   motion," applying meditative attention to movement.
-- **[Qigong](../glossary/qigong/)** — seated qigong is itself a form of
+- **[Qigong](qigong.md)** — seated qigong is itself a form of
   meditation.
-- **[Dantian](../glossary/dantian/)** — attention in meditation often rests on
+- **[Dantian](dantian.md)** — attention in meditation often rests on
   the lower dantian.
 
 ## Common misunderstandings

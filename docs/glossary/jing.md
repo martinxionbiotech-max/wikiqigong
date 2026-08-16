@@ -67,14 +67,14 @@ the body into deficit.
 
 ## Related concepts
 
-- **[Qi](../glossary/qi/)** — jing is classically said to refine into qi.
-- **[Shen](../glossary/shen/)** — the three-treasure sequence runs jing → qi →
+- **[Qi](qi.md)** — jing is classically said to refine into qi.
+- **[Shen](shen.md)** — the three-treasure sequence runs jing → qi →
   shen.
-- **[Neigong](../glossary/neigong/)** — internal cultivation traditionally
+- **[Neigong](neigong.md)** — internal cultivation traditionally
   aims to conserve jing.
-- **[Qigong](../glossary/qigong/)** — qigong is classically described as
+- **[Qigong](qigong.md)** — qigong is classically described as
   nourishing jing.
-- **[Dantian](../glossary/dantian/)** — the lower dantian is linked to the
+- **[Dantian](dantian.md)** — the lower dantian is linked to the
   body's reserves.
 
 ## Common misunderstandings

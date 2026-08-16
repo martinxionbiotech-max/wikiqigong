@@ -79,14 +79,14 @@ downstream effects on relaxation and balance.
 
 ## Related concepts
 
-- **[Qi](../glossary/qi/)** — the dantian is the classical storehouse of qi.
-- **[Breathing](../glossary/breathing/)** — abdominal breathing is the most
+- **[Qi](qi.md)** — the dantian is the classical storehouse of qi.
+- **[Breathing](breathing.md)** — abdominal breathing is the most
   direct way to bring attention to the dantian.
-- **[Zhan Zhuang](../glossary/zhan-zhuang/)** — standing meditation that roots
+- **[Zhan Zhuang](zhan-zhuang.md)** — standing meditation that roots
   awareness in the lower dantian.
-- **[Tai Chi](../glossary/tai-chi/)** — movement is traditionally said to
+- **[Tai Chi](tai-chi.md)** — movement is traditionally said to
   originate from the dantian.
-- **[Neigong](../glossary/neigong/)** — internal cultivation centered on this
+- **[Neigong](neigong.md)** — internal cultivation centered on this
   region.
 
 ## Common misunderstandings

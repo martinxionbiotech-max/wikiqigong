@@ -68,15 +68,15 @@ tightly coupled through breath and attention.
 
 ## Related concepts
 
-- **[Qi](../glossary/qi/)** — classical teaching describes qi being refined
+- **[Qi](qi.md)** — classical teaching describes qi being refined
   into a settled shen.
-- **[Jing](../glossary/jing/)** — essence, the first of the three treasures,
+- **[Jing](jing.md)** — essence, the first of the three treasures,
   said to transform into qi and then shen.
-- **[Meditation](../glossary/meditation/)** — the primary practice for
+- **[Meditation](meditation.md)** — the primary practice for
   settling the shen.
-- **[Neigong](../glossary/neigong/)** — internal cultivation that quietens and
+- **[Neigong](neigong.md)** — internal cultivation that quietens and
   refines the shen.
-- **[Dantian](../glossary/dantian/)** — settled abdominal breathing helps
+- **[Dantian](dantian.md)** — settled abdominal breathing helps
   anchor and calm the shen.
 
 ## Common misunderstandings

@@ -73,15 +73,15 @@ same — and the practice is what matters.
 
 ## Related concepts
 
-- **[Qigong](../glossary/qigong/)** — the practice of cultivating qi; the name
+- **[Qigong](qigong.md)** — the practice of cultivating qi; the name
   itself means "qi work."
-- **[Dantian](../glossary/dantian/)** — the lower dantian is traditionally
+- **[Dantian](dantian.md)** — the lower dantian is traditionally
   described as the storehouse where qi gathers.
-- **[Breathing](../glossary/breathing/)** — breath is the most tangible
+- **[Breathing](breathing.md)** — breath is the most tangible
   doorway to working with qi.
-- **[Tai Chi](../glossary/tai-chi/)** — tai chi movements are guided by the
+- **[Tai Chi](tai-chi.md)** — tai chi movements are guided by the
   intention of moving qi through the body.
-- **[Neigong](../glossary/neigong/)** — internal cultivation that develops and
+- **[Neigong](neigong.md)** — internal cultivation that develops and
   refines qi.
 
 ## Common misunderstandings

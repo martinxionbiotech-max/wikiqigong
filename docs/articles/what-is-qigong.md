@@ -67,7 +67,7 @@ Let us slow down on the name, because it carries the whole philosophy.
 **Qi** (氣) is the concept of the body's functional energy — breath, warmth,
 circulation, and vitality considered as one interconnected system. Its root
 meaning is "vapor" or "breath," the steam rising from cooking rice. (For a
-full treatment, see our [Qi](/glossary/qi/) entry.)
+full treatment, see our [Qi](../glossary/qi.md) entry.)
 
 **Gong** (功) means "work" or "skill acquired through practice" — the same
 *gong* as in *gongfu* (功夫, "kung fu"), which simply means skill developed
@@ -81,7 +81,7 @@ is not "energy healing." It is **work** — the everyday, patient kind.
 > A useful parallel: if tai chi is "meditation in motion," qigong is "breath
 > in motion." Tai chi is a martial art with a meditative method; qigong is a
 > health practice that can be fully stationary. They overlap heavily but are
-> not the same thing. (See [Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/)
+> not the same thing. (See [Tai Chi vs Qigong](tai-chi-vs-qigong.md)
 > for the full comparison.)
 
 ---
@@ -104,8 +104,8 @@ Where do the ingredients come from?
 
 - **Daoist inner alchemy (*neidan*)** — the tradition that reinterpreted
   alchemy as internal work with breath and attention, ancestor of the dantian
-  and the three treasures ([Jing](/glossary/jing/), [Qi](/glossary/qi/),
-  [Shen](/glossary/shen/)).
+  and the three treasures ([Jing](../glossary/jing.md), [Qi](../glossary/qi.md),
+  [Shen](../glossary/shen.md)).
 - **Chinese medicine** — the *Huangdi Neijing* (compiled around the Han
   dynasty) describes health as the smooth flow of qi, and movement and breath
   as ways to maintain it.
@@ -127,8 +127,8 @@ families a given practice may belong to. Most people begin with the first two.
 
 | Category | Chinese | Purpose | Typical form | Example |
 |----------|---------|---------|--------------|---------|
-| **Health / medical qigong** | 醫療氣功 *yīliáo qìgōng* | Maintain health, support recovery alongside medical care | Gentle movement + breathing routines | [Baduanjin](/articles/baduanjin/), Liu Zi Jue |
-| **Martial qigong** | 武術氣功 *wǔshù qìgōng* | Build stability, power, and body awareness for fighting arts | Standing postures, conditioned breathing | [Zhan Zhuang](/articles/zhan-zhuang/), Iron Shirt |
+| **Health / medical qigong** | 醫療氣功 *yīliáo qìgōng* | Maintain health, support recovery alongside medical care | Gentle movement + breathing routines | [Baduanjin](baduanjin.md), Liu Zi Jue |
+| **Martial qigong** | 武術氣功 *wǔshù qìgōng* | Build stability, power, and body awareness for fighting arts | Standing postures, conditioned breathing | [Zhan Zhuang](zhan-zhuang.md), Iron Shirt |
 | **Scholarly / meditative qigong** | 儒家氣功 *rújiā qìgōng* | Cultivate calm, focus, and moral character | Seated meditation + quiet breathing | Confucian "quiet sitting" |
 | **Spiritual / Daoist qigong** | 道家氣功 *dàojiā qìgōng* | Inner transformation and longevity practice | Internal alchemy, visualization | Neidan (inner alchemy) |
 
@@ -161,7 +161,7 @@ held uncomfortably.
 ### 3. Attention
 
 The mind is not empty; it is *placed*. Attention rests on the breath, on the
-sensation of the body, or on a focal point like the [dantian](/glossary/dantian/)
+sensation of the body, or on a focal point like the [dantian](../glossary/dantian.md)
 — the lower abdomen. This is what separates qigong from ordinary stretching:
 the *quality of attention* you bring to it.
 
@@ -233,9 +233,9 @@ overlaps and where it differs.
 | **Meditation** | Multiple | Seated stillness of attention | No | Calming the mind |
 | **Yoga** | India | Postures + breath + attention | No | Flexibility, strength, calm |
 
-For direct, in-depth comparisons, see [Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/),
-[Qigong vs Yoga](/articles/qigong-vs-yoga/), and
-[Qigong vs Meditation](/articles/qigong-vs-meditation/).
+For direct, in-depth comparisons, see [Tai Chi vs Qigong](tai-chi-vs-qigong.md),
+[Qigong vs Yoga](qigong-vs-yoga.md), and
+[Qigong vs Meditation](qigong-vs-meditation.md).
 
 ---
 
@@ -279,7 +279,7 @@ practice pages.)
    expand on the inhale, and fall on the exhale. Keep it slow and easy — no
    forcing.
 4. **Add attention.** Rest your mind lightly on the lower abdomen, a few
-   finger-widths below the navel — the [dantian](/glossary/dantian/). Every
+   finger-widths below the navel — the [dantian](../glossary/dantian.md). Every
    time the mind drifts (and it will), gently return it. Drifting is normal;
    returning is the practice.
 5. **Stay for five minutes.** Then open your eyes slowly and notice how you
@@ -316,18 +316,18 @@ the point.
 You have just met the parent concept. From here you can branch in several
 directions:
 
-- **[What Is Tai Chi?](/articles/what-is-tai-chi/)** — the sibling practice,
+- **[What Is Tai Chi?](what-is-tai-chi.md)** — the sibling practice,
   and how it differs from qigong.
-- **[Tai Chi vs Qigong](/articles/tai-chi-vs-qigong/)** — a direct comparison
+- **[Tai Chi vs Qigong](tai-chi-vs-qigong.md)** — a direct comparison
   of the two.
-- **[Qigong Breathing](/articles/qigong-breathing/)** — the breathing method,
+- **[Qigong Breathing](qigong-breathing.md)** — the breathing method,
   in depth.
-- **[Baduanjin: The Eight Pieces of Brocade](/articles/baduanjin/)** — the
+- **[Baduanjin: The Eight Pieces of Brocade](baduanjin.md)** — the
   world's most practiced qigong routine.
-- **[Zhan Zhuang: Standing Meditation](/articles/zhan-zhuang/)** — the still
+- **[Zhan Zhuang: Standing Meditation](zhan-zhuang.md)** — the still
   form of qigong.
-- Glossary anchors: [Qi](/glossary/qi/), [Dantian](/glossary/dantian/),
-  [Jing](/glossary/jing/), [Shen](/glossary/shen/).
+- Glossary anchors: [Qi](../glossary/qi.md), [Dantian](../glossary/dantian.md),
+  [Jing](../glossary/jing.md), [Shen](../glossary/shen.md).
 
 ---
 
@@ -345,7 +345,7 @@ professional first. Stop if anything hurts.
 **How is qigong different from yoga?**
 Both combine movement, breath, and attention, but they come from different
 traditions and feel different. Qigong tends to be more continuous and less
-posture-focused. See [Qigong vs Yoga](/articles/qigong-vs-yoga/) for details.
+posture-focused. See [Qigong vs Yoga](qigong-vs-yoga.md) for details.
 
 **How long before I feel something?**
 Sensations vary enormously. Some feel warmth and calm in the first session;
