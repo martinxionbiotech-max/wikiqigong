@@ -26,33 +26,28 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 ## Priority queue (foundation phase, Days 1–15)
 
 ### Articles
-1. **Tai Chi Five Styles** (pillar) — Chen, Yang, Wu, Wu/Hao, Sun. Table of
-   the five, history, what distinguishes each, which to learn first.
-2. **Neigong: The Internal Work** (concept) — deepen existing glossary entry
+1. **Neigong: The Internal Work** (concept) — deepen existing glossary entry
    into a full article.
-3. **Wuji: The Uncarved State** (concept) — the still point before tai chi's
-   taiji; glossary entry + article.
-4. **Rooting: Connection to the Ground** (practice) — how to stand grounded,
+2. **Rooting: Connection to the Ground** (practice) — how to stand grounded,
    the role of song + sinking.
-5. **Tai Chi for Beginners: A First Session** (practice) — a safe, concrete
+3. **Tai Chi for Beginners: A First Session** (practice) — a safe, concrete
    first 20-minute practice.
-6. **Qigong vs Tai Chi (deep dive)** — expand existing comparison with more
+4. **Qigong vs Tai Chi (deep dive)** — expand existing comparison with more
    nuance (already have tai-chi-vs-qigong.md; can deepen).
 
 ### Glossary entries (one per concept, full schema)
-1. wuji (無極)
-2. rooting / gen (根)
-3. chen (沉, sinking)
-4. five styles → five entries? (chen-style, yang-style, wu-style, wu-hao-style,
-   sun-style) — or one "tai-chi-styles" entry + article.
-5. san-guan (三關, the three gates)
-6. xing (形, form/shape) vs yi (意, intention) vs qi (氣) — the "three internal
+1. rooting / gen (根)
+2. chen (沉, sinking)
+3. san-guan (三關, the three gates)
+4. xing (形, form/shape) vs yi (意, intention) vs qi (氣) — the "three internal
    harmonies"
-7. ming-men (命門, life gate)
-8. lao-gong (勞宮, the palm point)
+5. ming-men (命門, life gate)
+6. lao-gong (勞宮, the palm point)
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-17: tai-chi-five-styles (article + glossary tai-chi-styles), wuji
+  (article + glossary).
 - 2026-08-16: dao-yin (article + glossary), three-treasures (article +
   glossary san-bao), song (article + glossary).
 - 2026-08-16 (earlier): 10 articles + 13 glossary + site scaffold, pushed.
