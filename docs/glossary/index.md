@@ -21,6 +21,7 @@ page that connects to the concepts around it.
 | [Yin–Yang](yin-yang.md) | 陰陽 | yīn yáng | complementary opposites |
 | [Jing](jing.md) | 精 | jīng | essence; constitutional reserve |
 | [Shen](shen.md) | 神 | shén | spirit; mind; consciousness |
+| [Wuji](wuji.md) | 無極 | wújí | without limit; the undivided state |
 
 ## Practice
 
@@ -28,6 +29,7 @@ page that connects to the concepts around it.
 |------|---------|--------|---------|
 | [Breathing](breathing.md) | 呼吸 | hūxī | exhale–inhale; the breath |
 | [Meditation](meditation.md) | 靜坐 | jìngzuò | quiet sitting |
+| [Tai Chi Styles](tai-chi-styles.md) | 太極拳式 | tàijíquán shì | the five family lineages |
 
 ---
 

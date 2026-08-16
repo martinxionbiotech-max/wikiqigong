@@ -45,6 +45,8 @@ nav:
       - Dao Yin: articles/dao-yin.md
       - The Three Treasures: articles/three-treasures.md
       - Song (Relaxed Release): articles/song.md
+      - Tai Chi Five Styles: articles/tai-chi-five-styles.md
+      - Wuji (The Uncarved State): articles/wuji.md
   - Practices:
       - Baduanjin: articles/baduanjin.md
       - Zhan Zhuang: articles/zhan-zhuang.md
@@ -74,6 +76,9 @@ nav:
           - Dao Yin: glossary/dao-yin.md
           - Song: glossary/song.md
           - San Bao: glossary/san-bao.md
+          - Wuji: glossary/wuji.md
+      - Tradition:
+          - Tai Chi Styles: glossary/tai-chi-styles.md
   - About & Standards:
       - Editorial Standards: editorial-standards.md
       - Medical Disclaimer: disclaimer.md
