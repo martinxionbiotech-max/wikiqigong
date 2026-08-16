@@ -4,6 +4,7 @@ chinese: "精"
 pinyin: "jīng"
 english: "Jing"
 literal: "essence; seed; refined extract"
+description: "Jing (精, jīng) is the Chinese concept of the body's deepest reserve — essence. Learn the three-treasures framework and a grounded modern explanation of constitutional vitality."
 category: "core-concept"
 related:
   - { concept: "Qi", relation: "transforms into", note: "jing is said to refine into qi" }

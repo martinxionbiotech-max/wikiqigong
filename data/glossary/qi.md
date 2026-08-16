@@ -4,6 +4,7 @@ chinese: "氣"
 pinyin: "qì"
 english: "Qi"
 literal: "breath; air; vital energy"
+description: "Qi (氣, qì) is the Chinese concept of the body's functional energy — breath, warmth, and vitality as one interconnected system. Learn its literal meaning, history, and a grounded modern explanation."
 category: "core-concept"
 related:
   - { concept: "Qigong", relation: "cultivates", note: "qigong literally means 'qi work'" }

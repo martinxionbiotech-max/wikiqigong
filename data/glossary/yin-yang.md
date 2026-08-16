@@ -4,6 +4,7 @@ chinese: "陰陽"
 pinyin: "yīn yáng"
 english: "Yin–Yang"
 literal: "shady side / sunny side (of a hill)"
+description: "Yin and yang (陰陽, yīn yáng) are the complementary opposites of Chinese thought — not good vs evil, but interdependent halves that transform into each other. Learn the real meaning."
 category: "philosophy"
 related:
   - { concept: "Qi", relation: "manifests as", note: "yin and yang are qualities of qi" }

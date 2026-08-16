@@ -4,6 +4,7 @@ chinese: "神"
 pinyin: "shén"
 english: "Shen"
 literal: "spirit; mind; consciousness"
+description: "Shen (神, shén) is the Chinese concept of the mind's aware, luminous quality — spirit, consciousness, or presence. Learn the three-treasures framework and a grounded modern reading."
 category: "core-concept"
 related:
   - { concept: "Qi", relation: "refined into", note: "classical teaching refines qi to settle the shen" }
