@@ -26,26 +26,22 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 ## Priority queue (foundation phase, Days 1–15)
 
 ### Articles
-1. **Neigong: The Internal Work** (concept) — deepen existing glossary entry
-   into a full article.
-2. **Rooting: Connection to the Ground** (practice) — how to stand grounded,
-   the role of song + sinking.
-3. **Tai Chi for Beginners: A First Session** (practice) — a safe, concrete
+1. **Tai Chi for Beginners: A First Session** (practice) — a safe, concrete
    first 20-minute practice.
-4. **Qigong vs Tai Chi (deep dive)** — expand existing comparison with more
+2. **Qigong vs Tai Chi (deep dive)** — expand existing comparison with more
    nuance (already have tai-chi-vs-qigong.md; can deepen).
 
 ### Glossary entries (one per concept, full schema)
-1. rooting / gen (根)
-2. chen (沉, sinking)
-3. san-guan (三關, the three gates)
-4. xing (形, form/shape) vs yi (意, intention) vs qi (氣) — the "three internal
+1. san-guan (三關, the three gates)
+2. xing (形, form/shape) vs yi (意, intention) vs qi (氣) — the "three internal
    harmonies"
-5. ming-men (命門, life gate)
-6. lao-gong (勞宮, the palm point)
+3. ming-men (命門, life gate)
+4. lao-gong (勞宮, the palm point)
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-18: neigong (article + existing glossary deepened), rooting
+  (article + glossary gen/chen).
 - 2026-08-17: tai-chi-five-styles (article + glossary tai-chi-styles), wuji
   (article + glossary).
 - 2026-08-16: dao-yin (article + glossary), three-treasures (article +
