@@ -47,10 +47,12 @@ nav:
       - Song (Relaxed Release): articles/song.md
       - Tai Chi Five Styles: articles/tai-chi-five-styles.md
       - Wuji (The Uncarved State): articles/wuji.md
+      - Neigong (The Internal Work): articles/neigong.md
   - Practices:
       - Baduanjin: articles/baduanjin.md
       - Zhan Zhuang: articles/zhan-zhuang.md
       - Qigong Breathing: articles/qigong-breathing.md
+      - Rooting (Connection to the Ground): articles/rooting.md
   - Comparisons:
       - Tai Chi vs Qigong: articles/tai-chi-vs-qigong.md
       - Qigong vs Yoga: articles/qigong-vs-yoga.md
@@ -70,6 +72,8 @@ nav:
           - Breathing: glossary/breathing.md
           - Meditation: glossary/meditation.md
           - Zhan Zhuang: glossary/zhan-zhuang.md
+          - Rooting (Gen): glossary/gen.md
+          - Sinking (Chen): glossary/chen.md
       - Philosophy:
           - Wu Xing: glossary/wu-xing.md
           - Balance: glossary/balance.md
