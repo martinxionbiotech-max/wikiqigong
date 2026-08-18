@@ -32,14 +32,10 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
    nuance (already have tai-chi-vs-qigong.md; can deepen).
 
 ### Glossary entries (one per concept, full schema)
-1. san-guan (三關, the three gates)
-2. xing (形, form/shape) vs yi (意, intention) vs qi (氣) — the "three internal
-   harmonies"
-3. ming-men (命門, life gate)
-4. lao-gong (勞宮, the palm point)
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-18 (day): san-guan, xing-yi-qi, ming-men, lao-gong (glossary).
 - 2026-08-18: neigong (article + existing glossary deepened), rooting
   (article + glossary gen/chen).
 - 2026-08-17: tai-chi-five-styles (article + glossary tai-chi-styles), wuji

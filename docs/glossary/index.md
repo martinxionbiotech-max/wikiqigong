@@ -45,6 +45,15 @@ page that connects to the concepts around it.
 | [Song](song.md) | 鬆 | sōng | loose; relaxed release |
 | [San Bao](san-bao.md) | 三寶 | sānbǎo | the three treasures |
 | [Wuji](wuji.md) | 無極 | wújí | without limit; the undivided state |
+| [Xing, Yi, Qi](xing-yi-qi.md) | 形意氣 | xíng yì qì | form, intention, energy |
+
+## Body-map
+
+| Term | Chinese | Pinyin | Meaning |
+|------|---------|--------|---------|
+| [San Guan (Three Gates)](san-guan.md) | 三關 | sān guān | the spine's three gates |
+| [Ming Men (Life Gate)](ming-men.md) | 命門 | mìng mén | gate of life; the lower back |
+| [Lao Gong (Palm Point)](lao-gong.md) | 勞宮 | láo gōng | labor palace; the palm center |
 
 ## Tradition
 
