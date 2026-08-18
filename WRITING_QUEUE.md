@@ -26,15 +26,17 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 ## Priority queue (foundation phase, Days 1–15)
 
 ### Articles
-1. **Tai Chi for Beginners: A First Session** (practice) — a safe, concrete
-   first 20-minute practice.
-2. **Qigong vs Tai Chi (deep dive)** — expand existing comparison with more
-   nuance (already have tai-chi-vs-qigong.md; can deepen).
+1. **What Is Qi? (deep-dive concept article)** — a full pillar piece on qi,
+   expanding the existing glossary entry into a standalone article.
+2. **What Is the Dantian? (deep-dive)** — the lower abdomen as center of
+   gravity and breath anchor.
 
 ### Glossary entries (one per concept, full schema)
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-19: tai-chi-beginners-first-session (article), tai-chi-vs-qigong
+  deepened (article).
 - 2026-08-18 (day): san-guan, xing-yi-qi, ming-men, lao-gong (glossary).
 - 2026-08-18: neigong (article + existing glossary deepened), rooting
   (article + glossary gen/chen).
