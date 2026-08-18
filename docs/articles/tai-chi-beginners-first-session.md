@@ -195,6 +195,42 @@ as a feeling to find, and the choreography will come later, almost on its own.
 
 ---
 
+## Common mistakes in the first session (and how to fix them)
+
+Everyone makes these. Here they are, named, so you can catch yourself and
+correct course.
+
+| Mistake | What it feels like | The fix |
+|---------|--------------------|---------|
+| **Holding the breath** | You realize you are tense in the chest | Exhale first, then let the inhale come on its own |
+| **Locking the knees** | The legs feel rigid, the body top-heavy | Soften the knees a little, sink the weight down |
+| **Rushing the movement** | The arms swing like you are in a hurry | Cut the speed in half, then half again |
+| **Forcing a "correct" shape** | Shoulders up, jaw tight, trying hard | Drop the shoulders, soften the jaw, re-find song |
+| **Drifting into thought** | You are planning your day mid-movement | Return attention to the soles of the feet |
+| **Overdoing the breathing** | Dizziness or light-headedness | Return to natural breathing; never force it |
+
+None of these means you are "bad at it." Catching one and correcting it *is*
+the practice — that moment of noticing and returning is exactly what tai chi
+trains.
+
+---
+
+## Where to go next after this session
+
+Your first session is a doorway, not a destination. A sensible path from here:
+
+1. **Repeat this 20-minute session** for a week or two — consistency beats
+   ambition at this stage.
+2. **Lengthen the standing** — extend the rooting section from a few minutes
+   to five or ten. It is the part with the most carry-over.
+3. **Learn a short form** — when the basics feel familiar, find the
+   simplified 24-form (a teacher, a class, or a careful video) and begin
+   adding movements one at a time.
+4. **Pair it with qigong** — a short [qigong](../articles/qigong-principles.md)
+   routine is an ideal warm-up and complements the tai chi method.
+
+---
+
 ## Why start with standing?
 
 A first session built on standing and slow movement is not a shortcut — it is
@@ -230,6 +266,8 @@ Tai chi is broadly safe, but the same sense applies as with any movement:
 ## Where to go next
 
 - [What Is Tai Chi?](what-is-tai-chi.md) — the art this session begins.
+- [Tai Chi vs Qigong](tai-chi-vs-qigong.md) — understand where tai chi sits
+  among the mind–body practices.
 - [Zhan Zhuang: Standing Meditation](../articles/zhan-zhuang.md) — deepen the
   standing practice that anchors your root.
 - [Qigong Breathing](../articles/qigong-breathing.md) — the slow breath that
@@ -284,7 +322,8 @@ choreography; chase a soft, open, grounded feeling.
   [nccih.nih.gov](https://www.nccih.nih.gov/health/tai-chi-and-qi-gong-in-depth)
 - Harvard Health Publishing. *The health benefits of tai chi.*
   [health.harvard.edu](https://www.health.harvard.edu/staying-healthy/the-health-benefits-of-tai-chi)
-- Li F, Harmer P, Fisher KJ, et al. *Tai Chi and fall reductions in older
-  adults: a randomized controlled trial.* J Gerontol A Biol Sci Med Sci.
-  2005;60(2):187–194.
-  [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=tai+chi+fall+reductions+older+adults+2005)
+- Li F, Harmer P, Fisher KJ, McAuley E, Chaumeton N, Eckstrom E, Wilson NL.
+  *Tai Chi and fall reductions in older adults: a randomized controlled trial.*
+  J Gerontol A Biol Sci Med Sci. 2005;60(2):187–194.
+  doi:[10.1093/gerona/60.2.187](https://doi.org/10.1093/gerona/60.2.187).
+  [PubMed: 15814861](https://pubmed.ncbi.nlm.nih.gov/15814861/)

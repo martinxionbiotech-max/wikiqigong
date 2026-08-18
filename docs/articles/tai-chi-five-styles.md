@@ -243,10 +243,14 @@ consistently.
 
 ## References & further reading
 
-- Li F, Harmer P, Fisher KJ, et al. *Tai Chi and fall reductions in older
-  adults: a randomized controlled trial.* J Gerontol A Biol Sci Med Sci.
-  2005;60(2):187–194.
+- Li F, Harmer P, Fisher KJ, McAuley E, Chaumeton N, Eckstrom E, Wilson NL.
+  *Tai Chi and fall reductions in older adults: a randomized controlled trial.*
+  J Gerontol A Biol Sci Med Sci. 2005;60(2):187–194.
+  doi:[10.1093/gerona/60.2.187](https://doi.org/10.1093/gerona/60.2.187).
+  [PubMed: 15814861](https://pubmed.ncbi.nlm.nih.gov/15814861/)
 - Jahnke R, Larkey L, Rogers C, Etnier J, Lin F. *A comprehensive review of
   health benefits of qigong and tai chi.* Am J Health Promot. 2010;24(6):e1–e25.
+  doi:[10.4278/ajhp.081013-lit-248](https://doi.org/10.4278/ajhp.081013-lit-248).
+  [PMCID: PMC3085832](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3085832/)
 - National Center for Complementary and Integrative Health (NCCIH). *Tai Chi
   and Qi Gong: In Depth.* [nccih.nih.gov](https://www.nccih.nih.gov/health/tai-chi-and-qi-gong-in-depth)

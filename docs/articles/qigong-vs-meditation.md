@@ -204,8 +204,13 @@ generally having the larger and stronger evidence base. Neither is a treatment
 
 - Jahnke R, Larkey L, Rogers C, Etnier J, Lin F. *A comprehensive review of
   health benefits of qigong and tai chi.* Am J Health Promot. 2010;24(6):e1–e25.
-- Wang F, Lee EK, Wu T, et al. *The effects of qigong on anxiety, depression,
-  and psychological well-being: a systematic review and meta-analysis.* Evid
-  Based Complement Alternat Med. 2013;2013:152738.
+  doi:[10.4278/ajhp.081013-lit-248](https://doi.org/10.4278/ajhp.081013-lit-248).
+  [PMCID: PMC3085832](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3085832/)
+- Wang F, Man JK, Lee EK, Wu T, Benson H, Fricchione GL, Wang W, Yeung A.
+  *The effects of qigong on anxiety, depression, and psychological well-being:
+  a systematic review and meta-analysis.* Evid Based Complement Alternat Med.
+  2013;2013:152738.
+  doi:[10.1155/2013/152738](https://doi.org/10.1155/2013/152738).
+  [PMCID: PMC3557628](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3557628/)
 - National Center for Complementary and Integrative Health (NCCIH). *Meditation
   and Mindfulness: What You Need To Know.* [nccih.nih.gov](https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know)

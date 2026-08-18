@@ -222,6 +222,8 @@ tai chi, and rooting is its foundation.
   and Qi Gong: In Depth.* [nccih.nih.gov](https://www.nccih.nih.gov/health/tai-chi-and-qi-gong-in-depth)
 - Harvard Health Publishing. *The health benefits of tai chi.*
   [health.harvard.edu](https://www.health.harvard.edu/staying-healthy/the-health-benefits-of-tai-chi)
-- Li F, Harmer P, Fitzgerald K, et al. *Tai chi and postural stability in
-  patients with Parkinson's disease.* N Engl J Med. 2012;366(6):511–519.
-  [PubMed](https://pubmed.ncbi.nlm.nih.gov/22316445/)
+- Li F, Harmer P, Fitzgerald K, Eckstrom E, Stock R, Galver J, Maddalozzo G,
+  Batya SS. *Tai chi and postural stability in patients with Parkinson's
+  disease.* N Engl J Med. 2012;366(6):511–519.
+  doi:[10.1056/NEJMoa1107911](https://doi.org/10.1056/NEJMoa1107911).
+  [PubMed: 22316445](https://pubmed.ncbi.nlm.nih.gov/22316445/)
