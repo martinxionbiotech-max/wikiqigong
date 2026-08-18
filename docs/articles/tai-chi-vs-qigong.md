@@ -7,7 +7,7 @@ description: "Tai chi and qigong are often confused. Tai chi is a martial art pr
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-19"
 related:
   - { concept: "Tai Chi", relation: "one side of" }
   - { concept: "Qigong", relation: "other side of" }
@@ -56,6 +56,72 @@ Everything else follows from this. Tai chi's movements are, underneath, combat
 techniques — even when a modern health class never mentions fighting. Qigong
 has no combat vocabulary at all: it is purely about cultivating health and
 balance through breath, movement, and attention.
+
+---
+
+## A brief history of each
+
+The difference between the two is easiest to see in their origins. Here is the
+honest picture, in three clearly separated registers.
+
+### Historical fact
+
+Qigong is the older and broader of the two. Its roots lie in ancient Chinese
+self-cultivation practices — breathing exercises, therapeutic movement, and
+meditation — with written antecedents such as [dao yin](../articles/dao-yin.md)
+(導引, "guiding and pulling") appearing in texts compiled around the Han
+dynasty and earlier. The modern term "qigong" (氣功), however, is recent: it
+became a standardized umbrella name for these practices mainly in the
+mid-20th century.
+
+Tai chi is much younger. As a named art, it is usually traced to the Chen
+family village in Henan province, with surviving lineages formalized roughly
+from the 17th to 19th centuries — the exact origins are debated. Its
+movements are built on older martial and health techniques, but "tai chi" as a
+distinct system is a comparatively modern synthesis.
+
+### Traditional interpretation
+
+Traditionally, both practices are understood through the same classical
+framework: the cultivation and circulation of [qi](../glossary/qi.md), the
+balance of [yin and yang](../glossary/yin-yang.md), and the refinement of the
+[three treasures](../glossary/san-bao.md) — [Jing](../glossary/jing.md), qi,
+and [Shen](../glossary/shen.md). Qigong is framed as the health-and-longevity
+side of this framework; tai chi as its martial expression, in which the same
+inner cultivation is expressed through a fighting form practiced slowly.
+
+### Modern explanation
+
+Read without metaphysics, the two are different *delivery systems* for the
+same active ingredients: slow movement, breath control, and attention. Qigong
+delivers these ingredients in simple, repeatable units; tai chi delivers them
+in a long, choreographed, martial-derived sequence. That is why research so
+often studies them together — mechanistically, they overlap far more than
+they differ.
+
+---
+
+## The nuance: is tai chi a kind of qigong?
+
+This is the question that sharpens the whole comparison. The honest answer is
+**"partly — it depends how you define the terms."**
+
+- **If qigong means the broad family of Chinese breath-and-movement
+  cultivation,** then tai chi *is* a member of that family — a martial-flavored
+  qigong, so to speak. Many teachers happily call tai chi "moving qigong."
+- **If qigong means the specific health practice with no martial component,**
+  then tai chi is *not* qigong — it has a fighting structure qigong lacks.
+
+So the relationship is not "two separate boxes" but a **spectrum**: at one
+end, pure stillness and breathing ([zhan zhuang](../articles/zhan-zhuang.md),
+[qigong breathing](../articles/qigong-breathing.md)); in the middle, gentle
+repeated movements ([baduanjin](../articles/baduanjin.md)); at the other end,
+a complete martial form (tai chi). The closer you get to the martial end, the
+more structure and the more fighting application; the closer to the health
+end, the simpler and more breath-focused it becomes.
+
+This spectrum view resolves most of the confusion: tai chi and qigong are not
+competitors, but points on one continuum of Chinese mind–body practice.
 
 ---
 

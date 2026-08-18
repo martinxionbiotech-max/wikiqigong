@@ -46,8 +46,10 @@ practitioners who want the real thing rather than the mystified version.
 
 1. [What Is Qigong?](articles/what-is-qigong.md) — the foundation practice.
 2. [What Is Tai Chi?](articles/what-is-tai-chi.md) — the martial sibling.
-3. [Qigong Principles](articles/qigong-principles.md) — the three pillars.
-4. [Tai Chi Principles](articles/tai-chi-principles.md) — the six ideas.
+3. [Tai Chi for Beginners](articles/tai-chi-beginners-first-session.md) — a
+   safe, simple 20-minute first session.
+4. [Qigong Principles](articles/qigong-principles.md) — the three pillars.
+5. [Tai Chi Principles](articles/tai-chi-principles.md) — the six ideas.
 
 **Looking for a specific term?** Browse the [Glossary](glossary/index.md) —
 every important concept, from [Qi](glossary/qi.md) to
