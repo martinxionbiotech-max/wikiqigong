@@ -38,9 +38,46 @@ grounded, non-mystical reading. Both halves matter, and every page does both.
 
 WikiQigong is written and reviewed by the **WikiQigong Editorial Team** — a
 small group working to produce clear, accurate, well-sourced educational
-material. We are not medical professionals, and we do not pretend to be. Where
-a topic touches medicine, diagnosis, or treatment, we say so plainly and point
-to authoritative sources rather than speaking beyond our expertise.
+material. We publish under a named editorial structure, not an anonymous
+byline, so that you can see who is responsible for what:
+
+| Role | Responsibility |
+|------|----------------|
+| **Lead Editor** | Overall accuracy and voice; final sign-off on every page |
+| **Content Editor** | Drafting and plain-English reconstruction of Chinese concepts |
+| **Fact Checker** | Verifying characters, pinyin, dates, and citations |
+| **Reviewer** | A second pass on health wording and the three-registers rule |
+
+We are not medical professionals, and we do not pretend to be. Where a topic
+touches medicine, diagnosis, or treatment, we say so plainly and point to
+authoritative sources rather than speaking beyond our expertise.
+
+## How content is made (our editorial process)
+
+Every page moves through the same pipeline before it is published:
+
+1. **Draft** — a content editor reconstructs the concept in natural English,
+   preserving characters, pinyin, and literal meaning.
+2. **Verify** — a fact checker confirms every Chinese term, tone mark, date,
+   and citation against sources.
+3. **Review** — a reviewer checks health wording ("may support," never
+   "cure") and that the three registers are clearly separated.
+4. **Publish** — the lead editor signs off, the build is validated
+   (`mkdocs build --strict` must pass with 0 errors), and the page ships with
+   its structured data.
+5. **Maintain** — pages carry a `date_modified` stamp and are revisited as
+   the evidence or our understanding improves.
+
+## Contact us
+
+Transparency means you can reach the people responsible for what you read.
+
+- **Repository:** [github.com/martinxionbiotech-max/wikiqigong](https://github.com/martinxionbiotech-max/wikiqigong) —
+  every change is committed publicly, so you can see exactly what was edited
+  and when.
+- **Corrections:** open an issue on the repository if you spot an error in a
+  character, a date, or a citation. We correct factual errors promptly and
+  mark the change.
 
 We publish under an editorial policy (see [Editorial
 Standards](editorial-standards.md)) that commits us to:

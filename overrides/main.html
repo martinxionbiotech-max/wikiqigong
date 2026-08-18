@@ -7,6 +7,40 @@
 {% block extrahead %}
   {{ super() }}
 
+  {# Concept-name -> glossary URL slug map, for @id cross-links #}
+  {% set term_map = {
+    'Balance': 'glossary/balance/',
+    'Breathing': 'glossary/breathing/',
+    'Chen (Sinking)': 'glossary/chen/',
+    'Sinking': 'glossary/chen/',
+    'Dantian': 'glossary/dantian/',
+    'Dao Yin': 'glossary/dao-yin/',
+    'Gen (Rooting)': 'glossary/gen/',
+    'Rooting': 'glossary/gen/',
+    'Jing': 'glossary/jing/',
+    'Lao Gong': 'glossary/lao-gong/',
+    'Meditation': 'glossary/meditation/',
+    'Ming Men (The Life Gate)': 'glossary/ming-men/',
+    'Life Gate': 'glossary/ming-men/',
+    'Neigong': 'glossary/neigong/',
+    'Qigong': 'glossary/qigong/',
+    'Qi': 'glossary/qi/',
+    'San Bao': 'glossary/san-bao/',
+    'Three Treasures': 'glossary/san-bao/',
+    'San Guan (The Three Gates)': 'glossary/san-guan/',
+    'Three Gates': 'glossary/san-guan/',
+    'Shen': 'glossary/shen/',
+    'Song': 'glossary/song/',
+    'Tai Chi': 'glossary/tai-chi/',
+    'Tai Chi Styles': 'glossary/tai-chi-styles/',
+    'Wuji': 'glossary/wuji/',
+    'Wu Xing': 'glossary/wu-xing/',
+    'Xing, Yi, Qi': 'glossary/xing-yi-qi/',
+    'Form, Intention, Qi': 'glossary/xing-yi-qi/',
+    'Yin–Yang': 'glossary/yin-yang/',
+    'Zhan Zhuang': 'glossary/zhan-zhuang/'
+  } %}
+
   {# Organization + WebSite (site-wide) #}
   <script type="application/ld+json">
   {
@@ -35,6 +69,29 @@
   }
   </script>
 
+  {% if page and page.meta and page.meta.english %}
+  {# DefinedTerm schema for glossary entries #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "@id": "{{ config.site_url }}{{ page.url }}#term",
+    "name": "{{ page.meta.english | default(page.title) }}",
+    "description": "{{ page.meta.description }}",
+    "termCode": "{{ page.meta.chinese | default('') }}",
+    "inDefinedTermSet": {
+      "@type": "DefinedTermSet",
+      "@id": "{{ config.site_url }}glossary/#set",
+      "name": "WikiQigong Glossary"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "{{ config.site_url }}#website"
+    }
+  }
+  </script>
+  {% endif %}
+
   {% if page and page.meta and page.meta.type %}
   {# Article schema for pillar/concept/practice pages #}
   <script type="application/ld+json">
@@ -56,6 +113,15 @@
       "@type": "WebPage",
       "@id": "{{ page.canonical_url }}"
     },
+    {% if page.meta.related %}
+    "about": [
+      {% for item in page.meta.related %}
+      {% if item.concept in term_map %}
+      { "@id": "{{ config.site_url }}{{ term_map[item.concept] }}#term" }{{ "," if not loop.last else "" }}
+      {% endif %}
+      {% endfor %}
+    ],
+    {% endif %}
     "inLanguage": "en"
   }
   </script>
