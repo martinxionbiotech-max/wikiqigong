@@ -21,7 +21,9 @@ page that connects to the concepts around it.
 | [Yin–Yang](yin-yang.md) | 陰陽 | yīn yáng | complementary opposites |
 | [Jing](jing.md) | 精 | jīng | essence; constitutional reserve |
 | [Shen](shen.md) | 神 | shén | spirit; mind; consciousness |
-| [Wuji](wuji.md) | 無極 | wújí | without limit; the undivided state |
+| [Qigong](qigong.md) | 氣功 | qìgōng | qi work; breath work |
+| [Tai Chi](tai-chi.md) | 太極 | tàijí | the supreme ultimate |
+| [Neigong](neigong.md) | 內功 | nèigōng | internal work |
 
 ## Practice
 
@@ -29,6 +31,25 @@ page that connects to the concepts around it.
 |------|---------|--------|---------|
 | [Breathing](breathing.md) | 呼吸 | hūxī | exhale–inhale; the breath |
 | [Meditation](meditation.md) | 靜坐 | jìngzuò | quiet sitting |
+| [Zhan Zhuang](zhan-zhuang.md) | 站樁 | zhànzhuāng | standing like a post |
+| [Rooting (Gen)](gen.md) | 根 | gēn | root; grounded stability |
+| [Sinking (Chen)](chen.md) | 沉 | chén | sinking; settling downward |
+
+## Philosophy
+
+| Term | Chinese | Pinyin | Meaning |
+|------|---------|--------|---------|
+| [Wu Xing](wu-xing.md) | 五行 | wǔxíng | the five phases |
+| [Balance](balance.md) | 平衡 | pínghéng | balance; equilibrium |
+| [Dao Yin](dao-yin.md) | 導引 | dǎoyǐn | guiding and pulling |
+| [Song](song.md) | 鬆 | sōng | loose; relaxed release |
+| [San Bao](san-bao.md) | 三寶 | sānbǎo | the three treasures |
+| [Wuji](wuji.md) | 無極 | wújí | without limit; the undivided state |
+
+## Tradition
+
+| Term | Chinese | Pinyin | Meaning |
+|------|---------|--------|---------|
 | [Tai Chi Styles](tai-chi-styles.md) | 太極拳式 | tàijíquán shì | the five family lineages |
 
 ---
@@ -38,12 +59,16 @@ page that connects to the concepts around it.
 These concepts are not isolated. The most important links:
 
 - **The three treasures** — [Jing](jing.md) → [Qi](qi.md) → [Shen](shen.md):
-  the classical chain of refinement (essence → energy → spirit).
+  the classical chain of refinement (essence → energy → spirit). Together they
+  are the [San Bao](san-bao.md).
 - **The three regulations** — body, [breath](breathing.md), and
   [mind](meditation.md): the method of every practice.
 - **The center** — [Dantian](dantian.md) stores [qi](qi.md), anchors
   [breath](breathing.md), and grounds [meditation](meditation.md).
 - **The frame** — [Yin–Yang](yin-yang.md) describes the dynamic balance that
-  both tai chi and qigong express through the body.
+  both tai chi and qigong express through the body; [Wu Xing](wu-xing.md)
+  extends it into the five phases.
+- **The foundation** — [Song](song.md) (release) → [Chen](chen.md) (sinking) →
+  [Gen](gen.md) (rooting): the chain that grounds every stance.
 
 More entries are added steadily as the site grows.

@@ -3,7 +3,7 @@ title: "Tai Chi Principles: The Six Ideas Behind Every Movement"
 slug: "tai-chi-principles"
 type: "pillar"
 category: "tai-chi"
-description: "Tai chi is built on six principles — relaxation, rooting, whole-body movement, continuity, yin–yang shifting, and mind-leading. Learn each one, why it matters, and how to feel it."
+description: "Tai chi rests on six principles — song, rooting, whole-body movement, continuity, yin–yang shifting, and mind leading body. Learn each and how to feel it."
 chinese: "太極拳理"
 pinyin: "tàijí quánlǐ"
 literal: "tai chi principles / tai chi theory"
@@ -279,6 +279,18 @@ You can feel every principle right now, no form required. Here is a five-minute
 
 That five minutes *is* tai chi practice — the form is simply this seed extended
 into a long, flowing sequence.
+
+---
+
+## Who should be cautious
+
+Tai chi is gentle and broadly safe, but the same good sense applies:
+
+- If you have balance, joint, or knee issues, keep stances higher and practice
+  near support or with a teacher who can adapt movements.
+- If you have a cardiovascular or respiratory condition, check with a
+  healthcare professional before starting.
+- If you feel dizzy or unsteady, practice near a wall and shift weight slowly.
 
 ---
 

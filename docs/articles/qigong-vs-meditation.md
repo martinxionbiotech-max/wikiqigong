@@ -141,6 +141,18 @@ They are two expressions of one skill: **learning to be present.**
 
 ---
 
+## Who should be cautious
+
+Both are generally safe, but a note for honesty:
+
+- Some people find intense breath focus or long sitting uncomfortable; if so,
+  shorten sessions and go gently.
+- Meditation and qigong are supportive practices, not substitutes for
+  professional mental-health care.
+- If a practice causes distress, dizziness, or discomfort, stop and reconsider.
+
+---
+
 ## Where to go next
 
 - [What Is Qigong?](../articles/what-is-qigong.md) — the moving practice.

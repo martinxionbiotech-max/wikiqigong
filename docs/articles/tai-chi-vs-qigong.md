@@ -3,7 +3,7 @@ title: "Tai Chi vs Qigong: What's the Difference?"
 slug: "tai-chi-vs-qigong"
 type: "comparison"
 category: "comparison"
-description: "Tai chi and qigong are often confused. Tai chi is a martial art practiced slowly; qigong is a health practice with no martial component. A clear, honest comparison."
+description: "Tai chi and qigong are often confused. Tai chi is a martial art practiced slowly; qigong is a health practice with no martial component."
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
@@ -159,6 +159,17 @@ As always: these are practices, not treatments. Neither cures disease.
 
 They are two doors into the same house. The house is the same body of Chinese
 mind–body knowledge; only the doorway differs.
+
+---
+
+## Who should be cautious
+
+Both practices are gentle and broadly safe, but the same sense applies:
+
+- If you have a medical condition — especially balance, joint, cardiovascular,
+  or respiratory — check with a healthcare professional before starting.
+- Start gradually and practice near support if balance is a concern.
+- Stop anything that causes pain, dizziness, or breathlessness.
 
 ---
 

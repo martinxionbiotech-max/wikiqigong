@@ -1,0 +1,76 @@
+# WikiQigong
+
+WikiQigong is a clear English guide to Tai Chi, Qigong, and Chinese mind–body
+practices. Every concept is presented with its Chinese characters, pinyin,
+literal meaning, honest history, and a grounded modern explanation — plus a
+strict separation of historical fact, traditional interpretation, and modern
+scientific reading.
+
+> This file helps AI assistants and search engines discover and cite the site's
+> most important pages. Each page carries Article + FAQPage structured data.
+
+## Core articles
+
+- [What Is Qigong?](https://wikiqigong.com/articles/what-is-qigong/): The parent
+  practice — gentle movement, breathing, and attention. Includes a safe
+  5-minute first session.
+- [What Is Tai Chi?](https://wikiqigong.com/articles/what-is-tai-chi/): The
+  martial sibling — slow form and internal method, built on song and rooting.
+- [Qigong Principles](https://wikiqigong.com/articles/qigong-principles/): The
+  three regulations — body, breath, and mind.
+- [Tai Chi Principles](https://wikiqigong.com/articles/tai-chi-principles/): The
+  core ideas — song, rooting, yin–yang, and continuity.
+- [The Three Treasures](https://wikiqigong.com/articles/three-treasures/): Jing,
+  qi, and shen — the classical refinement chain.
+- [Dao Yin](https://wikiqigong.com/articles/dao-yin/): The ancient ancestor of
+  qigong — "guiding and pulling."
+- [Song (Relaxed Release)](https://wikiqigong.com/articles/song/): The
+  foundational quality of soft, open, tension-free structure.
+- [Tai Chi Five Styles](https://wikiqigong.com/articles/tai-chi-five-styles/):
+  Chen, Yang, Wu, Wu (Hao), and Sun lineages.
+- [Wuji (The Uncarved State)](https://wikiqigong.com/articles/wuji/): The
+  undivided stillness before movement.
+- [Neigong (The Internal Work)](https://wikiqigong.com/articles/neigong/): The
+  hidden layer — structure, breath, and attention beneath movement.
+
+## Practice guides
+
+- [Baduanjin](https://wikiqigong.com/articles/baduanjin/): The Eight Pieces of
+  Brocade — the world's most practiced qigong routine.
+- [Zhan Zhuang](https://wikiqigong.com/articles/zhan-zhuang/): Standing
+  meditation — the still form that builds rooting and song.
+- [Qigong Breathing](https://wikiqigong.com/articles/qigong-breathing/): Slow,
+  abdominal breathing — the engine of the practice.
+- [Rooting (Connection to the Ground)](https://wikiqigong.com/articles/rooting/):
+  Gen (根) — grounded stability, the foundation of balance.
+
+## Comparisons
+
+- [Tai Chi vs Qigong](https://wikiqigong.com/articles/tai-chi-vs-qigong/): How
+  the martial and health practices differ and overlap.
+- [Qigong vs Yoga](https://wikiqigong.com/articles/qigong-vs-yoga/): Two
+  mind–body traditions compared.
+- [Qigong vs Meditation](https://wikiqigong.com/articles/qigong-vs-meditation/):
+  Movement + attention vs stillness of attention.
+
+## Glossary (knowledge graph)
+
+- [Qi](https://wikiqigong.com/glossary/qi/) — breath; air; vital energy
+- [Dantian](https://wikiqigong.com/glossary/dantian/) — cinnabar field; center of gravity
+- [Yin–Yang](https://wikiqigong.com/glossary/yin-yang/) — complementary opposites
+- [Jing](https://wikiqigong.com/glossary/jing/) — essence; constitutional reserve
+- [Shen](https://wikiqigong.com/glossary/shen/) — spirit; mind; consciousness
+- [Wuji](https://wikiqigong.com/glossary/wuji/) — without limit; the undivided state
+- [Wu Xing](https://wikiqigong.com/glossary/wu-xing/) — the five phases
+- [San Bao](https://wikiqigong.com/glossary/san-bao/) — the three treasures
+- [Zhan Zhuang](https://wikiqigong.com/glossary/zhan-zhuang/) — standing like a post
+- [Gen (Rooting)](https://wikiqigong.com/glossary/gen/) — root
+- [Chen (Sinking)](https://wikiqigong.com/glossary/chen/) — sinking
+- [Song](https://wikiqigong.com/glossary/song/) — relaxed release
+
+## Standards
+
+- [Editorial Standards](https://wikiqigong.com/editorial-standards/): The
+  E-E-A-T quality contract — health wording, three registers, citation policy.
+- [Medical Disclaimer](https://wikiqigong.com/disclaimer/): This is an
+  educational resource, not medical advice.

@@ -3,7 +3,7 @@ title: "Song: The Art of Relaxed Release"
 slug: "song"
 type: "concept"
 category: "tai-chi"
-description: "Song (鬆), 'relaxed release,' is the foundational quality of tai chi and qigong — soft and open without collapsing. Learn what it means and how to cultivate it."
+description: "Song (鬆), 'relaxed release,' is the foundational quality of tai chi and qigong — soft and open without collapsing. Learn how to cultivate it."
 chinese: "鬆"
 pinyin: "sōng"
 literal: "loose; relaxed; to release"
@@ -67,6 +67,36 @@ to keep.
 
 ---
 
+## The three registers
+
+### Historical fact
+
+Song has been a central instruction in the Chinese internal arts for
+centuries. The classical tai chi texts — the poems and treatises attributed to
+figures like Zhang Sanfeng and Wang Zongyue, whose precise authorship is
+debated — return again and again to the same injunctions: relax the waist,
+sink the shoulders, drop the elbows, and never use stiff force. These texts
+were compiled roughly from the Ming to the Qing dynasty, and "song" in them is
+a technical term, not a casual suggestion.
+
+### Traditional interpretation
+
+Traditionally, song is understood as the condition that lets
+[qi](../glossary/qi.md) flow freely. A tense body, in this view, "blocks" qi;
+a song body "lets it through." Classical teaching places song first: without
+song there is no sinking, no rooting, no smooth movement — the other qualities
+are said to follow from it.
+
+### Modern explanation
+
+Read in modern terms, song is the deliberate reduction of *unnecessary*
+muscular tension while keeping postural structure intact. This is directly
+observable: relaxed, aligned movement is more efficient, less fatiguing, and
+more responsive than braced, tense movement. Song is, in effect, the skill of
+moving without holding — a trainable motor habit, not a mystical state.
+
+---
+
 ## Why song is the foundation
 
 In tai chi and qigong, almost everything rests on song:
@@ -124,6 +154,16 @@ sensation of soft, grounded readiness.
    letting-go, not an effort.
 3. **Thinking instead of feeling.** Song is embodied. You learn it in the
    body, through standing and slow movement, not by reasoning.
+
+## Who should be cautious
+
+Song itself is gentle — it is the *absence* of strain. But a note for the
+honest practitioner:
+
+- If you have joint, back, or balance issues, work within a pain-free range
+  and practice near support.
+- If "relaxing" turns into collapsing, re-establish your alignment first —
+  slumping is not song, and it can strain the lower back over time.
 
 ---
 

@@ -182,6 +182,19 @@ Every style is an expression of these; none of them requires belief in
 
 ---
 
+## Who should be cautious
+
+All five styles are low-impact and adaptable, but a note for honesty:
+
+- **Chen style** is the most physically demanding — its low stances and
+  explosive releases may not suit everyone, especially knees.
+- If you have joint or balance issues, choose a gentler style (Yang or Sun)
+  and keep stances high.
+- As with any movement practice, check with a healthcare professional if you
+  have a medical condition, and stop if anything hurts.
+
+---
+
 ## Where to go next
 
 - [What Is Tai Chi?](what-is-tai-chi.md) — the art these five styles belong to.

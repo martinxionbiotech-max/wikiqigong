@@ -149,6 +149,17 @@ traditional teaching places it at the start.
 
 ---
 
+## Who should be cautious
+
+Wuji is simply quiet standing, so it is gentle by nature. A note for honesty:
+
+- If you have balance or blood-pressure issues, stand near a wall or chair, or
+  practice seated.
+- If standing still causes dizziness or discomfort, sit instead — the stillness
+  is what matters, not the posture.
+
+---
+
 ## Where to go next
 
 - [What Is Tai Chi?](../articles/what-is-tai-chi.md) — the art that begins in

@@ -210,6 +210,18 @@ routines, the forms, the lineages — is a variation on this three-part seed.
 
 ---
 
+## Who should be cautious
+
+The three regulations are gentle, but a responsible note:
+
+- If you have respiratory or cardiovascular conditions, check with a
+  healthcare professional before breath work.
+- If slow breathing causes dizziness or discomfort, ease back to natural
+  breathing.
+- If you have balance problems, practice seated or near support.
+
+---
+
 ## Where to go next
 
 - **[What Is Qigong?](what-is-qigong.md)** — the parent concept.

@@ -3,7 +3,7 @@ title: "Dao Yin: The Ancient Root of Qigong"
 slug: "dao-yin"
 type: "concept"
 category: "qigong"
-description: "Dao Yin (導引), 'guiding and pulling,' is the 2,000-year-old art of therapeutic movement and breathing — the direct ancestor of modern qigong. Learn its history and how it survives today."
+description: "Dao Yin (導引), 'guiding and pulling,' is the 2,000-year-old art of therapeutic movement and breathing — the direct ancestor of qigong."
 chinese: "導引"
 pinyin: "dǎoyǐn"
 literal: "guiding and pulling"
@@ -61,6 +61,35 @@ breath, working together.
 
 That is the same core insight behind every practice on this site — and dao yin
 is where it was first written down.
+
+---
+
+## The three registers
+
+### Historical fact
+
+Dao yin is among the oldest documented movement-and-breath practices in China.
+The Mawangdui silk manuscript (sealed around 168 BCE) shows painted figures
+performing stretches and breathing postures, and the term appears in the
+*Huangdi Neijing*, the foundational medical text compiled around the Han
+dynasty. The evidence is archaeological and textual — real artifacts, not
+legend.
+
+### Traditional interpretation
+
+Traditionally, dao yin was understood as a way to guide qi through the body's
+channels while stretching the limbs — hence "guiding and pulling." Classical
+medical thinking paired it with breath regulation and massage as a method for
+keeping the body supple and the flow of qi smooth, and for supporting
+longevity.
+
+### Modern explanation
+
+Read in modern terms, dao yin is low-impact therapeutic stretching coordinated
+with slow breathing. The "guiding" maps onto focused attention and breath
+control; the "pulling" maps onto gentle, progressive stretching. Neither
+requires a belief in qi — the movements and breathing work as ordinary,
+beneficial exercise.
 
 ---
 
@@ -143,6 +172,18 @@ breathing) are well studied *as* qigong:
 The honest summary: dao yin is not a medical treatment, but it is a sound,
 gentle movement practice whose modern descendants have a growing evidence
 base.
+
+---
+
+## Who should be cautious
+
+Dao yin is gentle by design, but a responsible note:
+
+- If you have joint, muscle, or back conditions, keep stretches within a
+  pain-free range and avoid bouncing or forcing.
+- If you have balance problems, do the standing movements near a wall or
+  chair, or seated.
+- If any movement causes pain, dizziness, or breathlessness, stop and adjust.
 
 ---
 

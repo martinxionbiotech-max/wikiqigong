@@ -63,6 +63,14 @@ air deep into the lungs and gently pushes the belly outward.
 Contrast this with the shallow, upper-chest breathing that comes with stress —
 quick, tight, shoulders-up. Qigong breathing is the deliberate opposite.
 
+| Feature | Stressed (chest) breathing | Qigong (abdominal) breathing |
+|---------|----------------------------|------------------------------|
+| **Muscle** | Chest and neck | Diaphragm |
+| **Rhythm** | Fast, shallow | Slow, full |
+| **Path** | Often mouth | Nose |
+| **Belly** | Still or held in | Softens and expands |
+| **Effect** | Arousal, tension | Calm, relaxation |
+
 ---
 
 ## Why the abdomen (and the dantian)

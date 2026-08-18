@@ -3,7 +3,7 @@ title: "The Three Treasures: Jing, Qi, and Shen"
 slug: "three-treasures"
 type: "concept"
 category: "philosophy"
-description: "Jing (essence), Qi (energy), and Shen (spirit) — the 'Three Treasures' — map body, energy, and mind as one continuum. A clear, grounded guide to the classic framework."
+description: "Jing (essence), Qi (energy), and Shen (spirit) — the 'Three Treasures' — map body, energy, and mind as one continuum. A grounded guide."
 chinese: "三寶"
 pinyin: "sān bǎo"
 literal: "three treasures"
@@ -58,6 +58,37 @@ cultivates. This page explains them plainly.
 
 Read from top to bottom, they move from the most dense and physical (jing) to
 the most subtle and mental (shen). That is the whole framework.
+
+---
+
+## The three registers
+
+### Historical fact
+
+The "three treasures" framework appears across classical Chinese medicine and
+Daoist inner-alchemy (*neidan*) texts, where jing, qi, and shen are used to
+describe the layers of a human being and the stages of internal cultivation.
+The terminology is old — the individual concepts of jing and qi appear in
+early medical texts such as the *Huangdi Neijing* (compiled around the Han
+dynasty) — though the precise systematization of the three as a single chain
+varies by tradition and period.
+
+### Traditional interpretation
+
+Traditionally, the three treasures are understood as a ladder of refinement:
+jing (the densest, most physical) refines into qi, and qi into shen (the most
+subtle, most mental). Practice — care for the body, regulation of breath, and
+training of attention — was described as the engine of this refinement. The
+aim was a body that is sound, a vitality that is abundant, and a mind that is
+clear and settled.
+
+### Modern explanation
+
+Read without metaphysics, the three treasures are a pre-scientific model of
+the mind–body continuum: jing corresponds to physical structure and reserve,
+qi to physiological function and energy, shen to consciousness and awareness.
+The framework's lasting value is that it insists these layers are *connected*
+— a view modern mind–body research increasingly shares.
 
 ---
 
@@ -128,6 +159,17 @@ qigong session:
 
 That is it. The three treasures are not a mystery — they are a reminder to
 train body, breath, and mind together.
+
+---
+
+## Who should be cautious
+
+The three treasures are a conceptual framework, not a physical exercise, so
+there is little to be cautious about in the ideas themselves. One practical
+note: traditional texts sometimes discuss conserving jing in ways that touch
+on diet, sexuality, and lifestyle. Treat those as cultural-historical
+material, not medical guidance — and for anything touching your health,
+consult a qualified professional.
 
 ---
 

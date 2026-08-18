@@ -143,6 +143,18 @@ and mind are one system worth training together.
 
 ---
 
+## Who should be cautious
+
+Both are generally safe when practiced sensibly, but a note for honesty:
+
+- Yoga ranges to vigorous — choose a style matching your fitness, and be
+  cautious with deep stretches or inversions if you have joint or spinal
+  issues, or if you are pregnant.
+- Qigong is gentler, but the same rule applies: check with a healthcare
+  professional if you have a medical condition, and stop anything that hurts.
+
+---
+
 ## Where to go next
 
 - [What Is Qigong?](../articles/what-is-qigong.md) — the Chinese practice.
