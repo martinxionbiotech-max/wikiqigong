@@ -26,15 +26,20 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 ## Priority queue (foundation phase, Days 1–15)
 
 ### Articles
-1. **What Is Qi? (deep-dive concept article)** — a full pillar piece on qi,
-   expanding the existing glossary entry into a standalone article.
-2. **What Is the Dantian? (deep-dive)** — the lower abdomen as center of
-   gravity and breath anchor.
+1. **Yin–Yang (deep-dive concept article)** — expand the existing `yin-yang`
+   glossary entry into a standalone pillar piece: complementary opposites in
+   movement, the interplay of soft/hard, empty/full, and how tai chi embodies
+   it.
+2. **Baduanjin (deepen to full routine guide)** — deepen the existing
+   `baduanjin` article into a step-by-step practice guide (eight movements,
+   each with name, movement, breath, and what to notice).
 
 ### Glossary entries (one per concept, full schema)
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-20: what-is-qi (article), what-is-dantian (article) — foundation
+  deep-dives, both expanding existing glossary entries.
 - 2026-08-19: tai-chi-beginners-first-session (article), tai-chi-vs-qigong
   deepened (article).
 - 2026-08-18 (day): san-guan, xing-yi-qi, ming-men, lao-gong (glossary).
