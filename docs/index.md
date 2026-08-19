@@ -46,7 +46,10 @@ practitioners who want the real thing rather than the mystified version.
 
 1. [What Is Qigong?](articles/what-is-qigong.md) — the foundation practice.
 2. [What Is Tai Chi?](articles/what-is-tai-chi.md) — the martial sibling.
-3. [Tai Chi for Beginners](articles/tai-chi-beginners-first-session.md) — a
+3. [What Is Qi?](articles/what-is-qi.md) — the concept behind it all.
+4. [What Is the Dantian?](articles/what-is-dantian.md) — the center you
+   breathe into.
+5. [Tai Chi for Beginners](articles/tai-chi-beginners-first-session.md) — a
    safe, simple 20-minute first session.
 4. [Qigong Principles](articles/qigong-principles.md) — the three pillars.
 5. [Tai Chi Principles](articles/tai-chi-principles.md) — the six ideas.
