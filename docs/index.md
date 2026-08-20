@@ -49,10 +49,12 @@ practitioners who want the real thing rather than the mystified version.
 3. [What Is Qi?](articles/what-is-qi.md) — the concept behind it all.
 4. [What Is the Dantian?](articles/what-is-dantian.md) — the center you
    breathe into.
-5. [Tai Chi for Beginners](articles/tai-chi-beginners-first-session.md) — a
+5. [Yin and Yang](articles/yin-yang.md) — the complementary opposites behind
+   the movement.
+6. [Tai Chi for Beginners](articles/tai-chi-beginners-first-session.md) — a
    safe, simple 20-minute first session.
-4. [Qigong Principles](articles/qigong-principles.md) — the three pillars.
-5. [Tai Chi Principles](articles/tai-chi-principles.md) — the six ideas.
+7. [Qigong Principles](articles/qigong-principles.md) — the three pillars.
+8. [Tai Chi Principles](articles/tai-chi-principles.md) — the six ideas.
 
 **Looking for a specific term?** Browse the [Glossary](glossary/index.md) —
 every important concept, from [Qi](glossary/qi.md) to
