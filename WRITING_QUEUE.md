@@ -26,18 +26,17 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 ## Priority queue (foundation phase, Days 1–15)
 
 ### Articles
-1. **Yin–Yang (deep-dive concept article)** — expand the existing `yin-yang`
-   glossary entry into a standalone pillar piece: complementary opposites in
-   movement, the interplay of soft/hard, empty/full, and how tai chi embodies
-   it.
-2. **Baduanjin (deepen to full routine guide)** — deepen the existing
-   `baduanjin` article into a step-by-step practice guide (eight movements,
-   each with name, movement, breath, and what to notice).
+
+*(Foundation deep-dive queue is empty — see Completed below.)*
 
 ### Glossary entries (one per concept, full schema)
 
+*(None queued this night; new concepts to be added alongside upcoming articles.)*
+
 ## Completed (this batch, keep for reference)
 
+- 2026-08-21: yin-yang (pillar article), baduanjin deepened to full routine
+  guide (article).
 - 2026-08-20: what-is-qi (article), what-is-dantian (article) — foundation
   deep-dives, both expanding existing glossary entries.
 - 2026-08-19: tai-chi-beginners-first-session (article), tai-chi-vs-qigong
