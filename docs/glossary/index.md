@@ -30,6 +30,7 @@ page that connects to the concepts around it.
 | Term | Chinese | Pinyin | Meaning |
 |------|---------|--------|---------|
 | [Breathing](breathing.md) | 呼吸 | hūxī | exhale–inhale; the breath |
+| [Liu Zi Jue](liu-zi-jue.md) | 六字訣 | liù zì jué | six healing sounds |
 | [Meditation](meditation.md) | 靜坐 | jìngzuò | quiet sitting |
 | [Zhan Zhuang](zhan-zhuang.md) | 站樁 | zhànzhuāng | standing like a post |
 | [Rooting (Gen)](gen.md) | 根 | gēn | root; grounded stability |
