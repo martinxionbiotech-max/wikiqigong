@@ -35,6 +35,8 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-23: meridians (article) + jingluo (glossary); wu-qin-xi (article +
+  glossary) — filled meridian concept gap + "oldest named qigong" practice gap.
 - 2026-08-22: liu-zi-jue (Six Healing Sounds) — new article + glossary entry.
 - 2026-08-21: yin-yang (pillar article), baduanjin deepened to full routine
   guide (article).
