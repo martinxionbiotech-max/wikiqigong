@@ -11,7 +11,7 @@ related:
   - { concept: "Tai Chi", relation: "trains" }
   - { concept: "Dantian", relation: "centers" }
   - { concept: "Wu Xing", relation: "maintained through" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Balance
@@ -41,13 +41,27 @@ Traditionally, health is balance; illness is imbalance. Practice — tai chi,
 qigong, meditation — is understood as the *restoration* of balance: smoothing
 what is stagnant, calming what is scattered, strengthening what is weak.
 
+The tradition recognizes two faces of balance, worth keeping distinct:
+
+| Face of balance | Chinese | Meaning in practice |
+|-----------------|---------|---------------------|
+| **Physical balance** | 平衡 *pínghéng* | The body steady over its base, weight rooted and even |
+| **Dynamic equilibrium** | 中和 *zhōnghé* | The middle way — yin and yang held in proportion, neither in excess |
+
+Most modern tai chi training works the first; the classical texts point to the
+second.
+
 ## Modern explanation
 
 The modern reading is direct and well-supported. Physical balance is
 measurable, trainable, and central to fall prevention — the strongest evidence
-base in the tai chi literature. And the *dynamic* quality of balance — holding
-steady through continuous adjustment, not rigidity — maps closely onto modern
-concepts of homeostasis and of the body's constant self-regulation.
+base in the tai chi literature (see [What Is Tai Chi?](../articles/what-is-tai-chi.md)).
+And the *dynamic* quality of balance — holding steady through continuous
+adjustment, not rigidity — maps closely onto modern concepts of homeostasis
+and of the body's constant self-regulation.
+
+This is why balance is the honest bridge between the traditional and the
+scientific: the word points to the same observable skill in both registers.
 
 ## Related concepts
 

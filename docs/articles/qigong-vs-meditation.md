@@ -7,7 +7,7 @@ description: "Qigong and meditation both train attention — one through movemen
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "one side of" }
   - { concept: "Meditation", relation: "other side of" }
@@ -28,7 +28,7 @@ faq:
   - q: "Which is better for anxiety?"
     a: "Both have been studied for stress and anxiety reduction, with meditation generally having the larger and stronger evidence base. Neither is a treatment — they are practices that may support well-being."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Qigong vs Meditation
@@ -42,6 +42,19 @@ updated: "2026-08-16"
 Qigong is often called "moving meditation," and the phrase captures a real
 truth — but it also blurs a real distinction. This page explains how the two
 relate, where they overlap, and how to choose.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| Shared skill | Both train steadying attention — the "place, drift, return" cycle |
+| Meditation | Training the mind, using stillness |
+| Qigong | Training mind *and* body together, using movement and breath |
+| Stronger evidence base | Meditation (for attention and stress) |
+| Suits restless people | Qigong (adds movement to attention) |
+| Can you do both? | Yes — they are companions, not competitors |
 
 ---
 

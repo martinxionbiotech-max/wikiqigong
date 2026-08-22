@@ -7,7 +7,7 @@ description: "Tai chi and qigong are often confused. Tai chi is a martial art pr
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-19"
+date_modified: "2026-08-22"
 related:
   - { concept: "Tai Chi", relation: "one side of" }
   - { concept: "Qigong", relation: "other side of" }
@@ -28,7 +28,7 @@ faq:
   - q: "Does tai chi require fitness or flexibility?"
     a: "No. Tai chi is low-impact and adaptable to almost any fitness level, which is part of why it is so widely studied in older adults. Both tai chi and qigong meet you where you are."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Tai Chi vs Qigong
@@ -44,6 +44,19 @@ People constantly confuse tai chi and qigong, and for good reason: they look
 similar, they share a philosophy, and they are often taught together. But the
 distinction matters, because it changes what you should practice and why. This
 page gives you the honest, complete comparison.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| Tai chi | A martial art practiced as a slow, continuous form |
+| Qigong | A health practice of breath, movement, and attention (no martial component) |
+| Best for balance & coordination | Tai chi (stronger fall-prevention evidence) |
+| Easiest, most flexible start | Qigong (can be done seated or still) |
+| Do they overlap? | Heavily — same breath, attention, and qi foundations |
+| Can you do both? | Yes — they complement each other well |
 
 ---
 

@@ -7,7 +7,7 @@ description: "Qigong breathing — slow, natural, abdominal breath — is the en
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Breathing", relation: "detailed guide to" }
   - { concept: "Dantian", relation: "centered on" }
@@ -28,7 +28,7 @@ faq:
   - q: "Can qigong breathing cure anxiety?"
     a: "No. Slow abdominal breathing may help activate the body's relaxation response and has been studied for stress — but it is not a cure or treatment for any condition."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Qigong Breathing
@@ -70,6 +70,36 @@ quick, tight, shoulders-up. Qigong breathing is the deliberate opposite.
 | **Path** | Often mouth | Nose |
 | **Belly** | Still or held in | Softens and expands |
 | **Effect** | Arousal, tension | Calm, relaxation |
+
+---
+
+## The three registers
+
+Breathing practice, too, is clearest in three layers.
+
+### Historical fact
+
+Breath regulation (*tiao xi*, 調息) has been central to Chinese health practice
+from its earliest records — it is the "guiding" half of [dao
+ yin](../glossary/dao-yin.md) and a pillar of qigong, daoyin, and the internal martial
+arts alike. The instruction to let the breath settle into the lower abdomen is
+very old.
+
+### Traditional interpretation
+
+Classically, the breath was understood as the vehicle that moves
+[qi](../glossary/qi.md). The instruction 氣沉丹田 (*qì chén dāntián*), "qi sinks
+to the dantian," describes guiding the breath — and with it, attention — down
+into the lower belly. In this framework, slow abdominal breathing "gathers" qi
+rather than scattering it.
+
+### Modern explanation
+
+Read without qi, "sinking the breath" is simply **diaphragmatic breathing**: the
+diaphragm descends, the belly softens, and the breath deepens and slows. This
+is the register where the physiology is concrete — slower breathing, higher
+heart-rate variability, and the relaxation response are all observable, and
+none of them require belief in qi.
 
 ---
 

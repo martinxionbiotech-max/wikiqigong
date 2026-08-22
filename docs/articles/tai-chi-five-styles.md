@@ -10,7 +10,7 @@ literal: "tai chi's five styles"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-17"
-date_modified: "2026-08-17"
+date_modified: "2026-08-22"
 related:
   - { concept: "Tai Chi", relation: "five family styles of" }
   - { concept: "Qigong", relation: "shares principles with" }
@@ -31,7 +31,7 @@ faq:
   - q: "Do I need to learn a specific style to get tai chi's health benefits?"
     a: "No. The health and balance benefits of tai chi have been studied across styles, and the core principles — relaxation, rooting, slow movement — are shared by all five. Choose the style you can learn well and practice consistently."
 status: "final"
-updated: "2026-08-17"
+updated: "2026-08-22"
 ---
 
 # Tai Chi Five Styles: Chen, Yang, Wu, Wu/Hao, and Sun
@@ -96,6 +96,33 @@ sports authorities created the **24-form** ("simplified tai chi"), condensing
 Yang-style movements into a short sequence anyone could learn. This is why
 "tai chi in the park" looks so uniform around the world — most of it is
 standardized Yang style.
+
+---
+
+## The three registers
+
+The five styles are clearest in three layers.
+
+### Historical fact
+
+All five trace to one place — **Chenjiagou** in Henan province — and form a
+verifiable family tree: Chen (17th century) → Yang (19th century) → Wu (吳) and
+Wu (武)/Hao (19th century) → Sun (early 20th century). The popular Zhang Sanfeng
+origin story is founding myth, not documented history.
+
+### Traditional interpretation
+
+Classically, the five styles were understood as different *expressions* of one
+internal method — the same cultivation of [qi](../glossary/qi.md), relaxation,
+and rootedness, adapted to different bodies and aims. Each style was a
+legitimate lineage, not a "better" or "worse" version.
+
+### Modern explanation
+
+Today the styles differ mainly in pace, posture, and physical demand — Chen is
+slow-and-fast with low stances, Yang is even and gentle, the two Wu styles are
+small and compact, Sun is upright and lively. All five train the same
+observable skills: balance, coordination, and relaxed whole-body movement.
 
 ---
 

@@ -10,7 +10,7 @@ literal: "qi work / breath work"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qi", relation: "cultivates" }
   - { concept: "Tai Chi", relation: "sibling practice of" }
@@ -33,7 +33,7 @@ faq:
   - q: "Do I need a teacher?"
     a: "A teacher is genuinely helpful for correcting posture and understanding the tradition, and is recommended when available. But the basic sitting exercise is safe to explore on your own, and many begin that way."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # What Is Qigong?
@@ -117,6 +117,21 @@ Modern qigong blends these into simple, health-focused routines that require
 no religious belief and no martial training. The most widely practiced set in
 the world today, **Baduanjin** ("Eight Pieces of Brocade"), was standardized in
 this modern period precisely so that anyone could learn it.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is it? | A Chinese system of gentle movement, breathing, and focused attention for health and calm |
+| Chinese name | 氣功 (*qìgōng*) — literally "qi work" or "breath work" |
+| Practice origin | Ancient — ingredients appear over 2,000 years ago (Daoist, medical, martial, Buddhist) |
+| Label origin | Modern — "qigong" popularized in the 1950s for public health |
+| Core method | The "three regulations": body (調身), breath (調息), mind (調心) together |
+| Four classic families | Health/medical, martial, scholarly, spiritual (most begin with the first two) |
+| Evidence strength | Promising but uneven; strongest for balance and psychological well-being |
+| Is it a treatment? | No — a wellness practice, not medicine |
 
 ---
 

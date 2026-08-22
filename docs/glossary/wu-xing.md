@@ -10,7 +10,7 @@ related:
   - { concept: "Yin–Yang", relation: "elaborates" }
   - { concept: "Qi", relation: "transforms through" }
   - { concept: "Balance", relation: "models" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Wu Xing
@@ -35,10 +35,17 @@ It became a core organizing logic of Chinese medicine and cosmology.
 
 ## Traditional interpretation
 
-The five phases relate through two cycles: **generation** (Wood feeds Fire,
-Fire creates Earth, Earth bears Metal, Metal collects Water, Water nourishes
-Wood) and **control** (each phase restrains another). Health was traditionally
-understood as these cycles in balance.
+The five phases relate through two cycles:
+
+| Cycle | Direction | Sequence |
+|-------|-----------|----------|
+| **Generation** (生 *shēng*) | Feeds, produces | Wood → Fire → Earth → Metal → Water → Wood |
+| **Control** (剋 *kè*) | Restrains, checks | Wood → Earth → Water → Fire → Metal → Wood |
+
+Health was traditionally understood as these cycles in balance — each phase
+supporting and checking the others. The system also mapped seasons,
+directions, organs, and emotions onto the five phases as a memory-and-classification
+device, not as a claim about anatomy.
 
 ## Modern explanation
 
@@ -46,6 +53,17 @@ Wu Xing is best read today as an early systems model — a way of describing
 interconnected, mutually influencing processes. Its modern value is
 conceptual, not physical: it teaches a habit of seeing relationships and
 cycles rather than isolated parts.
+
+Two of the five phases appear directly in tai chi and qigong vocabulary:
+
+- **Water** (水) is associated with stillness, cold, and the lower body — the
+  quality of [sinking](../glossary/chen.md) and storage.
+- **Fire** (火) is associated with activity, warmth, and the upper body — the
+  "heart-fire" (*xīn huǒ*) that practices like [Liu Zi Jue](../glossary/liu-zi-jue.md)
+  were traditionally said to "clear."
+
+These are mnemonic associations, not scientific claims — which is exactly how
+the five-phase system should be read.
 
 ## Related concepts
 

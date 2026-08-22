@@ -10,7 +10,7 @@ literal: "the three regulations of qigong"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "underlies" }
   - { concept: "Breathing", relation: "regulates" }
@@ -33,7 +33,7 @@ faq:
   - q: "How is qigong's method different from tai chi's?"
     a: "They share the same foundations, but qigong is typically simpler — single movements, routines, or stillness — with no martial component, while tai chi expresses these principles through a long, linked martial form."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Qigong Principles
@@ -43,6 +43,18 @@ updated: "2026-08-16"
 > — the "three regulations" (*santiao*, 三調). Qigong is not a specific
 > movement; it is the *skill of harmonizing these three*. Master the three
 > regulations and any qigong method becomes understandable.
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| The core idea | Qigong is not a set of movements — it is the skill of harmonizing body, breath, and mind |
+| The three regulations | Body (調身 *tiao shen*), breath (調息 *tiao xi*), mind (調心 *tiao xin*) |
+| What matters most | The *harmony* of the three, more than any single technique |
+| Does it need qi? | No — the three regulations are complete without any belief in qi |
+| Beginner's entry | Natural breathing + relaxed posture + gentle, returning attention |
+
+---
 
 Qigong is a big umbrella — hundreds of methods, some moving, some still. But
 underneath every one of them is a single, elegant structure. Classical and

@@ -10,7 +10,7 @@ literal: "root"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-18"
-date_modified: "2026-08-18"
+date_modified: "2026-08-22"
 related:
   - { concept: "Song", relation: "enables" }
   - { concept: "Chen (Sinking)", relation: "paired with" }
@@ -31,7 +31,7 @@ faq:
   - q: "Does rooting help balance and stability?"
     a: "Yes — a relaxed, aligned stance lowers your center of mass and improves static and dynamic stability. Balance training is one of the best-studied benefits of tai chi, and rooting is its foundation."
 status: "final"
-updated: "2026-08-18"
+updated: "2026-08-22"
 ---
 
 # Rooting: Connection to the Ground
@@ -78,6 +78,33 @@ When the body is relaxed and aligned, weight rests through the skeleton into
 the ground. This lowers your center of mass, broadens your base of support, and
 makes you genuinely harder to unbalance. That is rooting — measurable and
 trainable, no mysticism required.
+
+---
+
+## The three registers
+
+Rooting is clearest in three layers.
+
+### Historical fact
+
+Rooting runs throughout the Chinese internal martial arts, where classical
+teaching insisted that stability comes not from muscular force but from relaxed
+weight sinking downward. The paired instructions to release (*song*, 鬆) and
+sink (*chen*, 沉) appear across the classical literature of the internal arts.
+
+### Traditional interpretation
+
+Classically, rooting was described as the body's weight and [qi](../glossary/qi.md)
+settling into the lower body and the soles of the feet — giving the practitioner
+a stable, unshakable base. Teachers spoke of "rooting into the earth" and of an
+opponent's force being guided down into the ground rather than resisted.
+
+### Modern explanation
+
+Rooting is, mechanically, relaxed weight settling through an aligned skeleton
+into the feet — lowering the center of mass and broadening the base of support.
+These are the two factors that most directly improve physical stability, which
+is why rooting is a trainable balance skill with no mystical content required.
 
 ---
 

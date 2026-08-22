@@ -10,7 +10,7 @@ literal: "tai chi principles / tai chi theory"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Tai Chi", relation: "underlies" }
   - { concept: "Yin–Yang", relation: "expressed through" }
@@ -33,7 +33,7 @@ faq:
   - q: "Which principle should I learn first?"
     a: "Relaxation and rooting. Almost every other principle depends on them, and they are the two most common corrections a beginner receives."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Tai Chi Principles
@@ -44,6 +44,18 @@ updated: "2026-08-16"
 > mind-leading. None of them require believing in qi; all of them are
 > observable and testable. Master the principles, and the movements take care
 > of themselves.
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| Why so slow? | Slowness is a training tool, not the goal — it reveals what fast movement hides |
+| The six principles | Relaxation, rooting, whole-body movement, continuity, yin–yang shifting, mind-leading |
+| The first two to learn | Relaxation (*song*) and rooting — everything else depends on them |
+| Does it need qi? | No — all six are observable and testable without belief in qi |
+| Health mechanism | Slow weight shifts + relaxed structure = balance and fall-prevention training |
+
+---
 
 When you watch someone do tai chi, you see slow, graceful arms tracing shapes
 in the air. What you do not see is the *work* — the six principles being

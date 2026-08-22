@@ -10,7 +10,7 @@ literal: "Supreme Ultimate fist / Grand Ultimate boxing"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "sibling practice of" }
   - { concept: "Qi", relation: "guides movement in" }
@@ -33,7 +33,7 @@ faq:
   - q: "How long does it take to learn?"
     a: "A short beginner form can be learned in a few months with regular practice. Mastery, however, is a lifelong practice — the depth of the art unfolds over years, which is part of its appeal."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # What Is Tai Chi?
@@ -81,6 +81,21 @@ confusion: it hides the fact that this was, and is, a combat system.
 > older Wade–Giles romanization; "taiji" is the modern pinyin. The site uses
 > "tai chi" because it is the form most English readers search for, but the
 > accurate pronunciation is closer to "tie-jee."
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is it? | A Chinese martial art practiced as a slow, continuous sequence of movements |
+| Chinese name | 太極拳 (*tàijíquán*) — literally "Supreme Ultimate fist" |
+| Documented origin | Chen Village (Chenjiagou), Henan, 17th century |
+| Legendary origin | Zhang Sanfeng (founding myth, not history) |
+| Five family styles | Chen, Yang, Wu (吳), Wu (武)/Hao, Sun |
+| Most practiced | Yang style and its simplified 24-form (standardized 1956) |
+| Evidence strength | Strong for balance and fall prevention in older adults |
+| Is it a treatment? | No — a practice, not medicine |
 
 ---
 

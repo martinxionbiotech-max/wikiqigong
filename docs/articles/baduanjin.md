@@ -10,7 +10,7 @@ literal: "eight pieces of brocade"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-21"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "classic routine of" }
   - { concept: "Breathing", relation: "coordinates with" }
@@ -32,7 +32,7 @@ faq:
   - q: "How many repetitions should I do of each movement?"
     a: "A common beginner's target is four to eight repetitions per movement, done slowly, for a total of 10–15 minutes. Consistency matters more than counting; stop early if anything feels strained."
 status: "final"
-updated: "2026-08-21"
+updated: "2026-08-22"
 ---
 
 # Baduanjin: The Eight Pieces of Brocade
@@ -78,6 +78,39 @@ health. This is the same public-health impulse that produced the simplified
 
 So, as with [qigong](../glossary/qigong.md) generally: the *practice* is old,
 the *standardized package* is modern.
+
+---
+
+## The three registers
+
+Baduanjin is clearest in three separated layers — the same three registers we
+apply to every Chinese concept on this site.
+
+### Historical fact
+
+Stretching-and-breathing routines in the Baduanjin family appear in Chinese
+sources going back roughly a thousand years, linked to both Daoist health
+practice and military conditioning. The clean, eight-movement set practiced
+worldwide today is a **modern standardization** — codified in the mid-20th
+century for public health, in the same spirit that produced the simplified
+24-form tai chi.
+
+### Traditional interpretation
+
+Classically, each movement was named for what it was believed to *regulate* —
+the three burners (三焦), the spleen and stomach (脾胃), "heart-fire" (心火),
+the kidneys and waist (腎腰), and the hundred illnesses (百病). These names are
+a **traditional mnemonic system**, not anatomical claims: they map movements
+onto the organ-and-channel framework of Chinese medicine as a memory aid for
+practitioners.
+
+### Modern explanation
+
+Read without the organ framework, Baduanjin is a gentle, whole-body mobility
+and coordination routine: each movement stretches and mobilizes a different
+part of the body while the breath and attention stay engaged. That is
+precisely why it is studied for flexibility, balance, and sleep — and why it
+needs no belief system to be useful.
 
 ---
 

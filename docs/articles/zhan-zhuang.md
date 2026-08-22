@@ -10,7 +10,7 @@ literal: "standing like a post"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "still form of" }
   - { concept: "Dantian", relation: "focuses on" }
@@ -31,7 +31,7 @@ faq:
   - q: "Can I do zhan zhuang if I can't stand for long?"
     a: "You can do a seated version, or stand for very short periods near support. The principles — relaxed alignment, breath, attention — transfer fully to sitting."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Zhan Zhuang: Standing Meditation
@@ -73,6 +73,34 @@ martial arts.
 Wang's insight, stripped of jargon, was simple and sound: if you can hold a
 relaxed, aligned, rooted posture, then balance, body awareness, and internal
 stability follow — and movement becomes an extension of that root.
+
+---
+
+## The three registers
+
+Zhan zhuang is clearest in three layers.
+
+### Historical fact
+
+Standing postures are ancient in Chinese practice, appearing in the internal
+martial arts as the foundation of training. Zhan zhuang as a *named system* is
+modern — most famously systematized by **Wang Xiangzhai** in the early 20th
+century, who taught standing as a complete method in itself.
+
+### Traditional interpretation
+
+Classically, zhan zhuang was understood as the most direct way to gather and
+circulate [qi](../glossary/qi.md): standing still, with the breath settled in the
+[dantian](../glossary/dantian.md), lets the body's energy collect and the
+structure relax into alignment. It was the still root from which movement grew.
+
+### Modern explanation
+
+Read without qi, standing in a relaxed, aligned posture is low-intensity
+isometric training of posture, leg strength, and balance — and sustained, gentle
+attention on the body *may help* body awareness and interoception. It is the
+simplest form of the three regulations of [qigong](../glossary/qigong.md), done
+standing.
 
 ---
 

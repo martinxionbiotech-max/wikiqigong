@@ -7,7 +7,7 @@ description: "Qigong and yoga both unite movement, breath, and attention — but
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "one side of" }
   - { concept: "Breathing", relation: "shared method of" }
@@ -27,7 +27,7 @@ faq:
   - q: "Which is more 'spiritual'?"
     a: "Both have spiritual roots but are practiced today as secular health practices. Neither requires belief. Yoga's modern Western forms and qigong's modern health forms are both largely secular."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Qigong vs Yoga
@@ -42,6 +42,19 @@ updated: "2026-08-16"
 Qigong and yoga are the two great mind–body movement traditions of Asia, and
 they are often compared — for good reason. They share the same core insight,
 expressed in very different forms. This page gives the honest comparison.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| Qigong origin | China — continuous, flowing movement; qi, dantian, yin–yang |
+| Yoga origin | India — held postures (*asanas*); prana, chakras |
+| Best for flexibility & strength | Yoga (generally) |
+| Gentlest start | Qigong (no fitness or flexibility required) |
+| Evidence base | Yoga's is larger and older; both vary in quality |
+| Can you do both? | Yes — they are complementary |
 
 ---
 
