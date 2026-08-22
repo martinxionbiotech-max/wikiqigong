@@ -10,7 +10,7 @@ literal: "breath; air; vital energy"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-20"
-date_modified: "2026-08-20"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "cultivates" }
   - { concept: "Dantian", relation: "housed in" }
@@ -32,7 +32,7 @@ faq:
   - q: "Can qi cure disease?"
     a: "No. Traditional medicine uses qi as a framework for describing health, not a mechanism for cure. Nothing here is medical advice, and no practice described on this site cures or treats disease."
 status: "final"
-updated: "2026-08-20"
+updated: "2026-08-22"
 ---
 
 # What Is Qi?
@@ -51,6 +51,18 @@ every tai chi teacher, and in a thousand translated books — usually left
 untranslated and faintly mysterious. This page clears up the mystery. Qi is
 older, more ordinary, and more interesting than the "life force" label
 suggests.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is qi? | The body's functional energy — breath, warmth, vitality as one system |
+| Chinese | 氣 (*qì*) — root meaning "vapor" or "breath" |
+| Real, measurable energy? | No — a functional model, not a physical substance |
+| Need to believe? | No — practices work as movement, breath, attention |
+| What it feels like | Warmth, tingling, calm — and it varies, with no "right" feeling |
 
 ---
 

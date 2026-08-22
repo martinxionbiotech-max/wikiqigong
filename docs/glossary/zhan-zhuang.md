@@ -11,7 +11,7 @@ related:
   - { concept: "Tai Chi", relation: "foundation of" }
   - { concept: "Breathing", relation: "coordinates with" }
   - { concept: "Qigong", relation: "still form of" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Zhan Zhuang
@@ -48,6 +48,15 @@ Standing still in a relaxed, aligned posture is, in effect, low-intensity
 isometric training of posture and balance — and sustained, gentle attention on
 the body *may help* body awareness and relaxation. It is the simplest form of
 the three regulations of [qigong](../glossary/qigong.md), done standing.
+
+A beginner's zhan zhuang is simple and low:
+
+1. **Stand** feet shoulder-width, knees soft, spine long, crown lifting gently.
+2. **Scan** the body — shoulders, jaw, neck, chest, belly — and notice tension.
+3. **Release, don't collapse** — soften each place while keeping structure.
+4. **Breathe** into the release, letting the exhale carry the letting-go.
+
+Low horse stances are advanced; beginners stand high and relaxed.
 
 ## Related concepts
 

@@ -10,7 +10,7 @@ literal: "loose; relaxed; to release"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Tai Chi", relation: "core quality of" }
   - { concept: "Qigong", relation: "core quality of" }
@@ -31,7 +31,7 @@ faq:
   - q: "Can I 'think' my way to song?"
     a: "No. Song is a felt, embodied quality trained through standing and slow movement — not an idea you can reason yourself into."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Song: The Art of Relaxed Release
@@ -45,6 +45,19 @@ If you learn only one word of Chinese for your practice, make it **song**. It
 is the first thing every teacher says, the quality every technique serves, and
 the thing beginners most often misunderstand. This page explains what it
 really means and how to cultivate it.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is song? | "Relaxed release" — soft, open, tension-free, without collapsing |
+| Chinese | 鬆 (*sōng*) — loose; relaxed; to release |
+| The middle state | Between rigid (braced) and collapsed (limp) |
+| Why it matters | The first instruction in tai chi; everything else depends on it |
+| How to cultivate | Zhan zhuang standing + release tension + slow breath |
+| Does it need qi? | No — it is an observable, trainable motor skill |
 
 ---
 

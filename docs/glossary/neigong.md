@@ -12,7 +12,7 @@ related:
   - { concept: "Tai Chi", relation: "internal method of" }
   - { concept: "Qigong", relation: "shares methods with" }
   - { concept: "Shen", relation: "refines" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Neigong
@@ -50,6 +50,19 @@ Neigong is best read today as **the invisible training layer**: postural
 alignment, breath control, and attention. These are the mechanisms behind tai
 chi and qigong's benefits — balance, relaxation, body awareness — and they are
 observable and testable without any belief in qi.
+
+Strip away the terminology and neigong is three interlocking skills, trained
+together:
+
+| Skill | What it is | Where it shows up |
+|-------|-----------|-------------------|
+| **Structure** | Relaxed, aligned posture; rooting | Balance, stability |
+| **Breath** | Slow, abdominal breathing | Calm, relaxation |
+| **Attention** | Gathered awareness that returns when it drifts | Body awareness, focus |
+
+These are the same three "regulations" as [Qigong](../glossary/qigong.md) —
+body, breath, and mind. Neigong and qigong share the same engine; they differ
+in emphasis and framing.
 
 ## Related concepts
 

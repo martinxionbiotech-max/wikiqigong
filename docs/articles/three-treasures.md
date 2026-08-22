@@ -10,7 +10,7 @@ literal: "three treasures"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Jing", relation: "first treasure" }
   - { concept: "Qi", relation: "second treasure" }
@@ -30,7 +30,7 @@ faq:
   - q: "Why should I learn this framework?"
     a: "Because it appears throughout tai chi and qigong teaching. Understanding it lets you read traditional texts and teachers without confusion."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # The Three Treasures: Jing, Qi, and Shen
@@ -45,6 +45,18 @@ If you spend any time with tai chi or qigong, you will keep meeting three
 words: **jing, qi, shen**. They are the "three treasures" — the classical
 framework for understanding what a human being is, and what practice
 cultivates. This page explains them plainly.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| The three treasures | Jing (essence), Qi (energy), Shen (spirit) |
+| Chinese | 三寶 (*sān bǎo*) |
+| The chain | Jing (body) → Qi (energy) → Shen (mind) |
+| A model, not anatomy | Categories for layers of a person, not substances |
+| Do you need to believe? | No — the practices work regardless |
 
 ---
 

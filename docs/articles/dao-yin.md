@@ -10,7 +10,7 @@ literal: "guiding and pulling"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-16"
-date_modified: "2026-08-16"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qigong", relation: "descends from" }
   - { concept: "Breathing", relation: "coordinates with" }
@@ -30,7 +30,7 @@ faq:
   - q: "Where can I see Dao Yin movements today?"
     a: "They survive in modern qigong routines like Baduanjin and in the slow, breathing-coordinated stretching taught in many health classes."
 status: "final"
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Dao Yin: The Ancient Root of Qigong
@@ -45,6 +45,18 @@ When people ask how old qigong is, the honest answer is a surprise to many:
 the *word* "qigong" is modern — but the *practice* is ancient, and its ancient
 name is **dao yin**. This page tells that story: what dao yin was, what it
 became, and how it survives in what you practice today.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is dao yin? | "Guiding and pulling" — ancient therapeutic movement + breath |
+| Chinese | 導引 (*dǎoyǐn*) |
+| Oldest evidence | Mawangdui silk manuscript, sealed ~168 BCE |
+| Relation to qigong | Direct ancestor — ancient practice, modern label |
+| Does it need qi? | No — works as low-impact stretching and breathing |
 
 ---
 

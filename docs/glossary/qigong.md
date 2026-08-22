@@ -12,7 +12,7 @@ related:
   - { concept: "Dantian", relation: "focus point in" }
   - { concept: "Tai Chi", relation: "sibling practice of" }
   - { concept: "Meditation", relation: "still form of" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Qigong
@@ -43,6 +43,18 @@ Traditionally, qigong is understood as the cultivation of qi: building it,
 moving it through the body, and clearing blockage. Health is the smooth,
 balanced flow of qi; illness is stagnation or deficiency. This is a *model*
 for describing health, not a mechanism of cure.
+
+Traditional teaching also divides qigong into four classic families, which
+helps make sense of the umbrella term:
+
+| Family | Chinese | Purpose | Example |
+|--------|---------|---------|---------|
+| Health / medical | 醫療氣功 | Maintain health, support recovery | [Baduanjin](../articles/baduanjin.md) |
+| Martial | 武術氣功 | Stability, power, body awareness | [Zhan Zhuang](../glossary/zhan-zhuang.md) |
+| Scholarly / meditative | 儒家氣功 | Calm, focus, character | Confucian "quiet sitting" |
+| Spiritual / Daoist | 道家氣功 | Inner transformation, longevity | Neidan (inner alchemy) |
+
+Most modern, secular practice draws from the first two families.
 
 ## Modern explanation
 

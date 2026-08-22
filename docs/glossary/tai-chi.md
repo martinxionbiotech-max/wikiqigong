@@ -12,7 +12,7 @@ related:
   - { concept: "Qi", relation: "guides movement in" }
   - { concept: "Dantian", relation: "moves from" }
   - { concept: "Zhan Zhuang", relation: "standing foundation of" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Tai Chi
@@ -44,6 +44,19 @@ Traditionally, tai chi trains the body to move with [qi](../glossary/qi.md) —
 relaxed, connected, and rooted — so that force is absorbed and redirected
 rather than met head-on. The slow pace is deliberate: it lets the practitioner
 feel and refine the internal quality of each movement.
+
+The art is organized into five major family styles, all descending from Chen:
+
+| Style | Chinese | Character |
+|-------|---------|-----------|
+| **Chen** | 陳式 | Oldest; slow/fast, soft/hard, spiral force |
+| **Yang** | 楊式 | Even, slow, gentle — the most practiced |
+| **Wu (吳)** | 吳式 | Compact, slight forward lean |
+| **Wu (武)/Hao** | 武式 | Small, subtle, scholarly |
+| **Sun** | 孫式 | Newest; upright, lively footwork |
+
+Most people learn a simplified **24-form** Yang sequence, standardized in
+1956.
 
 ## Modern explanation
 

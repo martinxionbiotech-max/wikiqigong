@@ -10,7 +10,7 @@ literal: "internal work / internal skill"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-18"
-date_modified: "2026-08-18"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qi", relation: "develops" }
   - { concept: "Tai Chi", relation: "internal method of" }
@@ -31,7 +31,7 @@ faq:
   - q: "Can I learn neigong from a book or video?"
     a: "You can learn the *principles* from a book, but neigong is embodied skill built slowly through practice. The 'gong' (功) means skill developed over time — it cannot be rushed."
 status: "final"
-updated: "2026-08-18"
+updated: "2026-08-22"
 ---
 
 # Neigong: The Internal Work
@@ -48,6 +48,19 @@ things. One is moving their limbs; the other is training **neigong** — the
 internal work beneath the movement. This page explains what that inner work
 actually is, where the idea comes from, and how to understand it without
 needing to believe in anything supernatural.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is neigong? | "Internal work" — structure, breath, and attention beneath movement |
+| Chinese | 內功 (*nèigōng*) — internal work / skill |
+| The three skills | Structure, breath, attention (the same engine as qigong) |
+| Opposite of | Waigong (external work: strength, speed, technique) |
+| Is it secret? | No — ordinary, trainable, no mysticism |
+| Entry point | Song (relaxed release) |
 
 ---
 

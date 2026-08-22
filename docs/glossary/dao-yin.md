@@ -11,7 +11,7 @@ related:
   - { concept: "Breathing", relation: "coordinates with" }
   - { concept: "Tai Chi", relation: "shares lineage with" }
   - { concept: "Balance", relation: "cultivates" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Dao Yin
@@ -51,6 +51,16 @@ stretching and breathing, much like modern qigong or gentle mobility work.
 The Mawangdui figures show exactly the kind of gentle, low-impact movements
 still practiced today. The "guiding" is the breath and attention; the
 "pulling" is the stretch. Nothing supernatural is required.
+
+In practice, the essence of dao yin survives in three simple instructions:
+
+1. **Move slowly and softly** — no force, no bouncing.
+2. **Coordinate breath with movement** — exhale on the stretch, inhale on
+   release.
+3. **Guide attention** — follow the movement and breath, not the outside world.
+
+These are the three ingredients — movement, breath, attention — that would
+later be named qigong.
 
 ## Related concepts
 

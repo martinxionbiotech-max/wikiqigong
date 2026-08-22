@@ -10,7 +10,7 @@ literal: "shady side / sunny side"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-21"
-date_modified: "2026-08-21"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qi", relation: "manifests as" }
   - { concept: "Tai Chi", relation: "embodies" }
@@ -31,7 +31,7 @@ faq:
   - q: "What is the difference between yin–yang and wuji?"
     a: "Wuji (無極) is the undivided stillness from which yin and yang emerge; the taiji (太極) is the dynamic whole that already contains both. Yin and yang are the two complementary halves that arise from that undivided source."
 status: "final"
-updated: "2026-08-21"
+updated: "2026-08-22"
 ---
 
 # Yin and Yang in Tai Chi and Qigong
@@ -50,6 +50,18 @@ and yang emerge. Yet most Western introductions reduce yin–yang to a decorativ
 circle and a list of "dark = bad, light = good" associations. This page restores
 the actual idea: a grammar of complementary opposites that you can feel in your
 own body within your first five minutes of practice.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What are yin and yang? | Two complementary aspects of one whole — shady/sunny, soft/firm, empty/full |
+| Chinese | 陰陽 (*yīn yáng*) |
+| Good vs bad? | No — both neutral, each containing the other |
+| In tai chi | Weight shift (empty/full), open/close, soft/firm, inhale/exhale |
+| Need to believe? | No — it is what the body already does when it moves well |
 
 ---
 

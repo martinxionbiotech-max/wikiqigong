@@ -10,7 +10,7 @@ literal: "cinnabar field; elixir field"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-20"
-date_modified: "2026-08-20"
+date_modified: "2026-08-22"
 related:
   - { concept: "Qi", relation: "stores" }
   - { concept: "Breathing", relation: "centered on" }
@@ -31,7 +31,7 @@ faq:
   - q: "Is focusing on the dantian dangerous?"
     a: "No. There is no evidence that relaxed abdominal attention is harmful. What to avoid is strain — forcing the breath or tensing the belly. Keep it soft and easy."
 status: "final"
-updated: "2026-08-20"
+updated: "2026-08-22"
 ---
 
 # What Is the Dantian?
@@ -49,6 +49,19 @@ dantian." It is the single most-referenced location in the whole tradition —
 and also one of the most misunderstood. This page explains what the dantian
 actually is, where the idea comes from, and how to use it without needing to
 believe in anything supernatural.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is the dantian? | The lower-abdominal center of gravity and breath anchor |
+| Chinese | 丹田 (*dāntián*) — "cinnabar field" |
+| A real organ? | No — a focal region, not a structure |
+| Where? | Lower abdomen, a few finger-widths below the navel |
+| Three dantian? | Yes (lower/middle/upper), but practice uses the lower only |
+| Need to believe? | No — it is a focal point, not an energy ball |
 
 ---
 

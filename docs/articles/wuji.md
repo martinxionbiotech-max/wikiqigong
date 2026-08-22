@@ -10,7 +10,7 @@ literal: "without limit / without ridgepole"
 author: "Editorial Team"
 reviewed_by: "Editorial Team"
 date_published: "2026-08-17"
-date_modified: "2026-08-17"
+date_modified: "2026-08-22"
 related:
   - { concept: "Tai Chi", relation: "emerges from" }
   - { concept: "Yin–Yang", relation: "precedes" }
@@ -31,7 +31,7 @@ faq:
   - q: "Is wuji the same as meditation?"
     a: "It overlaps. Standing quietly in wuji with attention inward is itself a form of standing meditation, closely related to zhan zhuang. The wuji posture is simply the simplest version of that stillness."
 status: "final"
-updated: "2026-08-17"
+updated: "2026-08-22"
 ---
 
 # Wuji: The Uncarved State
@@ -46,6 +46,19 @@ Every tai chi form begins the same way: you stand still, feet together, arms
 at your sides, and pause before anything moves. That pause has a name — **wuji**
 — and it is not empty time. It is the starting state of the whole practice,
 and understanding it unlocks what tai chi is actually doing.
+
+---
+
+## Key facts at a glance
+
+| Question | Answer |
+|----------|--------|
+| What is wuji? | "Without limit" — the undivided stillness before yin and yang |
+| Chinese | 無極 (*wújí*) — without limit / without ridgepole |
+| In practice | The quiet opening stance: feet together, arms at the sides |
+| Classical chain | Wuji → taiji → yin and yang |
+| Is it meditation? | Yes — standing quietly in wuji is standing meditation |
+| Does it need belief? | No — a neutral starting position, not a religion |
 
 ---
 

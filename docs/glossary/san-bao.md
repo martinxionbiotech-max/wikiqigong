@@ -11,7 +11,7 @@ related:
   - { concept: "Qi", relation: "second treasure" }
   - { concept: "Shen", relation: "third treasure" }
   - { concept: "Qigong", relation: "organizes practice around" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # San Bao (Three Treasures)
@@ -45,7 +45,9 @@ Traditionally, the three treasures form a hierarchy of increasing subtlety:
 | Shen (神) | spirit | mind, awareness, presence |
 
 Cultivation aims to preserve jing, regulate qi, and calm shen — keeping the
-three in balance.
+three in balance. The classical chain runs **jing → qi → shen**: essence
+refines into energy, energy into spirit. But the three are trained together,
+not in strict sequence — the "stages" are a teaching model.
 
 ## Modern explanation
 

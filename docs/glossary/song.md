@@ -12,7 +12,7 @@ related:
   - { concept: "Zhan Zhuang", relation: "cultivated through" }
   - { concept: "Breathing", relation: "deepens with" }
   - { concept: "Balance", relation: "enables" }
-updated: "2026-08-16"
+updated: "2026-08-22"
 ---
 
 # Song
@@ -41,6 +41,16 @@ Traditionally, song is described as the precondition for qi circulation and
 rootedness: a tense body blocks qi; a song body lets it flow, so that strength
 can be issued from the ground rather than from local muscle. "Song" is paired
 with "sinking" — relaxed weight settling down into the feet.
+
+The key distinction is a three-way one, and it is the heart of the practice:
+
+| State | Quality |
+|-------|---------|
+| **Rigid** | tense, braced, blocked |
+| **Song** | soft, open, responsive — *with structure* |
+| **Collapsed** | limp, slack, structureless |
+
+Song is the middle state — the hardest to find and most valuable to keep.
 
 ## Modern explanation
 
