@@ -33,6 +33,7 @@ page that connects to the concepts around it.
 | [Liu Zi Jue](liu-zi-jue.md) | 六字訣 | liù zì jué | six healing sounds |
 | [Meditation](meditation.md) | 靜坐 | jìngzuò | quiet sitting |
 | [Zhan Zhuang](zhan-zhuang.md) | 站樁 | zhànzhuāng | standing like a post |
+| [Wu Qin Xi](wu-qin-xi.md) | 五禽戲 | wǔ qín xì | five animals play |
 | [Rooting (Gen)](gen.md) | 根 | gēn | root; grounded stability |
 | [Sinking (Chen)](chen.md) | 沉 | chén | sinking; settling downward |
 
@@ -53,6 +54,7 @@ page that connects to the concepts around it.
 | Term | Chinese | Pinyin | Meaning |
 |------|---------|--------|---------|
 | [San Guan (Three Gates)](san-guan.md) | 三關 | sān guān | the spine's three gates |
+| [Jingluo (Meridians)](jingluo.md) | 經絡 | jīngluò | channels and network |
 | [Ming Men (Life Gate)](ming-men.md) | 命門 | mìng mén | gate of life; the lower back |
 | [Lao Gong (Palm Point)](lao-gong.md) | 勞宮 | láo gōng | labor palace; the palm center |
 

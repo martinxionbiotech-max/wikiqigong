@@ -51,10 +51,12 @@ nav:
       - Tai Chi Five Styles: articles/tai-chi-five-styles.md
       - Wuji (The Uncarved State): articles/wuji.md
       - Neigong (The Internal Work): articles/neigong.md
+      - Meridians (The Body's Channels): articles/meridians.md
   - Practices:
       - Tai Chi for Beginners: articles/tai-chi-beginners-first-session.md
       - Baduanjin: articles/baduanjin.md
       - Liu Zi Jue (Six Healing Sounds): articles/liu-zi-jue.md
+      - Wu Qin Xi (Five Animal Frolics): articles/wu-qin-xi.md
       - Zhan Zhuang: articles/zhan-zhuang.md
       - Qigong Breathing: articles/qigong-breathing.md
       - Rooting (Connection to the Ground): articles/rooting.md
@@ -76,6 +78,7 @@ nav:
       - Practice:
           - Breathing: glossary/breathing.md
           - Liu Zi Jue: glossary/liu-zi-jue.md
+          - Wu Qin Xi: glossary/wu-qin-xi.md
           - Meditation: glossary/meditation.md
           - Zhan Zhuang: glossary/zhan-zhuang.md
           - Rooting (Gen): glossary/gen.md
@@ -89,6 +92,7 @@ nav:
           - Wuji: glossary/wuji.md
           - Xing, Yi, Qi: glossary/xing-yi-qi.md
       - Body-Map:
+          - Jingluo (Meridians): glossary/jingluo.md
           - San Guan (Three Gates): glossary/san-guan.md
           - Ming Men (Life Gate): glossary/ming-men.md
           - Lao Gong (Palm Point): glossary/lao-gong.md
