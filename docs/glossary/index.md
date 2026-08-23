@@ -37,6 +37,8 @@ page that connects to the concepts around it.
 | [Yi Jin Jing](yi-jin-jing.md) | 易筋經 | yì jīn jīng | changing the sinews classic |
 | [Rooting (Gen)](gen.md) | 根 | gēn | root; grounded stability |
 | [Sinking (Chen)](chen.md) | 沉 | chén | sinking; settling downward |
+| [Silk Reeling (Chan Si Jing)](silk-reeling.md) | 纏絲勁 | chánsījìn | silk-reeling force; the spiral |
+| [Push Hands (Tui Shou)](tui-shou.md) | 推手 | tuīshǒu | pushing hands; partner practice |
 
 ## Philosophy
 
