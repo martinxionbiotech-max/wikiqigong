@@ -9,6 +9,13 @@ scientific reading.
 > This file helps AI assistants and search engines discover and cite the site's
 > most important pages. Each page carries Article + FAQPage structured data.
 
+## Start here
+
+- [Learning Path](https://wikiqigong.com/learning-path/): The staged map from
+  your first week to years of practice.
+- [Common Mistakes](https://wikiqigong.com/common-mistakes/): The six most
+  common beginner errors and how to fix each one.
+
 ## Core articles
 
 - [What Is Qi?](https://wikiqigong.com/articles/what-is-qi/): The concept

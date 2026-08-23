@@ -160,4 +160,45 @@
   }
   </script>
   {% endif %}
+
+  {% if page and page.meta and page.meta.howto %}
+  {# HowTo schema for step-by-step guide pages #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "{{ page.title }}",
+    "description": "{{ page.meta.description }}",
+    "step": [
+      {% for s in page.meta.howto %}
+      {
+        "@type": "HowToStep",
+        "position": {{ loop.index }},
+        "name": {{ s.name | tojson }},
+        "text": {{ s.text | tojson }}
+      }{{ "," if not loop.last else "" }}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% if page and page.url and page.url != '' and page.url != '/' %}
+  {# BreadcrumbList schema #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ config.site_url }}"}
+      {% if page.url.startswith('glossary/') and page.url != 'glossary/' %}
+      ,{"@type": "ListItem", "position": 2, "name": "Glossary", "item": "{{ config.site_url }}glossary/"}
+      ,{"@type": "ListItem", "position": 3, "name": "{{ page.title }}", "item": "{{ page.canonical_url }}"}
+      {% else %}
+      ,{"@type": "ListItem", "position": 2, "name": "{{ page.title }}", "item": "{{ page.canonical_url }}"}
+      {% endif %}
+    ]
+  }
+  </script>
+  {% endif %}
 {% endblock %}

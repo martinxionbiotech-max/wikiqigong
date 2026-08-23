@@ -37,6 +37,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Start Here:
+      - Learning Path: learning-path.md
+      - Common Mistakes: common-mistakes.md
+      - Tai Chi for Beginners: articles/tai-chi-beginners-first-session.md
   - Core Articles:
       - What Is Qi?: articles/what-is-qi.md
       - What Is the Dantian?: articles/what-is-dantian.md

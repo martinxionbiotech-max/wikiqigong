@@ -44,6 +44,8 @@ practitioners who want the real thing rather than the mystified version.
 
 **New to all of this?** Begin here:
 
+0. [Learning Path](learning-path.md) — the full staged map from beginner to
+   practitioner.
 1. [What Is Qigong?](articles/what-is-qigong.md) — the foundation practice.
 2. [What Is Tai Chi?](articles/what-is-tai-chi.md) — the martial sibling.
 3. [What Is Qi?](articles/what-is-qi.md) — the concept behind it all.
