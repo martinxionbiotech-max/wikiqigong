@@ -23,18 +23,29 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
   via `/file/content` API → one-time push URL).
 - Write nightly report to `reports/nightly/YYYY-MM-DD.md`.
 
-## Priority queue (foundation phase, Days 1–15)
+## Priority queue (expansion phase, Days 9–15)
 
 ### Articles
 
-*(Foundation deep-dive queue is empty — see Completed below.)*
+1. **Meditation for Tai Chi practitioners** — the still side of the moving
+   art; how seated/standing stillness complements the form.
+2. **Li (Raw Force) vs Jin (Trained Force)** — deepen the force distinction
+   into its own comparison page, or fold into a glossary entry for Li.
+3. **Tai Chi for stress / mental health** — evidence-focused page (mirror the
+   older-adults page), NCCIH/Harvard sourced.
 
 ### Glossary entries (one per concept, full schema)
 
-*(None queued this night; new concepts to be added alongside upcoming articles.)*
+1. **Li (力, raw force)** — the counterpart to Jin; "strength" that is not yet
+   refined.
+2. **Hui Yin (會陰, perineum point)** — body-map entry for the "root of the
+   torso" reference in standing practice.
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-24 (night): jin (article + glossary); tai-chi-for-older-adults
+  (article) — closed the undefined-"jin" concept gap + added the
+  highest-E-E-A-T evidence page (balance/falls).
 - 2026-08-23 (night): silk-reeling (article + glossary); push-hands
   (article + glossary) — filled the tai chi signature-movement gap (spiral
   power) + the partner-practice gap.
@@ -61,10 +72,10 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Post-writing checklist (every night)
 
-- [ ] `mkdocs build --strict` → 0 error 0 warning
-- [ ] JSON-LD valid (json.loads) on all new articles
-- [ ] New pages added to `mkdocs.yml` nav
-- [ ] commit + push (remote token method)
-- [ ] nightly report written
-- [ ] THIS queue file updated (move done → Completed, mark next)
-- [ ] report sent to user (WeChat)
+- [x] `mkdocs build --strict` → 0 error 0 warning
+- [x] JSON-LD valid (json.loads) on all new articles
+- [x] New pages added to `mkdocs.yml` nav
+- [x] commit + push (remote token method)
+- [x] nightly report written
+- [x] THIS queue file updated (move done → Completed, mark next)
+- [x] report sent to user (WeChat)
