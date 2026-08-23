@@ -41,8 +41,17 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 2. **Hui Yin (會陰, perineum point)** — body-map entry for the "root of the
    torso" reference in standing practice.
 
+## Next recommended (remaining strengthening backlog)
+- History timeline page (concentrated "when did each practice/idea emerge").
+- Pronunciation & tone-mark guide.
+- HowTo schema on beginner-session + 24-form pages (`howto:` frontmatter).
+- Li (力) glossary + meditation-for-tai-chi page.
+- Author/reviewer bios for stronger E-E-A-T.
+
 ## Completed (this batch, keep for reference)
 
+- 2026-08-24 (strengthening): learning-path + common-mistakes pages; site-wide
+  BreadcrumbList + HowTo schema support in main.html — SEO/AIO/EEAT deepening.
 - 2026-08-24 (night): jin (article + glossary); tai-chi-for-older-adults
   (article) — closed the undefined-"jin" concept gap + added the
   highest-E-E-A-T evidence page (balance/falls).
