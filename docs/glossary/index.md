@@ -20,6 +20,7 @@ page that connects to the concepts around it.
 | [Dantian](dantian.md) | 丹田 | dāntián | cinnabar field; center of gravity |
 | [Yin–Yang](yin-yang.md) | 陰陽 | yīn yáng | complementary opposites |
 | [Jing](jing.md) | 精 | jīng | essence; constitutional reserve |
+| [Jin](jin.md) | 勁 | jìn | refined force; trained power |
 | [Shen](shen.md) | 神 | shén | spirit; mind; consciousness |
 | [Qigong](qigong.md) | 氣功 | qìgōng | qi work; breath work |
 | [Tai Chi](tai-chi.md) | 太極 | tàijí | the supreme ultimate |
