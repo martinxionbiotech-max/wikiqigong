@@ -34,6 +34,7 @@ page that connects to the concepts around it.
 | [Meditation](meditation.md) | 靜坐 | jìngzuò | quiet sitting |
 | [Zhan Zhuang](zhan-zhuang.md) | 站樁 | zhànzhuāng | standing like a post |
 | [Wu Qin Xi](wu-qin-xi.md) | 五禽戲 | wǔ qín xì | five animals play |
+| [Yi Jin Jing](yi-jin-jing.md) | 易筋經 | yì jīn jīng | changing the sinews classic |
 | [Rooting (Gen)](gen.md) | 根 | gēn | root; grounded stability |
 | [Sinking (Chen)](chen.md) | 沉 | chén | sinking; settling downward |
 

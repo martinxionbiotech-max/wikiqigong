@@ -50,6 +50,12 @@ scientific reading.
   Brocade — the world's most practiced qigong routine.
 - [Liu Zi Jue (Six Healing Sounds)](https://wikiqigong.com/articles/liu-zi-jue/):
   The breath-and-sound qigong — six whispered sounds with slow movement.
+- [Wu Qin Xi (Five Animal Frolics)](https://wikiqigong.com/articles/wu-qin-xi/):
+  The five-animal play — a movement practice attributed to Hua Tuo.
+- [Yi Jin Jing (Muscle/Tendon Change Classic)](https://wikiqigong.com/articles/yi-jin-jing/):
+  The stretching qigong that lengthens and strengthens the tendons and fascia.
+- [Tai Chi 24-Form](https://wikiqigong.com/articles/tai-chi-24-form/): The
+  simplified Yang-style sequence of 24 movements — the world's most practiced form.
 - [Zhan Zhuang](https://wikiqigong.com/articles/zhan-zhuang/): Standing
   meditation — the still form that builds rooting and song.
 - [Qigong Breathing](https://wikiqigong.com/articles/qigong-breathing/): Slow,
@@ -80,6 +86,7 @@ scientific reading.
 - [Gen (Rooting)](https://wikiqigong.com/glossary/gen/) — root
 - [Chen (Sinking)](https://wikiqigong.com/glossary/chen/) — sinking
 - [Song](https://wikiqigong.com/glossary/song/) — relaxed release
+- [Yi Jin Jing](https://wikiqigong.com/glossary/yi-jin-jing/) — changing the sinews classic
 
 ## Standards
 
