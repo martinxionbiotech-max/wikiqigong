@@ -35,6 +35,9 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-23 (night): silk-reeling (article + glossary); push-hands
+  (article + glossary) — filled the tai chi signature-movement gap (spiral
+  power) + the partner-practice gap.
 - 2026-08-23 (manual): yi-jin-jing (article + glossary); tai-chi-24-form
   (article) — filled the practice layer (tendon-stretching qigong + the
   world's most practiced tai chi form).
