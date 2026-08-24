@@ -21,6 +21,7 @@ page that connects to the concepts around it.
 | [Yin–Yang](yin-yang.md) | 陰陽 | yīn yáng | complementary opposites |
 | [Jing](jing.md) | 精 | jīng | essence; constitutional reserve |
 | [Jin](jin.md) | 勁 | jìn | refined force; trained power |
+| [Li](li.md) | 力 | lì | raw strength; muscular force |
 | [Shen](shen.md) | 神 | shén | spirit; mind; consciousness |
 | [Qigong](qigong.md) | 氣功 | qìgōng | qi work; breath work |
 | [Tai Chi](tai-chi.md) | 太極 | tàijí | the supreme ultimate |
@@ -61,6 +62,7 @@ page that connects to the concepts around it.
 | [Jingluo (Meridians)](jingluo.md) | 經絡 | jīngluò | channels and network |
 | [Ming Men (Life Gate)](ming-men.md) | 命門 | mìng mén | gate of life; the lower back |
 | [Lao Gong (Palm Point)](lao-gong.md) | 勞宮 | láo gōng | labor palace; the palm center |
+| [Hui Yin (Perineum Point)](hui-yin.md) | 會陰 | huì yīn | meeting of yin; the perineum |
 
 ## Tradition
 
