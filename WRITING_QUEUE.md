@@ -27,29 +27,27 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ### Articles
 
-1. **Meditation for Tai Chi practitioners** — the still side of the moving
-   art; how seated/standing stillness complements the form.
-2. **Li (Raw Force) vs Jin (Trained Force)** — deepen the force distinction
-   into its own comparison page, or fold into a glossary entry for Li.
-3. **Tai Chi for stress / mental health** — evidence-focused page (mirror the
+1. **Tai Chi for stress / mental health** — evidence-focused page (mirror the
    older-adults page), NCCIH/Harvard sourced.
 
 ### Glossary entries (one per concept, full schema)
 
-1. **Li (力, raw force)** — the counterpart to Jin; "strength" that is not yet
-   refined.
-2. **Hui Yin (會陰, perineum point)** — body-map entry for the "root of the
-   torso" reference in standing practice.
+1. **Hui Yin (會陰, perineum point)** — body-map entry for the "root of the
+   torso" reference in standing practice. (still available: none remaining in
+   the primary list — see next recommended)
 
 ## Next recommended (remaining strengthening backlog)
 - History timeline page (concentrated "when did each practice/idea emerge").
 - Pronunciation & tone-mark guide.
 - HowTo schema on beginner-session + 24-form pages (`howto:` frontmatter).
-- Li (力) glossary + meditation-for-tai-chi page.
 - Author/reviewer bios for stronger E-E-A-T.
+- Tai Chi for stress / mental health (evidence-focused page).
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-25 (night): meditation-for-tai-chi (article) + li-vs-jin (article)
+  + li (glossary) + hui-yin (glossary) — closed the "still side of tai chi"
+  gap and the li/jin force-distinction gap, plus the perineum body-map entry.
 - 2026-08-24 (strengthening): learning-path + common-mistakes pages; site-wide
   BreadcrumbList + HowTo schema support in main.html — SEO/AIO/EEAT deepening.
 - 2026-08-24 (night): jin (article + glossary); tai-chi-for-older-adults
