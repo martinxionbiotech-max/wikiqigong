@@ -32,9 +32,9 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ### Glossary entries (one per concept, full schema)
 
-1. **Hui Yin (會陰, perineum point)** — body-map entry for the "root of the
-   torso" reference in standing practice. (still available: none remaining in
-   the primary list — see next recommended)
+1. **Yang Sheng (養生, nourishing life)** ✅ done 2026-08-26 (night) — added
+   alongside the sleep article (the article's three-registers section references
+   it).
 
 ## Next recommended (remaining strengthening backlog)
 - History timeline page (concentrated "when did each practice/idea emerge"). ✅ done 2026-08-25 (pass 2)
@@ -43,11 +43,13 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 - Author/reviewer bios for stronger E-E-A-T. ✅ partial — team.md added; per-article named authors still pending (deliberate: uses "Editorial Team" consistently)
 - Tai Chi for stress / mental health (evidence-focused page). ✅ done 2026-08-25 (pass 2)
 - Tai Chi for back pain / mobility (evidence page). ✅ done 2026-08-25 (pass 3)
+- Tai Chi for sleep / insomnia (evidence page). ✅ done 2026-08-26 (night)
 
 ## Completed (this batch, keep for reference)
 
-- 2026-08-25 (pass 3): HowTo schema on beginner-session + 24-form; new
-  tai-chi-for-back-pain evidence page. Commit afea2bd.
+- 2026-08-26 (night): tai-chi-for-sleep (article) + yang-sheng (glossary) —
+  closed the sleep/insomnia evidence gap + the nourishing-life concept gap.
+  Commit 6c13904.
 - 2026-08-25 (pass 2): OG/Twitter meta + og:image + favicon; visible byline;
   team.md; history-timeline; pronunciation-guide; tai-chi-for-stress;
   21 description fixes. Commit a584616.
