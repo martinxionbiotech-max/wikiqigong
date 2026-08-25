@@ -53,6 +53,7 @@ page that connects to the concepts around it.
 | [San Bao](san-bao.md) | 三寶 | sānbǎo | the three treasures |
 | [Wuji](wuji.md) | 無極 | wújí | without limit; the undivided state |
 | [Xing, Yi, Qi](xing-yi-qi.md) | 形意氣 | xíng yì qì | form, intention, energy |
+| [Yang Sheng (Nourishing Life)](yang-sheng.md) | 養生 | yǎng shēng | nourishing life |
 
 ## Body-map
 
