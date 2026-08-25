@@ -1,5 +1,6 @@
 ---
 title: "Ming Men (The Life Gate)"
+description: "Ming Men (命門, mìng mén), the 'gate of life,' is the point behind the lower dantian linked to vitality in Chinese practice."
 chinese: "命門"
 pinyin: "mìng mén"
 english: "Life Gate"

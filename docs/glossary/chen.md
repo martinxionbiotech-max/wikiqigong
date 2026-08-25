@@ -1,5 +1,6 @@
 ---
 title: "Chen (Sinking)"
+description: "Chen (沉, chén) means 'sinking' — the downward settling of weight and breath that turns relaxation into grounding in tai chi and qigong."
 chinese: "沉"
 pinyin: "chén"
 english: "Sinking"

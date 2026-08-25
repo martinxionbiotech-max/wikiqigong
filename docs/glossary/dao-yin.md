@@ -4,7 +4,7 @@ chinese: "導引"
 pinyin: "dǎoyǐn"
 english: "Dao Yin"
 literal: "guiding and pulling"
-description: "Dao Yin (導引, dǎoyǐn) means 'guiding and pulling' — the ancient Chinese art of therapeutic movement and stretching, the direct ancestor of qigong. A concise glossary definition."
+description: "Dao Yin (導引, dǎoyǐn) means 'guiding and pulling' — the ancient Chinese art of movement and stretching, ancestor of qigong."
 category: "tradition"
 related:
   - { concept: "Qigong", relation: "ancestor of", note: "qigong is the modern umbrella term" }

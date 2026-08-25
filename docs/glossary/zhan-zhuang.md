@@ -4,7 +4,7 @@ chinese: "站樁"
 pinyin: "zhàn zhuāng"
 english: "Zhan Zhuang"
 literal: "standing like a post / stake standing"
-description: "Zhan Zhuang (站樁, zhàn zhuāng) is standing meditation — holding a relaxed, rooted posture to build awareness and internal strength. A concise glossary definition."
+description: "Zhan Zhuang (站樁, zhàn zhuāng) is standing meditation — holding a rooted posture to build awareness and internal strength."
 category: "practice"
 related:
   - { concept: "Dantian", relation: "focuses on" }

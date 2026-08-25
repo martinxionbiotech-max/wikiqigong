@@ -5,6 +5,9 @@ site_description: >-
   deep Chinese understanding translated into natural, accurate English
   education for beginners and practitioners.
 site_author: WikiQigong Editorial Team
+copyright: >-
+  © 2026 WikiQigong. Educational resource only — not medical advice. See the
+  <a href="/disclaimer/">Medical Disclaimer</a>.
 
 theme:
   name: material
@@ -34,6 +37,8 @@ theme:
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
+  favicon: assets/favicon.png
+  logo: assets/favicon.png
 
 nav:
   - Home: index.md
@@ -41,6 +46,8 @@ nav:
       - Learning Path: learning-path.md
       - Common Mistakes: common-mistakes.md
       - Tai Chi for Beginners: articles/tai-chi-beginners-first-session.md
+      - History Timeline: history-timeline.md
+      - Pronunciation Guide: pronunciation-guide.md
   - Core Articles:
       - What Is Qi?: articles/what-is-qi.md
       - What Is the Dantian?: articles/what-is-dantian.md
@@ -71,6 +78,7 @@ nav:
       - Rooting (Connection to the Ground): articles/rooting.md
       - Push Hands (Partner Practice): articles/push-hands.md
       - Tai Chi for Older Adults: articles/tai-chi-for-older-adults.md
+      - Tai Chi for Stress & Mental Health: articles/tai-chi-for-stress.md
       - Meditation for Tai Chi Practitioners: articles/meditation-for-tai-chi.md
   - Comparisons:
       - Tai Chi vs Qigong: articles/tai-chi-vs-qigong.md
@@ -118,6 +126,7 @@ nav:
           - Tai Chi Styles: glossary/tai-chi-styles.md
   - About & Standards:
       - About WikiQigong: about.md
+      - Editorial Team & Review: team.md
       - Editorial Standards: editorial-standards.md
       - Medical Disclaimer: disclaimer.md
 

@@ -5,7 +5,7 @@ pinyin: "hūxī"
 english: "Breathing"
 literal: "exhale–inhale"
 category: "practice"
-description: "Breathing (呼吸, hūxī) is the bridge between body and mind in Chinese practice — slow, abdominal breath is the engine of qigong and tai chi. Learn why it matters and how to begin."
+description: "Breathing (呼吸, hūxī) is the bridge between body and mind in Chinese practice — slow, abdominal breath drives qigong and tai chi."
 related:
   - { concept: "Qi", relation: "transports", note: "breath was historically linked to the movement of qi" }
   - { concept: "Dantian", relation: "centered on", note: "abdominal breathing settles attention in the lower dantian" }

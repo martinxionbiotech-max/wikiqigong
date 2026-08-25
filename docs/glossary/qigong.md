@@ -4,7 +4,7 @@ chinese: "氣功"
 pinyin: "qìgōng"
 english: "Qigong"
 literal: "qi work / breath work"
-description: "Qigong (氣功, qìgōng) means 'qi work' — the practice of cultivating the body's energy through movement, breath, and attention. A concise glossary definition with links."
+description: "Qigong (氣功, qìgōng) means 'qi work' — cultivating the body's energy through movement, breath, and attention."
 category: "core-concept"
 related:
   - { concept: "Qi", relation: "cultivates" }

@@ -4,7 +4,7 @@ chinese: "鬆"
 pinyin: "sōng"
 english: "Song"
 literal: "loose; relaxed; to release"
-description: "Song (鬆, sōng) means 'relaxed release' — the foundational quality of tai chi and qigong: soft, open, and free of unnecessary tension, without collapsing. A concise glossary definition."
+description: "Song (鬆, sōng) means 'relaxed release' — the foundational quality of tai chi: soft, open, free of tension, without collapsing."
 category: "practice"
 related:
   - { concept: "Tai Chi", relation: "core quality of" }

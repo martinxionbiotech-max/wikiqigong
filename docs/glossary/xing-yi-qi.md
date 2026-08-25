@@ -1,5 +1,6 @@
 ---
 title: "Xing, Yi, Qi (Form, Intention, Energy)"
+description: "Xing, Yi, Qi (形 意 氣) — form, intention, and energy — is the three-layer progression at the heart of internal practice."
 chinese: "形 意 氣"
 pinyin: "xíng yì qì"
 english: "Form, Intention, Qi"

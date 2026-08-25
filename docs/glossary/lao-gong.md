@@ -1,5 +1,6 @@
 ---
 title: "Lao Gong (The Palm Point)"
+description: "Lao Gong (勞宮, láo gōng), the 'labor palace,' is the palm point where many people first feel warmth and tingling during qigong practice."
 chinese: "勞宮"
 pinyin: "láo gōng"
 english: "Lao Gong"

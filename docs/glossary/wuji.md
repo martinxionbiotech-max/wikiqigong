@@ -4,7 +4,7 @@ chinese: "無極"
 pinyin: "wújí"
 english: "Wuji"
 literal: "without limit / without ridgepole"
-description: "Wuji (無極, wújí) means 'without limit' — the still, undivided state before yin and yang, embodied as the quiet opening stance of tai chi and qigong. A concise glossary definition."
+description: "Wuji (無極, wújí) means 'without limit' — the still, undivided state before yin and yang, embodied in the opening stance."
 category: "philosophy"
 related:
   - { concept: "Tai Chi", relation: "emerges from" }

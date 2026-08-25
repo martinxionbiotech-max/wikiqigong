@@ -58,6 +58,10 @@ practitioners who want the real thing rather than the mystified version.
 7. [Qigong Principles](articles/qigong-principles.md) — the three pillars.
 8. [Tai Chi Principles](articles/tai-chi-principles.md) — the six ideas.
 
+**Want the whole picture?** Read the [History Timeline](history-timeline.md) to
+see where each practice came from, or the [Pronunciation
+Guide](pronunciation-guide.md) to say the terms right.
+
 **Looking for a specific term?** Browse the [Glossary](glossary/index.md) —
 every important concept, from [Qi](glossary/qi.md) to
 [Dantian](glossary/dantian.md) to [Yin–Yang](glossary/yin-yang.md).

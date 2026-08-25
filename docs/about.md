@@ -1,6 +1,10 @@
 ---
 title: About WikiQigong
 description: About WikiQigong — who we are, why this site exists, and the editorial standards that keep every page accurate, honest, and trustworthy.
+type: page
+author: WikiQigong Editorial Team
+date_published: "2026-08-16"
+date_modified: "2026-08-25"
 ---
 
 # About WikiQigong
@@ -39,7 +43,9 @@ grounded, non-mystical reading. Both halves matter, and every page does both.
 WikiQigong is written and reviewed by the **WikiQigong Editorial Team** — a
 small group working to produce clear, accurate, well-sourced educational
 material. We publish under a named editorial structure, not an anonymous
-byline, so that you can see who is responsible for what:
+byline, so that you can see who is responsible for what. See the full
+[Editorial Team & Review](team.md) page for the roles, their qualifications,
+and how corrections are handled.
 
 | Role | Responsibility |
 |------|----------------|

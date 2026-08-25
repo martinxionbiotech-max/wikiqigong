@@ -1,5 +1,6 @@
 ---
 title: "San Guan (The Three Gates)"
+description: "San Guan (三關, sān guān), the 'three gates,' are the spine's three narrow passes mapped in classical internal practice."
 chinese: "三關"
 pinyin: "sān guān"
 english: "Three Gates"

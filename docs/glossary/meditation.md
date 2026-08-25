@@ -5,7 +5,7 @@ pinyin: "jìngzuò"
 english: "Meditation"
 literal: "quiet sitting"
 category: "practice"
-description: "Meditation (靜坐, jìngzuò — 'quiet sitting') is the practice of steadying attention, the still counterpart to tai chi's moving meditation. Learn its Chinese forms and how it connects."
+description: "Meditation (靜坐, jìngzuò — 'quiet sitting') is the still counterpart to tai chi's moving meditation. Learn its Chinese forms."
 related:
   - { concept: "Shen", relation: "settles", note: "meditation is the primary practice for calming the shen" }
   - { concept: "Breathing", relation: "anchored by", note: "breath is the most common object of attention" }

@@ -4,7 +4,7 @@ chinese: "平衡"
 pinyin: "pínghéng"
 english: "Balance"
 literal: "level scale / equilibrium"
-description: "Balance (平衡, pínghéng) — dynamic equilibrium — is the core aim of Chinese mind–body practice, expressed physically in tai chi and conceptually in yin–yang. A concise glossary definition."
+description: "Balance (平衡, pínghéng) — dynamic equilibrium — is the core aim of Chinese mind-body practice, seen in tai chi and yin-yang."
 category: "philosophy"
 related:
   - { concept: "Yin–Yang", relation: "described by" }

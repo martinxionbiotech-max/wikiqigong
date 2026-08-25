@@ -4,7 +4,7 @@ chinese: "三寶"
 pinyin: "sān bǎo"
 english: "Three Treasures"
 literal: "three treasures"
-description: "San Bao (三寶, sān bǎo), the 'Three Treasures' of jing, qi, and shen, is the classical framework for understanding body, energy, and mind as one continuum. A concise glossary definition."
+description: "San Bao (三寶, sān bǎo), the 'Three Treasures' of jing, qi, and shen — the classical framework for body, energy, and mind."
 category: "philosophy"
 related:
   - { concept: "Jing", relation: "first treasure" }

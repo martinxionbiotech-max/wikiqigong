@@ -15,6 +15,12 @@ scientific reading.
   your first week to years of practice.
 - [Common Mistakes](https://wikiqigong.com/common-mistakes/): The six most
   common beginner errors and how to fix each one.
+- [History Timeline](https://wikiqigong.com/history-timeline/): A dated
+  timeline of tai chi, qigong, and Chinese mind-body practice — from ~168 BCE
+  daoyin scrolls to the 1956 24-form.
+- [Pronunciation Guide](https://wikiqigong.com/pronunciation-guide/): How to
+  say qi, qigong, tai chi, dantian, and more — pinyin, tone marks, and
+  plain-English pronunciations.
 
 ## Core articles
 
@@ -79,6 +85,8 @@ scientific reading.
   Tui Shou (推手) — tai chi's two-person sensitivity and balance training.
 - [Tai Chi for Older Adults](https://wikiqigong.com/articles/tai-chi-for-older-adults/):
   Balance, falls, and confidence — the best-studied health benefit of tai chi.
+- [Tai Chi for Stress & Mental Health](https://wikiqigong.com/articles/tai-chi-for-stress/):
+  What the evidence shows about stress, anxiety, and mood — the honest picture.
 - [Meditation for Tai Chi Practitioners](https://wikiqigong.com/articles/meditation-for-tai-chi/):
   The still side of the moving art — seated and standing stillness that deepens song and rooting.
 
@@ -113,6 +121,10 @@ scientific reading.
 
 ## Standards
 
+- [About WikiQigong](https://wikiqigong.com/about/): Who we are and why this
+  site exists.
+- [Editorial Team & Review](https://wikiqigong.com/team/): The named roles and
+  review pipeline behind every page.
 - [Editorial Standards](https://wikiqigong.com/editorial-standards/): The
   E-E-A-T quality contract — health wording, three registers, citation policy.
 - [Medical Disclaimer](https://wikiqigong.com/disclaimer/): This is an

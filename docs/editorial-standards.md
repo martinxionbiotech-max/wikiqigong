@@ -1,3 +1,12 @@
+---
+title: Editorial Standards
+description: How WikiQigong keeps every page accurate and honest — our E-E-A-T policy, the three-registers rule, health-claim wording, and citation standards.
+type: page
+author: WikiQigong Editorial Team
+date_published: "2026-08-16"
+date_modified: "2026-08-25"
+---
+
 # Editorial Standards & E-E-A-T Policy
 
 This document is the **quality contract** for every page on the site. It

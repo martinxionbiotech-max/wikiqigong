@@ -4,7 +4,7 @@ chinese: "內功"
 pinyin: "nèigōng"
 english: "Neigong"
 literal: "internal work / internal skill"
-description: "Neigong (內功, nèigōng) means 'internal work' — the deliberate cultivation of body structure, breath, and attention beneath the surface of movement. A concise glossary definition."
+description: "Neigong (內功, nèigōng) means 'internal work' — deliberate cultivation of structure, breath, and attention beneath movement."
 category: "core-concept"
 related:
   - { concept: "Qi", relation: "develops" }

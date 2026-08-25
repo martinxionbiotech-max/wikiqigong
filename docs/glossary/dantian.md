@@ -4,7 +4,7 @@ chinese: "丹田"
 pinyin: "dāntián"
 english: "Dantian"
 literal: "cinnabar field; elixir field"
-description: "The dantian (丹田, dāntián) is the body's lower-abdominal center of gravity in Chinese mind–body practice. Learn its etymology, inner-alchemy origin, and a grounded modern explanation."
+description: "The dantian (丹田, dāntián) is the lower-abdominal center of gravity and breath anchor in Chinese mind-body practice."
 category: "body-map"
 related:
   - { concept: "Qi", relation: "stores", note: "the lower dantian gathers qi" }

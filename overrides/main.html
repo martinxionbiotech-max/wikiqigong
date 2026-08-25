@@ -7,6 +7,37 @@
 {% block extrahead %}
   {{ super() }}
 
+  {# OpenGraph + Twitter meta for social/AI sharing #}
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ page.title if page else config.site_name }}">
+  <meta property="og:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.canonical_url if page else config.site_url }}">
+  <meta property="og:image" content="{{ config.site_url }}assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title if page else config.site_name }}">
+  <meta name="twitter:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
+  <meta name="twitter:image" content="{{ config.site_url }}assets/og-image.png">
+
+  <style>
+    .wk-byline {
+      margin: -0.75rem 0 1.5rem;
+      padding: 0.6rem 0.9rem;
+      font-size: 0.8rem;
+      color: var(--md-default-fg-color--light);
+      background: var(--md-code-bg-color, rgba(0,0,0,0.04));
+      border-left: 3px solid var(--md-primary-fg-color);
+      border-radius: 4px;
+      line-height: 1.5;
+    }
+    .wk-byline strong { color: var(--md-default-fg-color); font-weight: 600; }
+    .wk-byline__sep { opacity: 0.5; margin: 0 0.35rem; }
+    .wk-byline--foot { margin: 1.5rem 0 0; border-left-color: var(--md-default-fg-color--lighter); }
+  </style>
+
   {# Concept-name -> glossary URL slug map, for @id cross-links #}
   {% set term_map = {
     'Balance': 'glossary/balance/',
@@ -204,4 +235,44 @@
   }
   </script>
   {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% include "partials/tags.html" %}
+  {% include "partials/actions.html" %}
+  {% if "\u003ch1" not in page.content %}
+    <h1>{{ page.title | d(config.site_name, true) }}</h1>
+  {% endif %}
+
+  {% if page.meta and (page.meta.type or page.meta.english) %}
+  <div class="wk-byline" role="note" aria-label="Author and review information">
+    <span class="wk-byline__label">Written &amp; reviewed by</span>
+    <strong>{{ page.meta.author | default('WikiQigong Editorial Team') }}</strong>
+    {% if page.meta.reviewed_by and page.meta.reviewed_by != page.meta.author %}
+      <span class="wk-byline__sep">·</span> Reviewed by <strong>{{ page.meta.reviewed_by }}</strong>
+    {% endif %}
+    {% if page.meta.date_published %}
+      <span class="wk-byline__sep">·</span>
+      <span>Published {{ page.meta.date_published }}</span>
+    {% endif %}
+    {% if page.meta.date_modified and page.meta.date_modified != page.meta.date_published %}
+      <span class="wk-byline__sep">·</span>
+      <span>Updated {{ page.meta.date_modified }}</span>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  {{ page.content }}
+
+  {% if page.meta and page.meta.type %}
+  <div class="wk-byline wk-byline--foot" role="note" aria-label="Correction and review policy">
+    Spotted an error? <a href="{{ config.site_url }}about/#contact-us">Report a correction</a>.
+    This page follows the <a href="{{ config.site_url }}editorial-standards/">Editorial Standards</a>
+    and is not medical advice.
+  </div>
+  {% endif %}
+
+  {% include "partials/source-file.html" %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
 {% endblock %}

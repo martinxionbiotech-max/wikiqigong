@@ -1,5 +1,6 @@
 ---
 title: "Gen (Rooting)"
+description: "Gen (根, gēn) means 'root' — the grounded, stable connection to the floor that gives tai chi its balance, stability, and power."
 chinese: "根"
 pinyin: "gēn"
 english: "Rooting"
