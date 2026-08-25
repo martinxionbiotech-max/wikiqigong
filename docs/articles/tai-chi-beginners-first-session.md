@@ -30,6 +30,17 @@ faq:
     a: "Yes. Tai chi is low-impact, slow, and adaptable to almost any fitness level — which is part of why it is so widely studied in older adults. Check with a healthcare professional if you have balance, joint, or heart conditions."
   - q: "What is the most important thing to get right as a beginner?"
     a: "Relaxation (song, 鬆). Everything else — balance, smooth movement, calm breathing — follows from releasing unnecessary tension. Do not chase perfect choreography; chase a soft, open, grounded feeling."
+howto:
+  - name: "Settle and stand (minutes 0-3)"
+    text: "Stand with feet shoulder-width apart, knees soft, arms hanging at your sides. Take a few slow breaths and arrive."
+  - name: "Gentle warm-up (minutes 3-6)"
+    text: "Roll the shoulders, turn the head gently, sway the arms loosely, and shift weight from foot to foot to loosen the joints and find song."
+  - name: "Stand and find your root (minutes 6-10)"
+    text: "Return to standing still. Soften the knees, drop the shoulders, and let the breath sink into the lower abdomen. Feel the feet grow heavier and more connected to the floor."
+  - name: "A few slow movements (minutes 10-16)"
+    text: "Raise and lower the arms with the breath, shift weight side to side, and practice a gentle forward-and-back step. Move at half speed, breathing naturally."
+  - name: "Close and rest (minutes 16-20)"
+    text: "Come back to a comfortable standing posture or sit. Place one hand over the lower abdomen and take five slow, easy breaths. Let the body settle."
 status: "final"
 updated: "2026-08-19"
 ---

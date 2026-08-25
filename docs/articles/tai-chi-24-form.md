@@ -31,6 +31,17 @@ faq:
     a: "A qualified teacher is the best way to learn correct alignment and avoid bad habits, but the form is gentle enough that beginners can also start with a good video or class and practice slowly. If you have health concerns, check with a professional first."
   - q: "How is it different from the Yang long form?"
     a: "The 24-form keeps the essential movements of the Yang style but removes repetitions and difficult techniques, making it shorter, more accessible, and easier to standardize for teaching."
+howto:
+  - name: "Stand comfortably"
+    text: "Stand with feet shoulder-width apart, knees soft, shoulders relaxed — the same opening stance as Zhan Zhuang."
+  - name: "Lift and lower the arms"
+    text: "Raise and lower the arms slowly with the breath a few times, as in the opening movement, to settle in."
+  - name: "Shift your weight"
+    text: "Shift weight slowly from one foot to the other a few times, keeping the movement slow and the spine upright, to feel the rooting."
+  - name: "Learn one or two postures at a time"
+    text: "Learn one or two postures from a teacher or a good video — beginning with Commencing and Part the Wild Horse's Mane."
+  - name: "Chain what you know"
+    text: "Chain the postures you know into a slow, continuous loop, adding one posture at a time as each becomes comfortable."
 status: "final"
 updated: "2026-08-23"
 ---
