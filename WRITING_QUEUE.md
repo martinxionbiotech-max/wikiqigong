@@ -37,14 +37,17 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
    the primary list — see next recommended)
 
 ## Next recommended (remaining strengthening backlog)
-- History timeline page (concentrated "when did each practice/idea emerge").
-- Pronunciation & tone-mark guide.
+- History timeline page (concentrated "when did each practice/idea emerge"). ✅ done 2026-08-25 (pass 2)
+- Pronunciation & tone-mark guide. ✅ done 2026-08-25 (pass 2)
 - HowTo schema on beginner-session + 24-form pages (`howto:` frontmatter).
-- Author/reviewer bios for stronger E-E-A-T.
-- Tai Chi for stress / mental health (evidence-focused page).
+- Author/reviewer bios for stronger E-E-A-T. ✅ partial — team.md added 2026-08-25; per-article named authors still pending
+- Tai Chi for stress / mental health (evidence-focused page). ✅ done 2026-08-25 (pass 2)
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-25 (pass 2): OG/Twitter meta + og:image + favicon; visible byline;
+  team.md; history-timeline; pronunciation-guide; tai-chi-for-stress;
+  21 description fixes. Commit a584616.
 - 2026-08-25 (night): meditation-for-tai-chi (article) + li-vs-jin (article)
   + li (glossary) + hui-yin (glossary) — closed the "still side of tai chi"
   gap and the li/jin force-distinction gap, plus the perineum body-map entry.
