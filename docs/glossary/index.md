@@ -66,6 +66,9 @@ page that connects to the concepts around it.
 | [Ming Men (Life Gate)](ming-men.md) | 命門 | mìng mén | gate of life; the lower back |
 | [Lao Gong (Palm Point)](lao-gong.md) | 勞宮 | láo gōng | labor palace; the palm center |
 | [Hui Yin (Perineum Point)](hui-yin.md) | 會陰 | huì yīn | meeting of yin; the perineum |
+| [Bai Hui (Crown Point)](bai-hui.md) | 百會 | bǎi huì | hundred meetings; the crown |
+| [Yong Quan (Bubbling Well)](yong-quan.md) | 湧泉 | yǒng quán | gushing spring; the sole |
+| [Kua (The Hips)](kua.md) | 胯 | kuà | hip; inguinal region |
 
 ## Tradition
 
@@ -91,5 +94,8 @@ These concepts are not isolated. The most important links:
   extends it into the five phases.
 - **The foundation** — [Song](song.md) (release) → [Chen](chen.md) (sinking) →
   [Gen](gen.md) (rooting): the chain that grounds every stance.
+- **The vertical axis** — [Bai Hui](bai-hui.md) (crown) → [Dantian](dantian.md)
+  (center) → [Yong Quan](yong-quan.md) (sole): the aligned line of standing
+  posture, with the [Kua](kua.md) as the hinge that lets it settle.
 
 More entries are added steadily as the site grows.
