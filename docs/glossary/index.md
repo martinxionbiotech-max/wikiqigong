@@ -22,6 +22,7 @@ page that connects to the concepts around it.
 | [Jing](jing.md) | 精 | jīng | essence; constitutional reserve |
 | [Jin](jin.md) | 勁 | jìn | refined force; trained power |
 | [Li](li.md) | 力 | lì | raw strength; muscular force |
+| [Fa Jin (Issuing Force)](fa-jin.md) | 發勁 | fājìn | issuing trained force |
 | [Shen](shen.md) | 神 | shén | spirit; mind; consciousness |
 | [Qigong](qigong.md) | 氣功 | qìgōng | qi work; breath work |
 | [Tai Chi](tai-chi.md) | 太極 | tàijí | the supreme ultimate |
@@ -54,6 +55,7 @@ page that connects to the concepts around it.
 | [Wuji](wuji.md) | 無極 | wújí | without limit; the undivided state |
 | [Xing, Yi, Qi](xing-yi-qi.md) | 形意氣 | xíng yì qì | form, intention, energy |
 | [Yang Sheng (Nourishing Life)](yang-sheng.md) | 養生 | yǎng shēng | nourishing life |
+| [Xiao Zhou Tian (Microcosmic Orbit)](xiao-zhou-tian.md) | 小周天 | xiǎozhōutiān | microcosmic orbit |
 
 ## Body-map
 

@@ -47,6 +47,10 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-26 (pass 4, manual): eight-methods article (Thirteen Postures);
+  tai-chi-for-conditions article (evidence map); fa-jin + xiao-zhou-tian
+  glossary; tai-chi-principles eight-methods hook; og:type fix + Article
+  schema image fix. Build 0/0, 83 URLs, 290 JSON-LD, 0 invalid.
 - 2026-08-26 (night): tai-chi-for-sleep (article) + yang-sheng (glossary) —
   closed the sleep/insomnia evidence gap + the nourishing-life concept gap.
   Commit 6c13904.

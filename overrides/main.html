@@ -11,7 +11,7 @@
   <meta property="og:site_name" content="{{ config.site_name }}">
   <meta property="og:title" content="{{ page.title if page else config.site_name }}">
   <meta property="og:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
-  <meta property="og:type" content="article">
+  <meta property="og:type" content="{{ 'website' if (page and page.meta and page.meta.type == 'page') else 'article' }}">
   <meta property="og:url" content="{{ page.canonical_url if page else config.site_url }}">
   <meta property="og:image" content="{{ config.site_url }}assets/og-image.png">
   <meta property="og:image:width" content="1200">
@@ -51,6 +51,9 @@
     'Jing': 'glossary/jing/',
     'Jin': 'glossary/jin/',
     'Li': 'glossary/li/',
+    'Fa Jin (Issuing Force)': 'glossary/fa-jin/',
+    'Fa Jin': 'glossary/fa-jin/',
+    'Issuing Force': 'glossary/fa-jin/',
     'Jingluo (Meridians)': 'glossary/jingluo/',
     'Meridians': 'glossary/jingluo/',
     'Lao Gong': 'glossary/lao-gong/',
@@ -85,6 +88,9 @@
     'Form, Intention, Qi': 'glossary/xing-yi-qi/',
     'Yang Sheng': 'glossary/yang-sheng/',
     'Nourishing Life': 'glossary/yang-sheng/',
+    'Xiao Zhou Tian (Microcosmic Orbit)': 'glossary/xiao-zhou-tian/',
+    'Xiao Zhou Tian': 'glossary/xiao-zhou-tian/',
+    'Microcosmic Orbit': 'glossary/xiao-zhou-tian/',
     'Yin–Yang': 'glossary/yin-yang/',
     'Zhan Zhuang': 'glossary/zhan-zhuang/'
   } %}
@@ -155,6 +161,7 @@
     "publisher": {
       "@id": "{{ config.site_url }}#organization"
     },
+    "image": "{{ config.site_url }}assets/og-image.png",
     "datePublished": "{{ page.meta.date_published }}",
     "dateModified": "{{ page.meta.date_modified }}",
     "mainEntityOfPage": {

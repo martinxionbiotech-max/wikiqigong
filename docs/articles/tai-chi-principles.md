@@ -252,6 +252,16 @@ A single slow movement can be checked against all six in seconds. That is the
 whole practice in miniature: **move slowly, and ask better questions of your
 own body.**
 
+### From principles to technique: the eight methods & five steps
+
+The six principles are the *how*; the classical **eight methods and five
+steps** are the *what*. Each named technique — peng, lu, ji, an and the rest —
+is a particular expression of the same principles: ward-off (*peng*) is
+relaxed expansion, roll back (*lu*) is yielding, central equilibrium is
+rooting in motion. The framework is tai chi's technical vocabulary, the map
+that turns the principles into specific, nameable movements. See
+[The Eight Methods & Five Steps](eight-methods.md) for the full breakdown.
+
 ---
 
 ## Why the principles matter for health (and beyond)
@@ -315,6 +325,8 @@ Tai chi is gentle and broadly safe, but the same good sense applies:
   foundations of tai chi's sibling practice.
 - **[Tai Chi vs Qigong](tai-chi-vs-qigong.md)** — how the two systems
   relate.
+- **[The Eight Methods & Five Steps](eight-methods.md)** — the technical
+  vocabulary the principles express.
 - Glossary anchors: [Yin–Yang](../glossary/yin-yang.md), [Dantian](../glossary/dantian.md),
   [Qi](../glossary/qi.md).
 
