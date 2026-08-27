@@ -42,6 +42,8 @@ page that connects to the concepts around it.
 | [Sinking (Chen)](chen.md) | 沉 | chén | sinking; settling downward |
 | [Silk Reeling (Chan Si Jing)](silk-reeling.md) | 纏絲勁 | chánsījìn | silk-reeling force; the spiral |
 | [Push Hands (Tui Shou)](tui-shou.md) | 推手 | tuīshǒu | pushing hands; partner practice |
+| [Fang Song (Release & Loosen)](fang-song.md) | 放鬆 | fàng sōng | release and loosen |
+| [Ting Jin (Listening Force)](ting-jin.md) | 聽勁 | tīng jìn | listening force; touch sensitivity |
 
 ## Philosophy
 
