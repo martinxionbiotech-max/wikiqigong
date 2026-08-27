@@ -38,6 +38,11 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Completed (this batch, keep for reference)
 
+- 2026-08-28 (night): tai-chi-for-focus (article, cognitive evidence) + shen
+  (article, third-treasure deep-dive) + fang-song + ting-jin (glossary) —
+  closed the cognition/brain evidence gap and the shen concept-gap, plus the
+  "release as verb" and "listening force" practice-gap entries. Commit 0d647de.
+
 - 2026-08-27 (night): tai-chi-posture-alignment (article, vertical axis) +
   bai-hui + yong-quan + kua (glossary) — closed the vertical-axis body-map
   gap (crown/sole/hips were cited throughout but had no entries or home page).
