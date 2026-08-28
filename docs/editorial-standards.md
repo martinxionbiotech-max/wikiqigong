@@ -117,6 +117,40 @@ Every article must provide, where applicable:
 
 ---
 
+## Second-pass optimization checklist (mandatory after writing)
+
+Every new page gets a **second pass** before it is committed — a deliberate
+re-read aimed at deepening thin spots, not just fixing typos. Work through
+these checks in order:
+
+1. **Frontmatter completeness** — `author: "Master Wong"`,
+   `reviewed_by: "WikiQigong Editorial Team"`, `description` (100–160 chars),
+   and — for any page with a Chinese subject — `chinese`, `pinyin`, `literal`
+   fields. No article or glossary entry should reference a Chinese term in the
+   body while missing its `chinese` frontmatter field.
+2. **Chinese-to-English bridge (字义拆解)** — every key Chinese term should
+   carry not just a literal gloss but the *imagery transfer*: what the
+   character pictures, and why that character (not another) was chosen. Example:
+   not just 氣 = "energy", but 氣 = the steam rising from cooking rice. A term
+   with only a one-word gloss is thin — deepen it.
+3. **Three registers present and separated** — historical fact / traditional
+   interpretation / modern explanation, each clearly labeled.
+4. **Health wording audit** — no cure/treat/guarantee; hedged where needed;
+   evidence strength stated.
+5. **Depth audit** — read the page cold and ask: which section would leave a
+   curious reader wanting more? Expand the thinnest one rather than padding
+   what is already solid.
+6. **Structural audit** — TL;DR block, direct-answer H2s, ≥1 table, FAQ (5+),
+   3–8 internal links, 1–3 authoritative external links.
+7. **JSON-LD validity** — `json.loads` on every emitted block; Article/FAQPage
+   (or DefinedTerm) present and mirroring visible content.
+8. **Build gate** — `mkdocs build --strict` exit code 0.
+
+Pass all eight before commit. If any fails, fix and re-check — do not publish
+with a known gap.
+
+---
+
 ## JSON-LD contract
 
 Every article page emits two blocks:
