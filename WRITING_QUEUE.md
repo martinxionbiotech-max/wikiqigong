@@ -30,18 +30,60 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
   via `/file/content` API → one-time push URL).
 - Write nightly report to `reports/nightly/YYYY-MM-DD.md`.
 
-## Priority queue (expansion phase, Days 9–15)
+## Priority queue (expansion phase — 2026-08-28 refresh)
 
-### Articles
+Write in order. 1–3 items/night. Each night, work down this list and move
+done items to Completed.
 
-1. **Tai Chi for stress / mental health** — evidence-focused page (mirror the
-   older-adults page), NCCIH/Harvard sourced. ✅ done 2026-08-25 (pass 2)
+### Tier 1 — Close existing gaps (fast, high-value)
+
+1. **Ba Duan Jin (八段錦) glossary** — article exists; glossary entry is missing.
+   Full schema per GLOSSARY_SCHEMA.md.
+2. **Bagua (八卦) glossary** — the eight-methods article cites 八卦 but there is
+   no entry. Also a natural sibling to wu-xing.
+3. **Tuna (吐納) glossary** — "exhale & inhale" breathing, cited across
+   breathing/qigong pages but undefined.
+4. **Yi (意) glossary** — "intention," the middle layer of xing-yi-qi; deserves
+   its own entry (sibling to shen).
+5. **Weilu (尾閭) glossary** — tailbone gate; cited in posture-alignment and
+   xiao-zhou-tian but undefined.
+
+### Tier 2 — High-search health evidence pages (strong E-E-A-T)
+
+6. **Tai Chi for Arthritis** — evidence page, NCCIH/PubMed sourced, mirror the
+   older-adults structure.
+7. **Tai Chi for Blood Pressure** — evidence page (hypertension studies).
+8. **Tai Chi for Balance & Fall Prevention** — standalone page (highest-search
+   topic); cross-link from older-adults, don't duplicate it.
+9. **Tai Chi for Chronic Pain** — evidence map (fibromyalgia, low back, neck).
+10. **Tai Chi for Parkinson's** — evidence page (gait/balance studies).
+11. **Qigong for Cancer Survivors** — evidence page (fatigue/sleep/quality of
+    life; strictly hedged).
+
+### Tier 3 — Comparisons (search intent is strong)
+
+12. **Tai Chi vs Pilates** — clear, honest comparison.
+13. **Tai Chi vs Walking** — what slow mindful walking adds beyond a daily walk.
+14. **Qigong vs Stretching** — is qigong "just stretching"? No — and why.
+
+### Tier 4 — Practice guides & how-to
+
+15. **How to Choose a Tai Chi Teacher** — red flags, lineage questions, what to
+    look for. Strong practical E-E-A-T.
+16. **10-Minute Morning Qigong Routine** — beginner routine with HowTo schema.
+17. **Qigong for Beginners: Your First Week** — a 7-day on-ramp.
+18. **Tai Chi Weapons: An Introduction to the Sword** — history + what the form
+    trains.
+
+### Tier 5 — Core-concept deep dives
+
+19. **The Taiji Diagram (太極圖)** — the yin-yang symbol explained properly.
+20. **Six Harmonies (六合)** — the internal/external harmonies behind xing-yi-qi.
 
 ### Glossary entries (one per concept, full schema)
 
-1. **Yang Sheng (養生, nourishing life)** ✅ done 2026-08-26 (night) — added
-   alongside the sleep article (the article's three-registers section references
-   it).
+- Every article in the tiers above should ship with its glossary entry where the
+  concept does not already have one.
 
 ## Completed (this batch, keep for reference)
 
