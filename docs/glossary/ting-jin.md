@@ -12,6 +12,8 @@ related:
   - { concept: "Song", relation: "requires", note: "release is the precondition for sensitivity" }
   - { concept: "Balance", relation: "depends on", note: "listening lets you respond without overbalancing" }
   - { concept: "Silk Reeling", relation: "complements", note: "spiral coiling is read through listening" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-28"
 ---
 

@@ -7,8 +7,8 @@ description: "The dantian (丹田, dāntián) is the lower-abdominal center of g
 chinese: "丹田"
 pinyin: "dāntián"
 literal: "cinnabar field; elixir field"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-20"
 date_modified: "2026-08-22"
 related:

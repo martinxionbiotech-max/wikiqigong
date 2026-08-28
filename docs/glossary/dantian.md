@@ -12,6 +12,8 @@ related:
   - { concept: "Zhan Zhuang", relation: "develops awareness of", note: "standing practice roots attention in the lower dantian" }
   - { concept: "Tai Chi", relation: "moves from", note: "movement is said to originate from the dantian" }
   - { concept: "Neigong", relation: "cultivated in", note: "internal work centers on this region" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

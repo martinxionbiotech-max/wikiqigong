@@ -2,7 +2,7 @@
 title: About WikiQigong
 description: About WikiQigong — who we are, why this site exists, and the editorial standards that keep every page accurate, honest, and trustworthy.
 type: page
-author: WikiQigong Editorial Team
+author: "Master Wong"
 date_published: "2026-08-16"
 date_modified: "2026-08-25"
 ---
@@ -40,7 +40,9 @@ grounded, non-mystical reading. Both halves matter, and every page does both.
 
 ## Who we are
 
-WikiQigong is written and reviewed by the **WikiQigong Editorial Team** — a
+WikiQigong is authored by **Master Wong**, a Tai Chi and Qigong practitioner
+and instructor with **15 years of dedicated practice and teaching** in the
+Chinese mind-body arts, supported by the **WikiQigong Editorial Team** — a
 small group working to produce clear, accurate, well-sourced educational
 material. We publish under a named editorial structure, not an anonymous
 byline, so that you can see who is responsible for what. See the full
@@ -49,7 +51,7 @@ and how corrections are handled.
 
 | Role | Responsibility |
 |------|----------------|
-| **Lead Editor** | Overall accuracy and voice; final sign-off on every page |
+| **Master Wong — Lead Author** | Core guidance, practice instruction, and the site's voice; 15 years of practice and teaching |
 | **Content Editor** | Drafting and plain-English reconstruction of Chinese concepts |
 | **Fact Checker** | Verifying characters, pinyin, dates, and citations |
 | **Reviewer** | A second pass on health wording and the three-registers rule |
@@ -68,7 +70,7 @@ Every page moves through the same pipeline before it is published:
    and citation against sources.
 3. **Review** — a reviewer checks health wording ("may support," never
    "cure") and that the three registers are clearly separated.
-4. **Publish** — the lead editor signs off, the build is validated
+4. **Publish** — Master Wong signs off, the build is validated
    (`mkdocs build --strict` must pass with 0 errors), and the page ships with
    its structured data.
 5. **Maintain** — pages carry a `date_modified` stamp and are revisited as

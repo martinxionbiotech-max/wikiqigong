@@ -3,8 +3,8 @@ title: Tai Chi for Focus, Memory & Cognitive Health
 description: What the evidence shows about tai chi and qigong for focus, memory, and cognition in aging — the honest, no-overpromising picture.
 type: practice
 category: tai-chi
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-28"
 date_modified: "2026-08-28"
 related:

@@ -7,8 +7,8 @@ description: "Song (鬆), 'relaxed release,' is the foundational quality of tai 
 chinese: "鬆"
 pinyin: "sōng"
 literal: "loose; relaxed; to release"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

@@ -7,8 +7,8 @@ description: "Li (力) is raw muscular force; jin (勁) is tai chi's trained, wh
 chinese: "力 vs 勁"
 pinyin: "lì vs jìn"
 literal: "raw strength vs refined force"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-25"
 date_modified: "2026-08-25"
 related:

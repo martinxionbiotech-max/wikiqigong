@@ -11,6 +11,8 @@ related:
   - { concept: "Song", relation: "arises from", note: "relaxation lets force transmit without leaking" }
   - { concept: "Qi", relation: "often paired with", note: "jin is classically qi expressed as force" }
   - { concept: "Silk Reeling", relation: "expresses", note: "chan si jin — 'silk-reeling force'" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-24"
 ---
 

@@ -11,6 +11,8 @@ related:
   - { concept: "Breathing", relation: "coordinates with" }
   - { concept: "Tai Chi", relation: "shares lineage with" }
   - { concept: "Balance", relation: "cultivates" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

@@ -7,8 +7,8 @@ description: "Dao Yin (導引), 'guiding and pulling,' is the 2,000-year-old art
 chinese: "導引"
 pinyin: "dǎoyǐn"
 literal: "guiding and pulling"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

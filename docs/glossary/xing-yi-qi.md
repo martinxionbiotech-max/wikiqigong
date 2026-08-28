@@ -12,6 +12,8 @@ related:
   - { concept: "Neigong", relation: "moves through", note: "neigong is the progression from form to intention to qi" }
   - { concept: "Song", relation: "unlocks the progression", note: "release lets form become intention" }
   - { concept: "Shen", relation: "related to", note: "attention leads intention" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-18"
 ---
 

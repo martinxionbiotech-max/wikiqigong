@@ -7,8 +7,8 @@ description: "Meridians (經絡, jīngluò) are the channels through which qi is
 chinese: "經絡"
 pinyin: "jīngluò"
 literal: "channels and network"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-23"
 date_modified: "2026-08-23"
 related:

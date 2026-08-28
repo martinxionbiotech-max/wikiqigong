@@ -130,6 +130,16 @@
         ]
       },
       {
+        "@type": "Person",
+        "@id": "{{ config.site_url }}#master-wong",
+        "name": "Master Wong",
+        "jobTitle": "Tai Chi & Qigong Practitioner and Instructor",
+        "description": "Master Wong has practiced and taught Tai Chi, Qigong, and Chinese mind-body arts for 15 years.",
+        "worksFor": {
+          "@id": "{{ config.site_url }}#organization"
+        }
+      },
+      {
         "@type": "WebSite",
         "@id": "{{ config.site_url }}#website",
         "name": "WikiQigong",
@@ -174,8 +184,10 @@
     "headline": "{{ page.title }}",
     "description": "{{ page.meta.description }}",
     "author": {
-      "@type": "Organization",
-      "name": "{{ page.meta.author | default('WikiQigong Editorial Team') }}"
+      "@type": "Person",
+      "name": "Master Wong",
+      "jobTitle": "Tai Chi & Qigong Practitioner and Instructor",
+      "description": "15 years of dedicated practice and teaching in Tai Chi, Qigong, and Chinese mind-body arts."
     },
     "publisher": {
       "@id": "{{ config.site_url }}#organization"
@@ -274,8 +286,10 @@
 
   {% if page.meta and (page.meta.type or page.meta.english) %}
   <div class="wk-byline" role="note" aria-label="Author and review information">
-    <span class="wk-byline__label">Written &amp; reviewed by</span>
-    <strong>{{ page.meta.author | default('WikiQigong Editorial Team') }}</strong>
+    <span class="wk-byline__label">Written by</span>
+    <strong>{{ page.meta.author | default('Master Wong') }}</strong>
+    <span class="wk-byline__sep">·</span>
+    <span>15 years of Tai Chi &amp; Qigong practice</span>
     {% if page.meta.reviewed_by and page.meta.reviewed_by != page.meta.author %}
       <span class="wk-byline__sep">·</span> Reviewed by <strong>{{ page.meta.reviewed_by }}</strong>
     {% endif %}

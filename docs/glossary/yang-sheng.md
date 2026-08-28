@@ -11,6 +11,8 @@ related:
   - { concept: "Dao Yin", relation: "includes", note: "guiding-and-pulling movement is one classical yang sheng method" }
   - { concept: "Balance", relation: "seeks", note: "yang sheng is fundamentally about balance across body, breath, and mind" }
   - { concept: "Meditation", relation: "encompasses", note: "quiet sitting is one of the nourishing practices" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-26"
 ---
 

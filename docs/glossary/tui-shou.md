@@ -11,6 +11,8 @@ related:
   - { concept: "Song", relation: "depends on", note: "you yield by releasing, not resisting" }
   - { concept: "Rooting", relation: "tests", note: "push hands reveals whether your root holds" }
   - { concept: "Balance", relation: "trains", note: "maintaining equilibrium under contact" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-23"
 ---
 

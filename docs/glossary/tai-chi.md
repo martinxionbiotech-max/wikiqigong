@@ -12,6 +12,8 @@ related:
   - { concept: "Qi", relation: "guides movement in" }
   - { concept: "Dantian", relation: "moves from" }
   - { concept: "Zhan Zhuang", relation: "standing foundation of" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

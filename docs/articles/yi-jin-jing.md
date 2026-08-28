@@ -7,8 +7,8 @@ description: "Yi Jin Jing (易筋經), the 'Muscle/Tendon Change Classic,' is a 
 chinese: "易筋經"
 pinyin: "yì jīn jīng"
 literal: "changing the sinews classic"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-23"
 date_modified: "2026-08-23"
 related:

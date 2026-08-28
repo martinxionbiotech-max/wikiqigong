@@ -7,8 +7,8 @@ description: "Learn tai chi from zero with a safe, simple 20-minute first sessio
 chinese: "太極拳"
 pinyin: "tàijíquán"
 literal: "supreme ultimate fist"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-19"
 date_modified: "2026-08-19"
 related:

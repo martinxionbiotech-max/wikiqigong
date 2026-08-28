@@ -11,6 +11,8 @@ related:
   - { concept: "Breathing", relation: "core mechanism of" }
   - { concept: "Dao Yin", relation: "descends from" }
   - { concept: "Wu Xing", relation: "organizes by" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

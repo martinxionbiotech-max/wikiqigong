@@ -7,8 +7,8 @@ description: "Qigong (氣功) is a Chinese system of gentle movement, breathing,
 chinese: "氣功"
 pinyin: "qìgōng"
 literal: "qi work / breath work"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

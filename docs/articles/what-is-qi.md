@@ -7,8 +7,8 @@ description: "Qi (氣, qì) is the Chinese concept of the body's functional ener
 chinese: "氣"
 pinyin: "qì"
 literal: "breath; air; vital energy"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-20"
 date_modified: "2026-08-22"
 related:

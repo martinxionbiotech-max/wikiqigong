@@ -7,8 +7,8 @@ description: "Rooting (gen, 根) is the grounded, stable connection to the earth
 chinese: "根"
 pinyin: "gēn"
 literal: "root"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-18"
 date_modified: "2026-08-22"
 related:

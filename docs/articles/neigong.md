@@ -7,8 +7,8 @@ description: "Neigong (內功), 'internal work,' is the hidden layer of tai chi 
 chinese: "內功"
 pinyin: "nèigōng"
 literal: "internal work / internal skill"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-18"
 date_modified: "2026-08-22"
 related:

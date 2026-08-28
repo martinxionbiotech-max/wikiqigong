@@ -12,6 +12,8 @@ related:
   - { concept: "Qigong", relation: "balances", note: "many practices aim to harmonize yin and yang" }
   - { concept: "Wu Xing", relation: "elaborated by", note: "the five phases extend yin–yang thinking" }
   - { concept: "Balance", relation: "illustrates", note: "yin–yang is a framework for dynamic balance" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

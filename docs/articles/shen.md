@@ -7,7 +7,7 @@ description: "Shen (神, shén) — 'spirit' or 'mind' — is the luminous, awar
 chinese: "神"
 pinyin: "shén"
 literal: "spirit; mind; consciousness"
-author: "WikiQigong Editorial Team"
+author: "Master Wong"
 reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-28"
 date_modified: "2026-08-28"

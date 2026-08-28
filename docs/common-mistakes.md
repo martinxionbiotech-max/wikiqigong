@@ -7,8 +7,8 @@ description: "The most common mistakes beginners make in tai chi and qigong — 
 chinese: ""
 pinyin: ""
 literal: ""
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-24"
 date_modified: "2026-08-24"
 related:

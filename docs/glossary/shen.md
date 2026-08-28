@@ -12,6 +12,8 @@ related:
   - { concept: "Meditation", relation: "calms", note: "meditation is the primary practice for settling the shen" }
   - { concept: "Neigong", relation: "cultivates", note: "internal work aims to quiet and refine the shen" }
   - { concept: "Dantian", relation: "anchored via", note: "settled breath in the dantian helps calm the shen" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

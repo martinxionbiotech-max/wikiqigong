@@ -11,6 +11,8 @@ related:
   - { concept: "Dao Yin", relation: "descends from" }
   - { concept: "Breathing", relation: "coordinates with" }
   - { concept: "Wu Xing", relation: "sometimes organized by" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-23"
 ---
 

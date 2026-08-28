@@ -12,6 +12,8 @@ related:
   - { concept: "Tai Chi", relation: "internal method of" }
   - { concept: "Qigong", relation: "shares methods with" }
   - { concept: "Shen", relation: "refines" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

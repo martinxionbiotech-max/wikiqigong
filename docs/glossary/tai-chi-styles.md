@@ -12,6 +12,8 @@ related:
   - { concept: "Yin–Yang", relation: "expressed through every style" }
   - { concept: "Zhan Zhuang", relation: "foundation for all styles" }
   - { concept: "Qi", relation: "guided by every style" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-17"
 ---
 

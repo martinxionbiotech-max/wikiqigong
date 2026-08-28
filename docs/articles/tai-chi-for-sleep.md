@@ -3,8 +3,8 @@ title: Tai Chi & Qigong for Sleep
 description: What the evidence shows about tai chi and qigong for sleep quality and insomnia — the honest picture, with the relaxation mechanisms and safety notes.
 type: practice
 category: tai-chi
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-26"
 date_modified: "2026-08-26"
 related:

@@ -12,6 +12,8 @@ related:
   - { concept: "Dantian", relation: "focus point in" }
   - { concept: "Tai Chi", relation: "sibling practice of" }
   - { concept: "Meditation", relation: "still form of" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

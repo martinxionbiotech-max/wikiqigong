@@ -12,6 +12,8 @@ related:
   - { concept: "Hui Yin", relation: "opposite of", note: "top and bottom of the trunk's midline" }
   - { concept: "Zhan Zhuang", relation: "referenced in", note: "the 'lift the crown' cue comes from bai hui" }
   - { concept: "Xiao Zhou Tian", relation: "point on", note: "the crown point in the microcosmic orbit" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-27"
 ---
 

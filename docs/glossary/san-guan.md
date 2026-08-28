@@ -12,6 +12,8 @@ related:
   - { concept: "Breathing", relation: "coordinates with", note: "attention rides the breath along the spine" }
   - { concept: "Neigong", relation: "uses in", note: "the gates are a map for internal cultivation" }
   - { concept: "Tai Chi", relation: "aligns the spine through", note: "straight, relaxed posture opens the gates" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-18"
 ---
 

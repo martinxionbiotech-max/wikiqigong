@@ -12,6 +12,8 @@ related:
   - { concept: "Song", relation: "embodied in the wuji posture" }
   - { concept: "Zhan Zhuang", relation: "begins from" }
   - { concept: "Qi", relation: "still field of" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-17"
 ---
 

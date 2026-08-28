@@ -11,6 +11,8 @@ related:
   - { concept: "Qi", relation: "second treasure" }
   - { concept: "Shen", relation: "third treasure" }
   - { concept: "Qigong", relation: "organizes practice around" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

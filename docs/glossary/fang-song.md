@@ -12,6 +12,8 @@ related:
   - { concept: "Tai Chi", relation: "core instruction of", note: "fang song is the first and most repeated cue" }
   - { concept: "Zhan Zhuang", relation: "cultivated through", note: "standing practice most directly trains release" }
   - { concept: "Breathing", relation: "deepens with", note: "released tissue lets the breath drop" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-28"
 ---
 

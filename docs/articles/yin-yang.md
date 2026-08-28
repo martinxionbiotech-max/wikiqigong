@@ -7,8 +7,8 @@ description: "Yin and yang (陰陽, yīn yáng) are the complementary opposites 
 chinese: "陰陽"
 pinyin: "yīn yáng"
 literal: "shady side / sunny side"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-21"
 date_modified: "2026-08-22"
 related:

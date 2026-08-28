@@ -12,6 +12,8 @@ related:
   - { concept: "Zhan Zhuang", relation: "cultivated through" }
   - { concept: "Breathing", relation: "deepens with" }
   - { concept: "Balance", relation: "enables" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

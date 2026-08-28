@@ -7,8 +7,8 @@ description: "Baduanjin (八段錦), the 'Eight Pieces of Brocade,' is the world
 chinese: "八段錦"
 pinyin: "bāduànjǐn"
 literal: "eight pieces of brocade"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

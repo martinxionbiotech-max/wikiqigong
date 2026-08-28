@@ -12,6 +12,8 @@ related:
   - { concept: "Breathing", relation: "deepens with", note: "the breath sinks to the dantian" }
   - { concept: "Dantian", relation: "settles into", note: "breath and attention sink to the lower abdomen" }
   - { concept: "Tai Chi", relation: "core quality of" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-18"
 ---
 

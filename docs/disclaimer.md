@@ -2,7 +2,7 @@
 title: Medical Disclaimer
 description: WikiQigong is an educational resource, not medical advice. Read our full disclaimer on health claims and practice safety.
 type: page
-author: WikiQigong Editorial Team
+author: "Master Wong"
 date_published: "2026-08-16"
 date_modified: "2026-08-25"
 ---

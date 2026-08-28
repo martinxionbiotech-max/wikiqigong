@@ -11,6 +11,8 @@ related:
   - { concept: "Gen", relation: "grounded through", note: "the sole point is where the root meets the ground" }
   - { concept: "Zhan Zhuang", relation: "referenced in", note: "the 'feel the soles' cue comes from yong quan" }
   - { concept: "Chen", relation: "settles into", note: "sinking weight settles toward the sole" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-27"
 ---
 

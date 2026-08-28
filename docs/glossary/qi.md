@@ -12,6 +12,8 @@ related:
   - { concept: "Breathing", relation: "transported by", note: "breath and qi were historically seen as linked" }
   - { concept: "Tai Chi", relation: "guides movement in", note: "tai chi aims to move qi through the body" }
   - { concept: "Neigong", relation: "developed through", note: "neigong is internal cultivation of qi" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

@@ -7,8 +7,8 @@ description: "Tai chi rests on six principles — song, rooting, whole-body move
 chinese: "太極拳理"
 pinyin: "tàijí quánlǐ"
 literal: "tai chi principles / tai chi theory"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

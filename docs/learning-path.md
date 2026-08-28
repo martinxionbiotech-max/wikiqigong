@@ -7,8 +7,8 @@ description: "A step-by-step learning path for tai chi and qigong — from your 
 chinese: ""
 pinyin: ""
 literal: ""
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-24"
 date_modified: "2026-08-24"
 related:

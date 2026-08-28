@@ -2,8 +2,8 @@
 title: Editorial Team & Review
 description: Meet the WikiQigong editorial team — who writes, fact-checks, and reviews every page, and how corrections are handled.
 type: page
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-25"
 date_modified: "2026-08-25"
 ---
@@ -38,7 +38,7 @@ than promised. See the full contract in [Editorial Standards](editorial-standard
 
 | Role | Responsibility | What qualifies them |
 |------|----------------|---------------------|
-| **Lead Editor** | Overall accuracy and voice; final sign-off on every page | Chinese-language editorial background; owns the style and the "three registers" rule |
+| **Master Wong — Lead Author** | Writes the core guidance and practice instructions; sets the voice and the "three registers" rule | 15 years of dedicated practice and teaching in Tai Chi, Qigong, and Chinese mind-body arts |
 | **Content Editor** | Drafting and plain-English reconstruction of Chinese concepts | Bilingual writing; the person who turns a concept into clear English without stripping its context |
 | **Fact Checker** | Verifying characters, pinyin, tone marks, dates, and citations | Working knowledge of classical and modern Chinese source texts |
 | **Reviewer** | Second pass on health wording and the three-registers rule | Independent read; the one who catches "may support" vs "cure" drift |
@@ -60,7 +60,7 @@ Every page moves through the same five steps before it ships:
    and citation against sources.
 3. **Review** — the reviewer checks health wording and that the three registers
    are clearly separated.
-4. **Publish** — the lead editor signs off; the build must pass
+4. **Publish** — Master Wong signs off; the build must pass
    `mkdocs build --strict` with 0 errors, and the page ships with structured
    data (Article + FAQPage, or DefinedTerm for glossary entries).
 5. **Maintain** — pages carry a `date_modified` stamp and are revisited as the

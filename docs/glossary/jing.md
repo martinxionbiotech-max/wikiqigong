@@ -12,6 +12,8 @@ related:
   - { concept: "Neigong", relation: "conserves", note: "internal cultivation traditionally aims to preserve jing" }
   - { concept: "Qigong", relation: "nourishes", note: "qigong is classically described as nourishing jing" }
   - { concept: "Dantian", relation: "associated with", note: "the lower dantian is linked to the body's reserves" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

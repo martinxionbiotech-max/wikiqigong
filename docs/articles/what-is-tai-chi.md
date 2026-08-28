@@ -7,8 +7,8 @@ description: "Tai chi (太極拳, tàijíquán) is a Chinese martial art practic
 chinese: "太極拳"
 pinyin: "tàijíquán"
 literal: "Supreme Ultimate fist / Grand Ultimate boxing"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

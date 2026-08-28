@@ -7,8 +7,8 @@ description: "Wuji (無極), 'without limit,' is the still state before yin and 
 chinese: "無極"
 pinyin: "wújí"
 literal: "without limit / without ridgepole"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-17"
 date_modified: "2026-08-22"
 related:

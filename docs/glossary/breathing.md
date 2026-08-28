@@ -12,6 +12,8 @@ related:
   - { concept: "Qigong", relation: "core method of", note: "breath is one of the three regulations" }
   - { concept: "Tai Chi", relation: "coordinates with", note: "movement and breath are matched in tai chi" }
   - { concept: "Meditation", relation: "anchors", note: "breath is the most common object of attention" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

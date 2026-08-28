@@ -12,6 +12,8 @@ related:
   - { concept: "Qi", relation: "rooted in", note: "ming men was described as a source of qi" }
   - { concept: "Tai Chi", relation: "opens through", note: "an open lower back lets ming men release" }
   - { concept: "Neigong", relation: "centers on", note: "internal practice often focuses on the lower back" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-18"
 ---
 

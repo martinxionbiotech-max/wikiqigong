@@ -7,8 +7,8 @@ description: "Liu Zi Jue (六字訣), the 'Six Healing Sounds,' is a breathing q
 chinese: "六字訣"
 pinyin: "liù zì jué"
 literal: "six-character secret"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-22"
 date_modified: "2026-08-22"
 related:

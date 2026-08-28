@@ -11,6 +11,8 @@ related:
   - { concept: "Qigong", relation: "works with" }
   - { concept: "Dantian", relation: "connected to" }
   - { concept: "San Guan (The Three Gates)", relation: "points along" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-23"
 ---
 

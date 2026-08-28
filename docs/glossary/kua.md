@@ -12,6 +12,8 @@ related:
   - { concept: "Ming Men", relation: "opens with", note: "a released hip and lower back move together" }
   - { concept: "Gen", relation: "transmits through", note: "weight passes through the hips to the ground" }
   - { concept: "Tai Chi", relation: "core to", note: "'relax the kua' is a foundational tai chi instruction" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-27"
 ---
 

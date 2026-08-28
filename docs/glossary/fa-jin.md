@@ -12,6 +12,8 @@ related:
   - { concept: "Song", relation: "requires", note: "you issue from release, not tension" }
   - { concept: "Rooting", relation: "delivers through", note: "force travels ground-up through the body" }
   - { concept: "Push Hands (Tui Shou)", relation: "trains toward", note: "the skill push hands develops" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-26"
 ---
 

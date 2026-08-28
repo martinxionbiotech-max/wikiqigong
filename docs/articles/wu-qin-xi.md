@@ -7,8 +7,8 @@ description: "Wu Qin Xi (五禽戲), the 'Five Animal Frolics,' is the oldest na
 chinese: "五禽戲"
 pinyin: "wǔ qín xì"
 literal: "five animals play"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-23"
 date_modified: "2026-08-23"
 related:

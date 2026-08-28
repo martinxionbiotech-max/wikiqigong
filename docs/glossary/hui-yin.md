@@ -11,6 +11,8 @@ related:
   - { concept: "Dantian", relation: "below", note: "attention often includes the whole pelvic floor around the lower dantian" }
   - { concept: "Zhan Zhuang", relation: "referenced in", note: "standing practice aligns the pelvis and pelvic floor" }
   - { concept: "Breathing", relation: "related to", note: "a relaxed pelvic floor deepens abdominal breathing" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-25"
 ---
 

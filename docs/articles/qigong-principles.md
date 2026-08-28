@@ -7,8 +7,8 @@ description: "Qigong rests on three pillars — regulation of body, breath, and 
 chinese: "氣功三調"
 pinyin: "qìgōng sāntiáo"
 literal: "the three regulations of qigong"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

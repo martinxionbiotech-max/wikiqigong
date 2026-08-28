@@ -12,6 +12,8 @@ related:
   - { concept: "Dantian", relation: "anchored in", note: "the lower dantian is the base of the circuit" }
   - { concept: "Breathing", relation: "paired with", note: "the circuit is guided by slow breath and attention" }
   - { concept: "Yang Sheng", relation: "a classical method of", note: "nourishing-life practice" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-26"
 ---
 

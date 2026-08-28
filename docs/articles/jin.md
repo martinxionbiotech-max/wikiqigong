@@ -7,8 +7,8 @@ description: "Jin (勁) is refined, trained force — tai chi's soft power, dist
 chinese: "勁"
 pinyin: "jìn"
 literal: "refined force / trained power / skilled strength"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-24"
 date_modified: "2026-08-24"
 related:

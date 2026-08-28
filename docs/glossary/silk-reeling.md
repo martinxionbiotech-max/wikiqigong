@@ -11,6 +11,8 @@ related:
   - { concept: "Qi", relation: "transmitted through", note: "the coil is the path power travels" }
   - { concept: "Neigong", relation: "a core method of", note: "silk reeling trains internal linkage" }
   - { concept: "Song", relation: "requires", note: "release lets the spiral pass through the body" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-23"
 ---
 

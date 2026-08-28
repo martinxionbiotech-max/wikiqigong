@@ -10,6 +10,8 @@ related:
   - { concept: "Yin–Yang", relation: "elaborates" }
   - { concept: "Qi", relation: "transforms through" }
   - { concept: "Balance", relation: "models" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

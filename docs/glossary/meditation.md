@@ -12,6 +12,8 @@ related:
   - { concept: "Tai Chi", relation: "moving form of", note: "tai chi is called 'meditation in motion'" }
   - { concept: "Qigong", relation: "includes", note: "seated qigong is a form of meditation" }
   - { concept: "Dantian", relation: "focuses on", note: "attention often rests on the lower dantian" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 

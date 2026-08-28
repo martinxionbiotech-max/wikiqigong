@@ -12,6 +12,8 @@ related:
   - { concept: "Zhan Zhuang", relation: "developed through" }
   - { concept: "Balance", relation: "underpins" }
   - { concept: "Tai Chi", relation: "foundation of" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-18"
 ---
 

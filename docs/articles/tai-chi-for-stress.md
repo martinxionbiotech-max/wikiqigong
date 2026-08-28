@@ -3,8 +3,8 @@ title: Tai Chi for Stress, Anxiety & Mental Health
 description: What the evidence actually shows about tai chi and qigong for stress, anxiety, mood, and mental well-being — the honest picture, with no overpromising.
 type: practice
 category: tai-chi
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-25"
 date_modified: "2026-08-25"
 related:

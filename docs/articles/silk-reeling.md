@@ -7,8 +7,8 @@ description: "Silk reeling (纏絲勁, chánsījìn) is tai chi's signature spir
 chinese: "纏絲勁"
 pinyin: "chánsījìn"
 literal: "silk-reeling force"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-23"
 date_modified: "2026-08-23"
 related:

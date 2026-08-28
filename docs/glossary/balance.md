@@ -11,6 +11,8 @@ related:
   - { concept: "Tai Chi", relation: "trains" }
   - { concept: "Dantian", relation: "centers" }
   - { concept: "Wu Xing", relation: "maintained through" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

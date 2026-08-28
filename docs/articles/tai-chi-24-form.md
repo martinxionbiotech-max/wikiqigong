@@ -7,8 +7,8 @@ description: "The Tai Chi 24-form (二十四式) is the world's most practiced t
 chinese: "二十四式太極拳"
 pinyin: "èrshísì shì tàijíquán"
 literal: "twenty-four form tai chi"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-23"
 date_modified: "2026-08-23"
 related:

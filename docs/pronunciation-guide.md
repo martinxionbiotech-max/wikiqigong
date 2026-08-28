@@ -3,8 +3,8 @@ title: How to Pronounce Tai Chi & Qigong Terms
 description: A practical pronunciation and tone guide for tai chi and qigong terms — how to say qi, qigong, tai chi, dantian, and more, with pinyin and tone marks.
 type: article
 category: language
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-25"
 date_modified: "2026-08-25"
 related:

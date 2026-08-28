@@ -3,8 +3,8 @@ title: A Timeline of Tai Chi & Qigong
 description: A dated timeline of tai chi, qigong, and Chinese mind-body practice — from the Mawangdui daoyin scrolls (~168 BCE) to the 1956 24-form.
 type: article
 category: history
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-25"
 date_modified: "2026-08-25"
 related:

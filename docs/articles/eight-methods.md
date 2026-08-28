@@ -6,8 +6,8 @@ category: tai-chi
 chinese: "八法五步"
 pinyin: "bāfǎ wǔbù"
 literal: "eight methods, five steps"
-author: WikiQigong Editorial Team
-reviewed_by: WikiQigong Editorial Team
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-26"
 date_modified: "2026-08-26"
 related:

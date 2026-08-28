@@ -12,6 +12,8 @@ related:
   - { concept: "Qigong", relation: "uses in", note: "palm-centered practices often focus on lao gong" }
   - { concept: "Meditation", relation: "rests attention on", note: "attention may rest in the palms" }
   - { concept: "Dantian", relation: "paired with", note: "palms facing the dantian is a common posture" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-18"
 ---
 

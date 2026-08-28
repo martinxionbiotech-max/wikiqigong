@@ -7,8 +7,8 @@ description: "Zhan Zhuang (站樁), 'standing like a post,' is the still form of
 chinese: "站樁"
 pinyin: "zhàn zhuāng"
 literal: "standing like a post"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
 date_modified: "2026-08-22"
 related:

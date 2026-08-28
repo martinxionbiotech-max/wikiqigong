@@ -7,8 +7,8 @@ description: "Push hands (推手, tuīshǒu) is tai chi's two-person training ex
 chinese: "推手"
 pinyin: "tuīshǒu"
 literal: "pushing hands"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-23"
 date_modified: "2026-08-23"
 related:

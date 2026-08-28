@@ -11,6 +11,8 @@ related:
   - { concept: "Tai Chi", relation: "foundation of" }
   - { concept: "Breathing", relation: "coordinates with" }
   - { concept: "Qigong", relation: "still form of" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-22"
 ---
 

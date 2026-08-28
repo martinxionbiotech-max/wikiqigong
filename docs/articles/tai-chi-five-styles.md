@@ -7,8 +7,8 @@ description: "The five major tai chi styles — Chen, Yang, Wu, Wu/Hao, and Sun 
 chinese: "太極拳五式"
 pinyin: "tàijíquán wǔ shì"
 literal: "tai chi's five styles"
-author: "Editorial Team"
-reviewed_by: "Editorial Team"
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-17"
 date_modified: "2026-08-22"
 related:

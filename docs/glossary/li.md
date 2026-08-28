@@ -11,6 +11,8 @@ related:
   - { concept: "Tai Chi", relation: "distinguished in", note: "the li/jin split is a core tai chi teaching" }
   - { concept: "Song", relation: "released through", note: "relaxation lets localized force become whole-body" }
   - { concept: "Rooting", relation: "absent in", note: "raw force is often disconnected from the ground" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-25"
 ---
 
