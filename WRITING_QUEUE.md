@@ -7,6 +7,13 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Rules (from brief + editorial-standards.md)
 
+- **Author convention (mandatory):** every page carries
+  `author: "Master Wong"` and `reviewed_by: "WikiQigong Editorial Team"`.
+  Master Wong is the site's lead author with **15 years of dedicated practice
+  and teaching** in Tai Chi, Qigong, and Chinese mind-body arts. Never use
+  "Editorial Team" or "WikiQigong Editorial Team" as the author — that is the
+  reviewer, not the author. Articles also carry `date_published` and
+  `date_modified`; glossary entries carry `updated`.
 - **Quality > quantity.** 1–3 articles/night. Never force numbers.
 - Health wording: "may support / may help / has been studied for /
   traditional practitioners often describe." NEVER cure/treat/guarantee.

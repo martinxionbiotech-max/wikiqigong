@@ -35,8 +35,10 @@ site on Chinese mind–body practices, it translates into concrete commitments:
 - Cite real, checkable sources for research claims.
 
 ### Authoritativeness
-- Every article names an author and reviewer (even "Editorial Team") and a
-  publication/update date.
+- Every article names **Master Wong** as author — the site's lead author with
+  **15 years of dedicated practice and teaching** in Tai Chi, Qigong, and
+  Chinese mind-body arts — plus a reviewer (**WikiQigong Editorial Team**) and
+  a publication/update date.
 - A visible **editorial policy** and **disclaimer** appear site-wide.
 - Where we are not experts (medicine, diagnosis), we say so plainly and point
   to authoritative sources.
@@ -119,8 +121,10 @@ Every article must provide, where applicable:
 
 Every article page emits two blocks:
 
-1. **Article** (or BlogPosting): headline, description, author, datePublished,
-   dateModified, publisher (Organization), mainEntityOfPage.
+1. **Article** (or BlogPosting): headline, description, author (a `Person` —
+   **Master Wong** — with `jobTitle` and a description noting 15 years of
+   practice), datePublished, dateModified, publisher (Organization),
+   mainEntityOfPage.
 2. **FAQPage**: mainEntity array of Question/acceptedAnswer pairs, mirroring
    the visible FAQ section exactly (no answers that aren't on the page).
 

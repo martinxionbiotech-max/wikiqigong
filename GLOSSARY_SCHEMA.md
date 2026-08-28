@@ -22,6 +22,8 @@ related:               # knowledge-graph edges
   - { concept: "Breathing", relation: "transported by" }
   - { concept: "Tai Chi", relation: "guides movement in" }
   - { concept: "Neigong", relation: "developed through" }
+author: "Master Wong"
+reviewed_by: "WikiQigong Editorial Team"
 updated: "2026-08-16"
 ---
 ```
