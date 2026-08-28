@@ -4,6 +4,9 @@ slug: "qigong-breathing"
 type: "practice"
 category: "qigong"
 description: "Qigong breathing — slow, natural, abdominal breath — is the engine of the practice. Learn the technique, the physiology, and how to begin safely."
+chinese: "調息"
+pinyin: "tiáo xī"
+literal: "regulating the breath"
 author: "Master Wong"
 reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
@@ -43,6 +46,26 @@ Breathing is the one bodily function that runs automatically *and* can be
 deliberately controlled. That makes it the natural lever for influencing how
 you feel — and it is the single most important tool in qigong. This page
 explains the technique, the physiology behind it, and how to begin safely.
+
+---
+
+## What the name means
+
+In qigong, breathing practice is called **tiao xi** (調息, *tiáo xī*),
+literally **"regulating the breath"**:
+
+- **Tiao** (調) — "to regulate, adjust, tune." The same character appears in
+  the word for tuning an instrument — it means bringing something into its
+  right, natural order, not forcing it.
+- **Xi** (息) — "breath," but with a richer sense than the English word: it
+  carries the older meaning of "breath that has settled and calmed," and by
+  extension "rest."
+
+So 調息 is not "breathing hard" or "breathing exercises" in the Western sense
+of effort. It is **tuning the breath back to its natural, settled rhythm** —
+slowing and softening it until the whole body follows. That one word explains
+why qigong breathing is gentle by definition: you *tune* the breath, you do
+not push it.
 
 ---
 

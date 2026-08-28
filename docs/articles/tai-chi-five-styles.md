@@ -49,6 +49,14 @@ one thing — it is a family of five major styles that share a philosophy but
 differ in pace, posture, and history. This page sorts them out: where they came
 from, what makes each distinct, and which one to learn first.
 
+A word on the word itself. Each style is named with a family surname plus the
+character **shi** (式), meaning "style," "form," or "manner" — so 陳式 (*Chén
+shì*) is literally "the Chen manner," 楊式 (*Yáng shì*) "the Yang manner," and
+so on. The choice of 式 matters: it is the same character used for a formula,
+a pattern, or a model to follow. A style, in this naming, is not a separate
+art but a **manner of moving** passed down through one family line — one body
+of principles, expressed five ways.
+
 ---
 
 ## The five styles at a glance

@@ -4,6 +4,9 @@ slug: "tai-chi-vs-qigong"
 type: "comparison"
 category: "comparison"
 description: "Tai chi and qigong are often confused. Tai chi is a martial art practiced slowly; qigong is a health practice with no martial component."
+chinese: "太極拳 · 氣功"
+pinyin: "tàijíquán · qìgōng"
+literal: "supreme-ultimate fist · qi work"
 author: "Master Wong"
 reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
@@ -44,6 +47,33 @@ People constantly confuse tai chi and qigong, and for good reason: they look
 similar, they share a philosophy, and they are often taught together. But the
 distinction matters, because it changes what you should practice and why. This
 page gives you the honest, complete comparison.
+
+---
+
+## What the two names mean
+
+Part of the confusion lives in the names themselves, so it is worth spelling
+both out in plain English before comparing them.
+
+**Tai chi** (太極拳, *tàijíquán*) breaks into three characters:
+
+- **Tai** (太) — "supreme, great."
+- **Ji** (極) — "ultimate, extreme." Together **taiji** (太極) is the
+  "Supreme Ultimate" — the undivided whole from which [yin and
+  yang](../glossary/yin-yang.md) emerge.
+- **Quan** (拳) — "fist," and by extension a boxing or fighting art.
+
+So 太極拳 literally names **a fighting art built on the principle of balance**.
+
+**Qigong** (氣功, *qìgōng*) is two characters:
+
+- **Qi** (氣) — the body's functional energy: breath, warmth, vitality (see
+  [Qi](../glossary/qi.md)).
+- **Gong** (功) — "work" or "skill developed through sustained practice."
+
+So 氣功 is literally **"qi work"** — the *cultivation* of energy through
+practice, with no hint of fighting. The names alone point to the core
+difference: one is a fist, the other is work.
 
 ---
 

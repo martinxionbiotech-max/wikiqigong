@@ -83,6 +83,20 @@ This is also why tai chi improves balance and body awareness so effectively:
 the slow, deliberate weight shifts are, in effect, balance training with the
 difficulty turned way up on *control* and way down on *impact*.
 
+A word on the name before the principles themselves. Tai chi's principles are
+called **quanli** (拳理, *quánlǐ*), literally **"fist principles"** or "boxing
+principle":
+
+- **Quan** (拳) — "fist," and by extension the fighting art itself.
+- **Li** (理) — "principle, reason, underlying pattern" — the same *li* in the
+  everyday word 道理 (*dàolǐ*, "reason" or "the way things work").
+
+So 拳理 means **the reason behind the fist** — the *why* under the movements,
+not the movements themselves. In Chinese thought, *li* is the grain of wood,
+the veins of a leaf, the pattern that makes a thing *be* what it is. The six
+principles below are the *li* of tai chi: the underlying pattern that turns a
+sequence of movements into an art.
+
 Keep this in mind as you read the six principles. Each one is a quality you are
 learning to *feel*, not a fact you are learning to know.
 

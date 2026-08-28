@@ -64,12 +64,19 @@ became, and how it survives in what you practice today.
 
 Dao Yin (導引) means "guiding and pulling":
 
-- **Dao** (導) — to guide, to lead.
-- **Yin** (引) — to pull, to draw, to stretch.
+- **Dao** (導) — to guide, to lead. The character contains 道 (*dào*), "a
+  way or path" — the same word as the Dao of Daoism. To *guide* is to show
+  something its path, to conduct it along a course it could not find alone.
+- **Yin** (引) — to pull, to draw, to stretch. The character is a picture of
+  a bow being drawn — the string pulled back along a line. To *draw* is to
+  extend something gently but deliberately, like drawing a bow or drawing
+  water up from a well.
 
 The name describes the practice itself: **guiding** the breath and attention
-through the body while **pulling** and stretching the limbs. Movement and
-breath, working together.
+through the body along a deliberate path, while **pulling** and stretching the
+limbs the way one draws a bow — steadily, without snap. One character is about
+*direction* (leading something along its way), the other about *extension*
+(stretching something out). Movement and breath, working together.
 
 That is the same core insight behind every practice on this site — and dao yin
 is where it was first written down.

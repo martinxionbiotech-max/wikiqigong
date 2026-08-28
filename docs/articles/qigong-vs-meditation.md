@@ -4,6 +4,9 @@ slug: "qigong-vs-meditation"
 type: "comparison"
 category: "comparison"
 description: "Qigong and meditation both train attention — one through movement, one through stillness. A clear, honest comparison of the two practices."
+chinese: "氣功 · 靜坐"
+pinyin: "qìgōng · jìngzuò"
+literal: "qi work · quiet sitting"
 author: "Master Wong"
 reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
@@ -42,6 +45,32 @@ updated: "2026-08-22"
 Qigong is often called "moving meditation," and the phrase captures a real
 truth — but it also blurs a real distinction. This page explains how the two
 relate, where they overlap, and how to choose.
+
+---
+
+## What the two names mean
+
+The names again carry the whole distinction, so it is worth reading them
+closely.
+
+**Qigong** (氣功, *qìgōng*) is two characters:
+
+- **Qi** (氣) — the body's functional energy: breath, warmth, vitality.
+- **Gong** (功) — "work," or skill developed through sustained practice.
+
+So 氣功 is **"qi work"** — *doing* something with the body's energy through
+movement, breath, and attention. The word points at an *activity*.
+
+**Meditation**, in the Chinese tradition, is most often called **jingzuo**
+(靜坐, *jìngzuò*), literally **"quiet sitting"**:
+
+- **Jing** (靜) — "quiet, still, calm."
+- **Zuo** (坐) — "to sit."
+
+So 靜坐 names the practice plainly: *sitting in quiet*. Where qigong is "work,"
+meditation is "stillness" — one word points at doing, the other at resting.
+That single difference in the names is the difference between the two
+practices.
 
 ---
 

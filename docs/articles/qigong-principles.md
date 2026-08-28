@@ -86,6 +86,19 @@ that *is* qigong, even though no movement is involved.
 This is why the three regulations matter more than any specific form. The form
 is a container. The three regulations are the content.
 
+Their Chinese name is **santiao** (三調, *sāntiáo*), "the three regulations" —
+and the key word is the repeated character **tiao** (調):
+
+- **Tiao** (調) — "to regulate, adjust, tune" — the same character used for
+  tuning a musical instrument. It means bringing something into its *right,
+  natural* state, not forcing it.
+
+So the three regulations are not three *exercises* to grind through. They are
+three things you **tune** — the body (調身 *tiao shen*), the breath (調息 *tiao
+xi*), and the mind (調心 *tiao xin*) — until they fall into harmony on their
+own. The image of tuning an instrument is the whole philosophy: you adjust
+until it resonates, you do not wrench it into place.
+
 ---
 
 ## Regulation of body (調身 *tiao shen*)

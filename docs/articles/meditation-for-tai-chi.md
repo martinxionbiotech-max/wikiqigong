@@ -4,6 +4,9 @@ slug: "meditation-for-tai-chi"
 type: "practice"
 category: "tai-chi"
 description: "Meditation is the still side of tai chi's moving form. Learn how seated and standing stillness deepens song, rooting, and attention."
+chinese: "靜坐"
+pinyin: "jìngzuò"
+literal: "quiet sitting"
 author: "Master Wong"
 reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-25"
@@ -48,6 +51,24 @@ in its purest form: without the choreography to occupy the mind, attention has
 nowhere to hide. This page explains why meditation belongs in a tai chi
 practice, how the moving and still forms reinforce each other, and how to begin
 in five minutes.
+
+---
+
+## What the name means
+
+Chinese meditation is classically called **jingzuo** (靜坐, *jìngzuò*),
+literally **"quiet sitting"**:
+
+- **Jing** (靜) — "quiet, still, calm." This is the same *jing* that appears
+  in the Chinese word for "meditation" in general (靜心, *jìngxīn*, "quieting
+the heart-mind").
+- **Zuo** (坐) — "to sit."
+
+But the name is deliberately modest: 靜坐 means only "sitting quietly." There
+is no promise in the word about emptying the mind or reaching a special state —
+just the plain instruction to **sit and be still**. That modesty is the point.
+The Chinese tradition does not load meditation with achievement language; it
+names the simple act, and lets the practice do the rest.
 
 ---
 

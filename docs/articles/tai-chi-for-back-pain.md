@@ -1,6 +1,9 @@
 ---
 title: Tai Chi for Back Pain & Mobility
 description: What the evidence shows about tai chi and qigong for chronic back pain and mobility — the honest picture, with mechanisms and safety notes.
+chinese: "太極拳"
+pinyin: "tàijíquán"
+literal: "supreme ultimate fist"
 type: practice
 category: tai-chi
 author: "Master Wong"

@@ -4,6 +4,9 @@ slug: "qigong-vs-yoga"
 type: "comparison"
 category: "comparison"
 description: "Qigong and yoga both unite movement, breath, and attention — but from different traditions with different aims. A clear, honest comparison of the two."
+chinese: "氣功 · 瑜伽"
+pinyin: "qìgōng · yújiā"
+literal: "qi work · union / yoking"
 author: "Master Wong"
 reviewed_by: "WikiQigong Editorial Team"
 date_published: "2026-08-16"
@@ -42,6 +45,32 @@ updated: "2026-08-22"
 Qigong and yoga are the two great mind–body movement traditions of Asia, and
 they are often compared — for good reason. They share the same core insight,
 expressed in very different forms. This page gives the honest comparison.
+
+---
+
+## What the two names mean
+
+Both names carry their tradition's whole philosophy in a word, and spelling
+that out makes the comparison sharper.
+
+**Qigong** (氣功, *qìgōng*) is two characters:
+
+- **Qi** (氣) — the body's functional energy: breath, warmth, vitality (see
+  [Qi](../glossary/qi.md)).
+- **Gong** (功) — "work," or skill built through sustained practice.
+
+So 氣功 is **"qi work"** — the *cultivation* of the body's energy through
+movement, breath, and attention. The emphasis is on *function*: what the
+energy does.
+
+**Yoga** comes from the Sanskrit root ***yuj***, meaning "to yoke" or "to
+join" — the same root as the English word "yoke." It names the *union* of body,
+breath, and mind (and, in its classical framing, the union of the individual
+self with the whole). So where qigong emphasizes *cultivating* energy, yoga
+emphasizes *uniting* body, breath, and mind into one.
+
+Two different words, two different starting points — but they land on the same
+insight.
 
 ---
 

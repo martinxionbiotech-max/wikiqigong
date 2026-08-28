@@ -49,6 +49,24 @@ do it, and how to build it safely.
 
 ---
 
+## What the name means
+
+The name 站樁 (*zhàn zhuāng*) is two characters, and each earns its place:
+
+- **Zhan** (站) — "to stand." The character itself is a picture: a person
+  亻 (the "person" radical) next to 占 (to occupy a place). To stand is to
+  *occupy* your spot on the ground.
+- **Zhuang** (樁) — "a wooden post or stake," the kind driven into the earth
+  for support.
+
+So 站樁 is literally **"standing like a post"** — still, upright, and planted.
+The metaphor is exact, and it contains the whole method: a post does not brace
+or strain; it simply *stands*, its weight running straight down into the
+ground. That is the image you hold in zhan zhuang — not rigid like a board,
+but settled like a well-set post.
+
+---
+
 ## Why standing still is a practice
 
 Standing still sounds easy until you try it. Hold a relaxed, aligned posture
