@@ -25,6 +25,7 @@ page that connects to the concepts around it.
 | [Li](li.md) | 力 | lì | raw strength; muscular force |
 | [Fa Jin (Issuing Force)](fa-jin.md) | 發勁 | fājìn | issuing trained force |
 | [Shen](shen.md) | 神 | shén | spirit; mind; consciousness |
+| [Yi](yi.md) | 意 | yì | intention; directed mind |
 | [Qigong](qigong.md) | 氣功 | qìgōng | qi work; breath work |
 | [Tai Chi](tai-chi.md) | 太極 | tàijí | the supreme ultimate |
 | [Neigong](neigong.md) | 內功 | nèigōng | internal work |
@@ -45,12 +46,15 @@ page that connects to the concepts around it.
 | [Push Hands (Tui Shou)](tui-shou.md) | 推手 | tuīshǒu | pushing hands; partner practice |
 | [Fang Song (Release & Loosen)](fang-song.md) | 放鬆 | fàng sōng | release and loosen |
 | [Ting Jin (Listening Force)](ting-jin.md) | 聽勁 | tīng jìn | listening force; touch sensitivity |
+| [Ba Duan Jin](ba-duan-jin.md) | 八段錦 | bā duàn jǐn | eight pieces of brocade |
+| [Tuna](tuna.md) | 吐納 | tǔ nà | exhale and inhale |
 
 ## Philosophy
 
 | Term | Chinese | Pinyin | Meaning |
 |------|---------|--------|---------|
 | [Wu Xing](wu-xing.md) | 五行 | wǔxíng | the five phases |
+| [Bagua](bagua.md) | 八卦 | bā guà | the eight trigrams |
 | [Balance](balance.md) | 平衡 | pínghéng | balance; equilibrium |
 | [Dao Yin](dao-yin.md) | 導引 | dǎoyǐn | guiding and pulling |
 | [Song](song.md) | 鬆 | sōng | loose; relaxed release |
@@ -65,6 +69,7 @@ page that connects to the concepts around it.
 | Term | Chinese | Pinyin | Meaning |
 |------|---------|--------|---------|
 | [San Guan (Three Gates)](san-guan.md) | 三關 | sān guān | the spine's three gates |
+| [Weilu (Tail Gate)](weilu.md) | 尾閭 | wěi lǘ | tail gate; the coccyx |
 | [Jingluo (Meridians)](jingluo.md) | 經絡 | jīngluò | channels and network |
 | [Ming Men (Life Gate)](ming-men.md) | 命門 | mìng mén | gate of life; the lower back |
 | [Lao Gong (Palm Point)](lao-gong.md) | 勞宮 | láo gōng | labor palace; the palm center |
