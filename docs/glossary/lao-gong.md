@@ -25,9 +25,11 @@ warmth, and the felt sense of the hands.
 
 ## Literal meaning
 
-**Lao** (勞) means "labor" or "toil"; **gong** (宮) means "palace" or "hall."
-"Labor palace" is the name for the center of the hand — the part that works,
-and the place where, in traditional teaching, attention naturally gathers.
+**Lao** (勞) means "labor" or "toil"; **gong** (宮) means "palace" or
+"hall." "Labor palace" is the name for the center of the hand — the part that
+works most, and, in traditional teaching, a "hall" where the body's heat and
+attention naturally gather. The name holds both halves of the hand's nature:
+it *toils* (劳) yet is also a settled, central place (宫).
 
 ## Historical context
 

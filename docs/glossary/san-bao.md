@@ -24,8 +24,12 @@ continuum from dense matter to refined mind.
 
 ## Literal meaning
 
-**San** (三) is "three." **Bao** (寶) is "treasure." The "three treasures" are
-the three most precious resources of a human life: Jing, Qi, and Shen.
+**San** (三) is "three." **Bao** (寶) is "treasure" — and the character
+carries its own picture: it combines the signs for a **house** (宀), for
+**jade** (玉), and for **riches** (貝, cowrie shells) — a full house of
+precious things under one roof. The "three treasures" are thus three resources
+held to be as valuable as heirlooms — not body parts, but **Jing, Qi, and
+Shen** — to be conserved and cultivated, not spent carelessly.
 
 ## Historical context
 

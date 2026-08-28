@@ -46,6 +46,27 @@ words: **jing, qi, shen**. They are the "three treasures" — the classical
 framework for understanding what a human being is, and what practice
 cultivates. This page explains them plainly.
 
+## What the name means
+
+The Chinese name is **sanbao** (三寶, *sānbǎo*), literally **"three
+treasures"** — and the choice of the word "treasure" is deliberate:
+
+- **San** (三) — "three."
+- **Bao** (寶) — "treasure, precious thing." The character itself holds
+  the meaning: it combines the signs for a **house** (宀), for **jade**
+  (玉), and for **riches/cowrie shells** (貝) — a full house of precious
+  things under one roof.
+
+So 三寶 means three things held to be **as valuable as treasure** — not three
+body parts, but three *resources* you inherit and must look after. In
+classical thought, 寶 is the word used for a family heirloom or a state's
+crown jewels: something precious that must be *preserved*, not spent
+carelessly. That framing is the whole point — jing, qi, and shen are named as
+a person's **treasure**, to be conserved and cultivated, not wasted. The
+Buddhist tradition uses the same word for its "Three Jewels" (Buddha,
+teaching, community), which is why the term can also be translated "Three
+Jewels."
+
 ---
 
 ## Key facts at a glance

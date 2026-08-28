@@ -26,9 +26,12 @@ vitality.
 
 ## Literal meaning
 
-**Ming** (命) means "life" or "destiny"; **men** (門) means "gate" or "door."
-The name "life gate" pictures a doorway to the body's foundational vitality,
-located at the small of the back.
+**Ming** (命) means "life" or "destiny"; **men** (門) means "gate" or
+"door." The name "life gate" pictures a doorway to the body's foundational
+vitality, located at the small of the back. The image is deliberate: a gate
+(門) is not a thing you possess but a *passage* — the point where, in
+traditional teaching, the life-force passes between the back and the body's
+center.
 
 ## Historical context
 

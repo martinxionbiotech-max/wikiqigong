@@ -25,9 +25,11 @@ quality of tai chi and qigong: soft, open, and free of unnecessary tension,
 
 ## Literal meaning
 
-**Song** (鬆) means "loose, relaxed, to loosen, to release." It describes
-muscle that is neither tensed nor limp — the middle state between rigidity
-and collapse.
+**Song** (鬆) means "loose, relaxed, to loosen, to release." The character
+itself is instructive: its left side (髟) means *hair*, and its right side
+(松) is the *pine tree* — the image is of hair left loose, or a pine's soft
+needles, rather than something pulled tight. It describes muscle that is
+neither tensed nor limp — the middle state between rigidity and collapse.
 
 ## Historical context
 
