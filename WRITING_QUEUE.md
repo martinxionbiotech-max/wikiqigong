@@ -37,16 +37,11 @@ done items to Completed.
 
 ### Tier 1 — Close existing gaps (fast, high-value)
 
-1. **Ba Duan Jin (八段錦) glossary** — article exists; glossary entry is missing.
-   Full schema per GLOSSARY_SCHEMA.md.
-2. **Bagua (八卦) glossary** — the eight-methods article cites 八卦 but there is
-   no entry. Also a natural sibling to wu-xing.
-3. **Tuna (吐納) glossary** — "exhale & inhale" breathing, cited across
-   breathing/qigong pages but undefined.
-4. **Yi (意) glossary** — "intention," the middle layer of xing-yi-qi; deserves
-   its own entry (sibling to shen).
-5. **Weilu (尾閭) glossary** — tailbone gate; cited in posture-alignment and
-   xiao-zhou-tian but undefined.
+1. ~~**Ba Duan Jin (八段錦) glossary**~~ ✅ done 2026-08-29 (night)
+2. ~~**Bagua (八卦) glossary**~~ ✅ done 2026-08-29 (night)
+3. ~~**Tuna (吐納) glossary**~~ ✅ done 2026-08-29 (night)
+4. ~~**Yi (意) glossary**~~ ✅ done 2026-08-29 (night)
+5. ~~**Weilu (尾閭) glossary**~~ ✅ done 2026-08-29 (night)
 
 ### Tier 2 — High-search health evidence pages (strong E-E-A-T)
 
@@ -86,6 +81,11 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-08-29 (night): ba-duan-jin + bagua + tuna + yi + weilu (glossary) —
+  closed all five Tier-1 concept gaps (the Baduanjin entry, the 八卦
+  eight-trigram citation, the exhale-inhale breathing term, the yi middle
+  layer of xing-yi-qi, and the tailbone gate). Commit 9f0e773.
 
 - 2026-08-28 (night): tai-chi-for-focus (article, cognitive evidence) + shen
   (article, third-treasure deep-dive) + fang-song + ting-jin (glossary) —
