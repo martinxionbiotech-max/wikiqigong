@@ -1,5 +1,5 @@
 ---
-title: WikiQigong
+title: The Clear English Guide to Tai Chi & Qigong
 description: A clear English guide to Tai Chi, Qigong, and Chinese mind–body practices — deep Chinese understanding translated into natural, accurate English.
 ---
 

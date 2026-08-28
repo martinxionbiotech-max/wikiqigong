@@ -22,6 +22,13 @@
   <meta name="twitter:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
   <meta name="twitter:image" content="{{ config.site_url }}assets/og-image.png">
 
+  {# Favicon set: multi-size + Apple touch + web manifest meta #}
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ config.site_url }}assets/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ config.site_url }}assets/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ config.site_url }}assets/apple-touch-icon.png">
+  <link rel="manifest" href="{{ config.site_url }}site.webmanifest">
+  <meta name="theme-color" content="#00796b">
+
   <style>
     .wk-byline {
       margin: -0.75rem 0 1.5rem;
