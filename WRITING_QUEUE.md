@@ -45,9 +45,8 @@ done items to Completed.
 
 ### Tier 2 — High-search health evidence pages (strong E-E-A-T)
 
-6. **Tai Chi for Arthritis** — evidence page, NCCIH/PubMed sourced, mirror the
-   older-adults structure.
-7. **Tai Chi for Blood Pressure** — evidence page (hypertension studies).
+6. ~~**Tai Chi for Arthritis**~~ ✅ done 2026-08-30 (night)
+7. ~~**Tai Chi for Blood Pressure**~~ ✅ done 2026-08-30 (night)
 8. **Tai Chi for Balance & Fall Prevention** — standalone page (highest-search
    topic); cross-link from older-adults, don't duplicate it.
 9. **Tai Chi for Chronic Pain** — evidence map (fibromyalgia, low back, neck).
@@ -81,6 +80,11 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-08-30 (night): tai-chi-for-arthritis + tai-chi-for-blood-pressure
+  (articles) — two Tier-2 evidence pages: knee-OA trials (Wang 2009/2016) +
+  hypertension relaxation-response evidence, both fully hedged with
+  NCCIH/PubMed sourcing.
 
 - 2026-08-29 (night): ba-duan-jin + bagua + tuna + yi + weilu (glossary) —
   closed all five Tier-1 concept gaps (the Baduanjin entry, the 八卦

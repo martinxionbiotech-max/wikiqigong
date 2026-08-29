@@ -178,6 +178,10 @@ for sleep and mood.
 - **If stress or sleep** — the evidence is encouraging; see
   [Tai Chi for Stress & Mental Health](tai-chi-for-stress.md) and
   [Tai Chi & Qigong for Sleep](tai-chi-for-sleep.md).
+- **If arthritis or joint pain** — see
+  [Tai Chi for Arthritis](tai-chi-for-arthritis.md).
+- **If blood pressure or heart health** — see
+  [Tai Chi for Blood Pressure](tai-chi-for-blood-pressure.md).
 - **If pain or mobility** — see
   [Tai Chi for Back Pain & Mobility](tai-chi-for-back-pain.md).
 - **For anything else** — treat tai chi as a safe, low-impact complement to
