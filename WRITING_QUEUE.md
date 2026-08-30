@@ -47,9 +47,8 @@ done items to Completed.
 
 6. ~~**Tai Chi for Arthritis**~~ ✅ done 2026-08-30 (night)
 7. ~~**Tai Chi for Blood Pressure**~~ ✅ done 2026-08-30 (night)
-8. **Tai Chi for Balance & Fall Prevention** — standalone page (highest-search
-   topic); cross-link from older-adults, don't duplicate it.
-9. **Tai Chi for Chronic Pain** — evidence map (fibromyalgia, low back, neck).
+8. ~~**Tai Chi for Balance & Fall Prevention**~~ ✅ done 2026-08-30 (day)
+9. ~~**Tai Chi for Chronic Pain**~~ ✅ done 2026-08-30 (day)
 10. **Tai Chi for Parkinson's** — evidence page (gait/balance studies).
 11. **Qigong for Cancer Survivors** — evidence page (fatigue/sleep/quality of
     life; strictly hedged).
@@ -80,6 +79,12 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-08-30 (day): tai-chi-for-balance + tai-chi-for-chronic-pain (articles) —
+  the standalone Balance & Fall Prevention page (Wolf 1996 + Li 2005 + Cochrane
+  evidence, three balance drills) and the Chronic Pain evidence map
+  (fibromyalgia NEJM 2010 trial + low back/neck/osteoarthritis). Cross-linked
+  from older-adults, back-pain, and conditions hubs.
 
 - 2026-08-30 (night): tai-chi-for-arthritis + tai-chi-for-blood-pressure
   (articles) — two Tier-2 evidence pages: knee-OA trials (Wang 2009/2016) +
