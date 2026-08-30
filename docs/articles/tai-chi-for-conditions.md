@@ -52,15 +52,13 @@ and *promising but preliminary* for the rest. This page is the honest map.
 ## The evidence at a glance
 
 | Health area | Strength of evidence | What the evidence suggests |
-|-------------|----------------------|----------------------------|
-| Balance & falls (older adults) | **Strongest** | Improved balance, fewer falls |
 | Sleep quality | Encouraging | Better sleep, faster sleep onset |
 | Stress, anxiety & mood | Promising | Reduced stress, calmer mood |
 | Pain & mobility (back, joints) | Encouraging | Reduced pain, better function |
 | Osteoarthritis | Encouraging | Less pain, improved function |
 | Blood pressure | Promising | Modest reductions |
 | Parkinson's disease | Promising | Better balance and stability |
-| Fibromyalgia | Preliminary | Some symptom relief reported |
+| Fibromyalgia | Encouraging | Symptom relief in an RCT (NEJM 2010) |
 
 *Evidence labels reflect the general weight of published research as summarized
 by NCCIH and Harvard Health, not a formal systematic review.*
@@ -72,7 +70,8 @@ by NCCIH and Harvard Health, not a formal systematic review.*
 The single most consistent finding in the field is that tai chi improves
 balance and reduces falls in older adults. This is supported by multiple
 randomized trials and is the area authorities describe with the most
-confidence. See the dedicated page
+confidence. See the dedicated pages
+[Tai Chi for Balance & Fall Prevention](tai-chi-for-balance.md) and
 [Tai Chi for Older Adults](tai-chi-for-older-adults.md) for the details.
 
 The mechanism is not mysterious: tai chi is continuous, slow weight-shifting
@@ -90,9 +89,10 @@ tai chi may help reduce pain and improve physical function in people with
 osteoarthritis. The picture for back pain and mobility is similar: encouraging,
 with the gentle, graded movement of tai chi offered as a low-impact option.
 
-See [Tai Chi for Back Pain & Mobility](tai-chi-for-back-pain.md) for the
-detail, and note the consistent caveat: studies vary in size and quality, and
-tai chi is a complement to — not a replacement for — medical management.
+See [Tai Chi for Back Pain & Mobility](tai-chi-for-back-pain.md) and
+[Tai Chi for Chronic Pain](tai-chi-for-chronic-pain.md) for the detail, and
+note the consistent caveat: studies vary in size and quality, and tai chi is a
+complement to — not a replacement for — medical management.
 
 ---
 
@@ -120,10 +120,14 @@ for the underlying condition.
 
 ## Fibromyalgia and broader pain
 
-**Fibromyalgia** has also been studied, with some trials reporting symptom
-relief. This is among the more preliminary areas — fewer and smaller studies —
-so the honest label is "preliminary." The same applies to some other chronic
-pain and fatigue conditions where tai chi and qigong have been explored.
+**Fibromyalgia** has also been studied, and here the evidence is stronger than
+the broader pain literature might suggest: a 2010 randomized controlled trial
+published in the *New England Journal of Medicine* (Wang et al.) found tai chi
+*was associated with* greater symptom improvement — including pain — than a
+control condition. This makes fibromyalgia one of the better-supported (not
+merely "preliminary") areas in the pain domain, though the field overall
+remains small. See [Tai Chi for Chronic Pain](tai-chi-for-chronic-pain.md) for
+the full evidence map.
 
 ---
 
@@ -174,7 +178,8 @@ for sleep and mood.
 ## How to use this map
 
 - **If balance or falls are your concern** — tai chi has the strongest backing;
-  see [Tai Chi for Older Adults](tai-chi-for-older-adults.md).
+  see [Tai Chi for Balance & Fall Prevention](tai-chi-for-balance.md) and
+  [Tai Chi for Older Adults](tai-chi-for-older-adults.md).
 - **If stress or sleep** — the evidence is encouraging; see
   [Tai Chi for Stress & Mental Health](tai-chi-for-stress.md) and
   [Tai Chi & Qigong for Sleep](tai-chi-for-sleep.md).
@@ -183,7 +188,8 @@ for sleep and mood.
 - **If blood pressure or heart health** — see
   [Tai Chi for Blood Pressure](tai-chi-for-blood-pressure.md).
 - **If pain or mobility** — see
-  [Tai Chi for Back Pain & Mobility](tai-chi-for-back-pain.md).
+  [Tai Chi for Back Pain & Mobility](tai-chi-for-back-pain.md) and
+  [Tai Chi for Chronic Pain](tai-chi-for-chronic-pain.md).
 - **For anything else** — treat tai chi as a safe, low-impact complement to
   medical care, and always keep your clinician in the loop.
 

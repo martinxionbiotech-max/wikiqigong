@@ -154,6 +154,38 @@ mechanically, dynamic balance training.
 
 ---
 
+## What this adds up to: a synthesis
+
+Step back from the individual studies and a clear pattern emerges — one worth
+stating plainly, because it explains most of the tai chi health literature, not
+just this page.
+
+Tai chi is **not a mysterious balance tonic**. It is a *convenient packaging*
+of the exact ingredients clinical fall-prevention programs already use:
+dynamic weight shift, a low center of gravity, coordinated multi-joint
+movement, and mindful attention to the body. The reason its evidence base is
+the strongest in the field is not tradition — it is that **the movement itself
+is the intervention.** For balance, there is no gap between "the exercise" and
+"the outcome" the way there is for, say, blood pressure (where any effect must
+run *through* the relaxation response before it can move a number). Balance is
+trained *directly* by the form, and direct effects reproduce more reliably in
+research than indirect ones.
+
+That yields a rule of thumb worth keeping for the whole site:
+
+> **The more directly a tai chi movement maps onto a measured outcome, the
+> stronger the evidence.**
+
+Balance maps directly — hence the strongest, most consistent evidence. Mood,
+blood pressure, and sleep are *mediated* outcomes — the practice must first
+change arousal, breathing, or attention, and only then change the outcome —
+which is exactly why their evidence is more variable. This is not a judgement
+that tai chi is "good for balance but not for mood"; it is a statement about
+*mechanism and measurement*. Understanding the direct/mediated distinction is
+the single most useful lens for reading the tai chi health literature honestly.
+
+---
+
 ## The three registers
 
 ### Historical fact

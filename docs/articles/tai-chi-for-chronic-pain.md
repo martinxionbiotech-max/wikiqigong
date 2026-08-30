@@ -146,6 +146,38 @@ the subject of active research.
 
 ---
 
+## The pattern worth seeing: movement is the medicine
+
+Across the pain literature — fibromyalgia, low back, neck, osteoarthritis — a
+consistent through-line emerges, and it is worth making explicit because it
+flips a common assumption.
+
+The temptation with chronic pain is to **rest and protect**. The body says
+"move less," so we move less. But the research on chronic pain points the other
+way: prolonged rest weakens muscles, stiffens joints, and teaches the nervous
+system that movement is dangerous — a loop that *worsens* pain over time. The
+clinical insight behind tai chi's use for pain is not that slow movement is a
+painkiller, but that **graded, gentle movement breaks the avoidance cycle** —
+re-teaching the body that movement is safe, while rebuilding the strength and
+function that pain erodes.
+
+| Stage of the cycle | What happens | What tai chi does |
+|--------------------|--------------|-------------------|
+| Pain | Injury or sensitization | Offers a low-impact entry point |
+| Avoidance | Movement stops; fear grows | Provides safe, graded movement |
+| Deconditioning | Muscles weaken, joints stiffen | Rebuilds strength and mobility |
+| Worsened pain | Less support, more sensitivity | Re-trains body awareness and release |
+
+This is why tai chi's pain evidence is strongest where the *movement-avoidance*
+mechanism is most central: fibromyalgia, a condition defined in part by
+widespread sensitization, shows the largest, most consistent effect. It is also
+why the honest framing is "may help" rather than "will fix": tai chi is not
+analgesia — it is a *dose of safe movement*, delivered slowly enough that a
+body in pain can tolerate it. That is a real, useful thing, and a different
+thing than a cure.
+
+---
+
 ## How to use tai chi safely with chronic pain
 
 The single most important rule: **move gently, and stop short of anything that
