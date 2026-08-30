@@ -81,7 +81,10 @@ This is the single strongest result in the tai chi pain literature.
 
 For **chronic low back pain, neck pain, and osteoarthritis**, reviews report
 *possible* modest benefit — often on function and stiffness as much as on pain
-itself — while noting that study quality and results vary. The picture is
+itself — while noting that study quality and results vary. NCCIH summarizes a
+**2019 review** of 10 low-back-pain studies (959 participants) as drawing a
+*cautious* conclusion: tai chi alone or added to physical therapy *may*
+decrease pain intensity and improve everyday function. The picture is
 encouraging but not definitive.
 
 ### The honest caveat

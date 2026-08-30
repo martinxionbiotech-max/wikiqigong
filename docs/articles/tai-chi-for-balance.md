@@ -117,6 +117,26 @@ noting that the size of the effect varies by study and population. The
 consistent conclusion across the literature: **balance is the strongest and
 most reproducible benefit of tai chi.**
 
+The numbers, as summarized by NCCIH from a **2019 Cochrane review** of exercise
+for fall prevention, are worth seeing plainly:
+
+| Intervention | Effect on fall *rate* | Effect on *number of people* falling | Evidence certainty |
+|--------------|----------------------|--------------------------------------|--------------------|
+| Tai chi | ~19% reduction | ~20% reduction | Low to high (varies) |
+| Balance & functional exercise | ~24% reduction | ~13% reduction | High |
+
+*Source: NCCIH summary of the 2019 Cochrane review (Sherrington et al.).*
+
+Two honest readings of this table matter. First, **tai chi works** — a roughly
+one-in-five reduction in falls is clinically meaningful for older adults.
+Second, **it is not uniquely the best** — dedicated balance-and-functional
+exercise programs (the kind physiotherapists prescribe) show a slightly larger
+effect on fall *rate* in high-certainty trials. Tai chi's advantage is not that
+it outperforms every alternative; it is that it delivers a comparable benefit
+in a single, self-contained, equipment-free practice that people are willing to
+keep doing. That trade-off — slightly less certain effect, far easier to
+sustain — is the real case for tai chi as a fall-prevention choice.
+
 ### The honest caveat
 
 Not every trial finds the same effect, and "balance" is measured in many
@@ -311,6 +331,9 @@ than most alternatives. The best exercise is the one you do regularly.
   preventing falls in older people living in the community.* Cochrane Database
   Syst Rev. 2012;(9):CD007146.
   doi:[10.1002/14651858.CD007146.pub3](https://doi.org/10.1002/14651858.CD007146.pub3).
+- Sherrington C, Fairhall NJ, Wallbank GK, et al. *Exercise for preventing falls
+  in older people living in the community.* Cochrane Database Syst Rev. 2019;(1):CD012424.
+  doi:[10.1002/14651858.CD012424.pub2](https://doi.org/10.1002/14651858.CD012424.pub2).
 - National Center for Complementary and Integrative Health (NCCIH). *Tai Chi
   and Qi Gong: In Depth.*
   [nccih.nih.gov](https://www.nccih.nih.gov/health/tai-chi-and-qi-gong-in-depth)
