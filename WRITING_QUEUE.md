@@ -49,15 +49,14 @@ done items to Completed.
 7. ~~**Tai Chi for Blood Pressure**~~ ✅ done 2026-08-30 (night)
 8. ~~**Tai Chi for Balance & Fall Prevention**~~ ✅ done 2026-08-30 (day)
 9. ~~**Tai Chi for Chronic Pain**~~ ✅ done 2026-08-30 (day)
-10. **Tai Chi for Parkinson's** — evidence page (gait/balance studies).
-11. **Qigong for Cancer Survivors** — evidence page (fatigue/sleep/quality of
-    life; strictly hedged).
+10. ~~**Tai Chi for Parkinson's**~~ ✅ done 2026-08-31 (night)
+11. ~~**Qigong for Cancer Survivors**~~ ✅ done 2026-08-31 (night)
 
 ### Tier 3 — Comparisons (search intent is strong)
 
-12. **Tai Chi vs Pilates** — clear, honest comparison.
-13. **Tai Chi vs Walking** — what slow mindful walking adds beyond a daily walk.
-14. **Qigong vs Stretching** — is qigong "just stretching"? No — and why.
+12. ~~**Tai Chi vs Pilates**~~ ✅ done 2026-09-01 (night)
+13. ~~**Tai Chi vs Walking**~~ ✅ done 2026-09-01 (night)
+14. ~~**Qigong vs Stretching**~~ ✅ done 2026-09-01 (night)
 
 ### Tier 4 — Practice guides & how-to
 
@@ -79,6 +78,19 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-09-01 (night): tai-chi-vs-pilates + tai-chi-vs-walking +
+  qigong-vs-stretching (articles) — cleared all three Tier-3 comparison pages:
+  Pilates (core-strength vs balance/relaxation), Walking (cardio vs
+  balance/attention, "different tools different jobs"), Stretching (qigong is
+  not just stretching — adds breath/attention/release). Build 0/0, JSON-LD
+  valid, nav updated.
+
+- 2026-08-31 (night): tai-chi-for-parkinsons + qigong-for-cancer-survivors
+  (articles) — two Tier-2 evidence pages: Parkinson's gait/balance (Li 2012
+  NEJM RCT + Yang 2014 meta-analysis, scoped to movement symptoms) and cancer
+  survivorship (fatigue/sleep/QoL only, supportive care, strictly hedged,
+  NCI PDQ + Zeng 2014). Commit d2f9d6f.
 
 - 2026-08-30 (day): tai-chi-for-balance + tai-chi-for-chronic-pain (articles) —
   the standalone Balance & Fall Prevention page (Wolf 1996 + Li 2005 + Cochrane
