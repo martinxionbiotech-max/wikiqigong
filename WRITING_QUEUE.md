@@ -60,10 +60,9 @@ done items to Completed.
 
 ### Tier 4 — Practice guides & how-to
 
-15. **How to Choose a Tai Chi Teacher** — red flags, lineage questions, what to
-    look for. Strong practical E-E-A-T.
-16. **10-Minute Morning Qigong Routine** — beginner routine with HowTo schema.
-17. **Qigong for Beginners: Your First Week** — a 7-day on-ramp.
+15. ~~**How to Choose a Tai Chi Teacher**~~ ✅ done 2026-09-02 (night)
+16. ~~**10-Minute Morning Qigong Routine**~~ ✅ done 2026-09-02 (night)
+17. ~~**Qigong for Beginners: Your First Week**~~ ✅ done 2026-09-02 (night)
 18. **Tai Chi Weapons: An Introduction to the Sword** — history + what the form
     trains.
 
@@ -78,6 +77,12 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-09-02 (night): how-to-choose-a-tai-chi-teacher + 10-minute-morning-qigong +
+  qigong-for-beginners-first-week (articles) — closed all three Tier-4 practice
+  guides: teacher selection (lineage/red-flags/skill-test), a 10-minute morning
+  qigong set (with HowTo schema), and a 7-day beginner on-ramp. Build 0/0,
+  JSON-LD valid, nav updated. Commit 9778dc1.
 
 - 2026-09-01 (night): tai-chi-vs-pilates + tai-chi-vs-walking +
   qigong-vs-stretching (articles) — cleared all three Tier-3 comparison pages:
