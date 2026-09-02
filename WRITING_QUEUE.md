@@ -63,12 +63,11 @@ done items to Completed.
 15. ~~**How to Choose a Tai Chi Teacher**~~ ✅ done 2026-09-02 (night)
 16. ~~**10-Minute Morning Qigong Routine**~~ ✅ done 2026-09-02 (night)
 17. ~~**Qigong for Beginners: Your First Week**~~ ✅ done 2026-09-02 (night)
-18. **Tai Chi Weapons: An Introduction to the Sword** — history + what the form
-    trains.
+18. ~~**Tai Chi Weapons: An Introduction to the Sword**~~ ✅ done 2026-09-03 (night)
 
 ### Tier 5 — Core-concept deep dives
 
-19. **The Taiji Diagram (太極圖)** — the yin-yang symbol explained properly.
+19. ~~**The Taiji Diagram (太極圖)**~~ ✅ done 2026-09-03 (night)
 20. **Six Harmonies (六合)** — the internal/external harmonies behind xing-yi-qi.
 
 ### Glossary entries (one per concept, full schema)
@@ -77,6 +76,12 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-09-03 (night): tai-chi-sword (article) + taiji-diagram (article) —
+  closed Tier-4 #18 (the jian sword form: history, what it trains, safety) and
+  Tier-5 #19 (the taiji/yin-yang diagram: three registers, the two dots, the
+  shared taiji name with tai chi). Build 0/0, JSON-LD valid, nav updated.
+  Commit 926cb06.
 
 - 2026-09-02 (night): how-to-choose-a-tai-chi-teacher + 10-minute-morning-qigong +
   qigong-for-beginners-first-week (articles) — closed all three Tier-4 practice
