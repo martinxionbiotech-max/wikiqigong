@@ -68,7 +68,7 @@ done items to Completed.
 ### Tier 5 — Core-concept deep dives
 
 19. ~~**The Taiji Diagram (太極圖)**~~ ✅ done 2026-09-03 (night)
-20. **Six Harmonies (六合)** — the internal/external harmonies behind xing-yi-qi.
+20. ~~**Six Harmonies (六合)**~~ ✅ done 2026-09-04 (night)
 
 ### Glossary entries (one per concept, full schema)
 
@@ -76,6 +76,13 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-09-04 (night): six-harmonies (article) + liu-he (glossary) — closed
+  Tier-5 #20 (the six internal/external pairings: xin-yi-qi-li + hands-feet,
+  elbows-knees, shoulders-hips). Etymology bridge (合 = lid on a pot),
+  three registers, two pairing tables. Fixed a 404 Stanford reference →
+  verified NCCIH/Harvard links. Build 0/0, JSON-LD valid, nav updated.
+  Commit 55d474a.
 
 - 2026-09-03 (night): tai-chi-sword (article) + taiji-diagram (article) —
   closed Tier-4 #18 (the jian sword form: history, what it trains, safety) and
