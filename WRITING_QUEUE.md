@@ -32,6 +32,12 @@ production job (cron, 02:00 Asia/Shanghai) reads this file, writes the top
 
 ## Priority queue (expansion phase — 2026-08-28 refresh)
 
+> **Status (2026-09-05): all named tiers are now complete.** The queue below
+> is preserved for reference. New items should be added deliberately
+> (candidate: full articles for remaining glossary-only concepts, or
+> re-optimization of existing AIO anchors) rather than fabricated to keep the
+> nightly job busy.
+
 Write in order. 1–3 items/night. Each night, work down this list and move
 done items to Completed.
 
@@ -76,6 +82,14 @@ done items to Completed.
   concept does not already have one.
 
 ## Completed (this batch, keep for reference)
+
+- 2026-09-05 (night): wu-xing (article) — closed the last named gap: Wu Xing
+  (五行, the Five Phases) had a glossary entry and was referenced across four
+  articles (yin-yang, liu-zi-jue, wu-qin-xi, eight-methods) but no article
+  home. Full core-concept deep-dive: etymology bridge (行 = crossroads,
+  "five goings"), three registers, generation/control cycles, pros/cons,
+  three comparison tables, 7-FAQ, 6 internal links, 3 verified external
+  (NCCIH ×2, Harvard). All named queue tiers now complete. Commit 254069a.
 
 - 2026-09-04 (night): six-harmonies (article) + liu-he (glossary) — closed
   Tier-5 #20 (the six internal/external pairings: xin-yi-qi-li + hands-feet,
