@@ -4,7 +4,7 @@ chinese: "八卦"
 pinyin: "bā guà"
 english: "Bagua"
 literal: "eight trigrams / eight symbols"
-description: "Bagua (八卦, bā guà), the 'eight trigrams,' are the eight broken/unbroken line-figures of Chinese cosmology that encode the yin–yang system — and the map behind tai chi's eight methods."
+description: "Bagua (八卦, bā guà) — the 'eight trigrams' — are the line-figures of Chinese cosmology that encode yin–yang, and the map behind tai chi's eight methods."
 category: "philosophy"
 related:
   - { concept: "Yin–Yang", relation: "encodes", note: "each trigram is a stack of broken and unbroken lines" }

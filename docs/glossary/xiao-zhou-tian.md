@@ -5,7 +5,7 @@ pinyin: "xiǎozhōutiān"
 english: "Xiao Zhou Tian (Microcosmic Orbit)"
 literal: "small heavenly circuit / microcosmic orbit"
 category: "practice"
-description: "The microcosmic orbit (小周天, xiǎozhōutiān) is a classical qigong model of a closed energy circuit up the back and down the front of the body — a map of attention, not an anatomical claim."
+description: "The microcosmic orbit (小周天) is a classical qigong model of a circuit up the back and down the front — a map of attention, not an anatomical claim."
 related:
   - { concept: "Qi", relation: "the substance said to circulate in", note: "the orbit is a qi-cultivation map" }
   - { concept: "Jingluo (Meridians)", relation: "drawn along", note: "the Du and Ren channels" }

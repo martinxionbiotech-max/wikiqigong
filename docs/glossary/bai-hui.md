@@ -4,7 +4,7 @@ chinese: "百會"
 pinyin: "bǎi huì"
 english: "Bai Hui"
 literal: "hundred meetings"
-description: "Bai Hui (百會, bǎi huì), 'hundred meetings,' is the point at the crown of the head used as the upward reference for upright, lengthened posture in standing practice."
+description: "Bai Hui (百會, bǎi huì), 'hundred meetings', is the crown point used as the upward reference for upright, lengthened posture in standing practice."
 category: "body-map"
 related:
   - { concept: "Yong Quan", relation: "paired with", note: "crown above, sole below — the vertical axis of alignment" }

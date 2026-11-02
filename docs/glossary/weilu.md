@@ -4,7 +4,7 @@ chinese: "尾閭"
 pinyin: "wěi lǘ"
 english: "Weilu"
 literal: "tail gate / coccyx gate"
-description: "Weilu (尾閭, wěi lǘ), the 'tail gate,' is the lowest of the spine's three gates in classical internal practice — the coccyx, where the spine begins and qi was said to rise."
+description: "Weilu (尾閭, wěi lǘ), the 'tail gate', is the lowest of the spine's three gates in classical practice — the coccyx, where the spine begins and qi rises."
 category: "body-map"
 related:
   - { concept: "San Guan (The Three Gates)", relation: "lowest of", note: "weilu is the first of the three spine gates" }

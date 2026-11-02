@@ -1,6 +1,6 @@
 ---
 title: "The Eight Methods & Five Steps (Thirteen Postures)"
-description: "Tai chi's technical skeleton — the eight methods (peng, lu, ji, an, cai, lie, zhou, kao) and five steps, together the Thirteen Postures. A grounded, plain-English guide."
+description: "Tai chi's technical skeleton: the eight methods (peng, lu, ji, an, cai, lie, zhou, kao) and five steps — the Thirteen Postures, in plain English."
 type: pillar
 category: tai-chi
 chinese: "八法五步"

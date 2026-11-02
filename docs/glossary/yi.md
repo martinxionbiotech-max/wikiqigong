@@ -4,7 +4,7 @@ chinese: "意"
 pinyin: "yì"
 english: "Yi"
 literal: "intention; mind; idea"
-description: "Yi (意, yì) — 'intention' — is the middle layer of tai chi's xing-yi-qi progression: the mind's directed focus that fills the form and, in classical teaching, guides the qi."
+description: "Yi (意, yì), 'intention', is the middle layer of tai chi's xing-yi-qi progression: the directed focus that fills the form and guides the qi."
 category: "core-concept"
 related:
   - { concept: "Qi", relation: "guided by", note: "'where intention goes, qi follows' (意到氣到)" }
