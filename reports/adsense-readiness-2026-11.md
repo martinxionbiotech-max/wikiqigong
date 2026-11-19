@@ -36,7 +36,7 @@
 - Added an `htmltitle` override to keep rendered `<title>` ≤60 chars.
 - Trimmed 11 over-length descriptions; kept the 42 short glossary descriptions rather than appending one repeated tail to all of them.
 
-## 3. Verification (local build)
+## 3. Verification (local build and live)
 
 ```bash
 mkdocs build --strict
@@ -49,17 +49,33 @@ mkdocs build --strict
 - Privacy 1,639 words; disclaimer 1,158; contact 521.
 - `mkdocs build --strict` passes (only informational absolute-link notices in the new policy pages).
 
+Deployed to `https://wikiqigong.com`:
+
+- `/` returns `200`; the loader is present in the live `<head>`.
+- `/ads.txt` returns `200`, `content-type: text/plain`, with the publisher line.
+- `/privacy/`, `/contact/`, `/disclaimer/` return `200`.
+- `www.wikiqigong.com` returns `301` to the apex, including path and query
+  (`/privacy/?x=1` → `https://wikiqigong.com/privacy/?x=1`).
+- `Mediapartners-Google` request to `/` returns `200`.
+- `sitemap.xml` has 116 URLs; `robots.txt` points to it.
+- Commits: `aa0987e` (loader, ads.txt, policies), `1bc698f` (redirects file), `019e95c` (www middleware).
+
 ## 4. Still required outside the repository
 
-1. **Deploy** the new build and confirm:
-   ```bash
-   curl -sSI -A Mediapartners-Google https://wikiqigong.com/ | head
-   curl -s https://wikiqigong.com/ | grep -n 'adsbygoogle.js?client=ca-pub-7876439381319122'
-   curl -sSI https://wikiqigong.com/ads.txt
-   ```
-   `ads.txt` must return `200` with `text/plain` at the apex; `www` must either redirect to apex or serve the same file.
-2. **Google CMP:** enable a Google-certified consent management platform in AdSense → Privacy & messaging for EEA/UK/CH traffic. The static loader must not be replaced by a JavaScript consent gate.
-3. **AdSense site review:** submit the domain after the deployment. The loader and `ads.txt` being present does not guarantee approval; content/policy review is external.
-4. **Auto ads placement:** if auto ads are enabled, consider excluding glossary/policy pages from ad placement. The sitewide loader is present on every page as required, but ad placement is a separate AdSense setting.
-5. **Short descriptions:** 42 glossary descriptions remain below 140 characters. They are unique and readable; a future pass should expand them per entry, not with a shared suffix.
-6. **`llms.txt`:** 79/114 links; regenerate from the sitemap/nav if AI retrieval coverage matters.
+1. **Google CMP:** enable a Google-certified consent management platform in
+   AdSense → Privacy & messaging for EEA/UK/CH traffic. The static loader must
+   not be replaced by a JavaScript consent gate. Without a CMP, personalised
+   ads in those regions can be restricted and the account may receive a policy
+   notice.
+2. **AdSense site review:** submit the domain after the deployment. The loader
+   and `ads.txt` being present does not guarantee approval; content/policy
+   review is external.
+3. **Auto ads placement:** if auto ads are enabled, consider excluding
+   glossary/policy pages from ad placement. The sitewide loader is present on
+   every page as required, but ad placement is a separate AdSense setting.
+4. **Short descriptions:** 42 glossary descriptions remain below 140
+   characters. They are unique and readable; a future pass should expand them
+   per entry, not with a shared suffix.
+5. **`llms.txt`:** 79/114 links; regenerate from the sitemap/nav if AI retrieval
+   coverage matters.
+
