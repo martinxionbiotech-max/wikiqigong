@@ -4,7 +4,7 @@ chinese: "六字訣"
 pinyin: "liù zì jué"
 english: "Liu Zi Jue"
 literal: "six-character secret / six-syllable formula"
-description: "Liu Zi Jue (六字訣, liù zì jué), the 'Six Healing Sounds,' is a breathing qigong pairing six whispered sounds with slow movement. A concise glossary definition."
+description: "Liu Zi Jue (六字訣, liù zì jué), the 'Six Healing Sounds,' pairs six whispered sounds with slow movement. A short glossary definition. Read the full entry."
 category: "practice"
 related:
   - { concept: "Qigong", relation: "breathing method of" }

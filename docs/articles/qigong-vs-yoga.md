@@ -1,5 +1,5 @@
 ---
-title: "Qigong vs Yoga: Which Practice Is Right for You?"
+title: "Qigong vs Yoga: Which Is Right for You?"
 slug: "qigong-vs-yoga"
 type: "comparison"
 category: "comparison"

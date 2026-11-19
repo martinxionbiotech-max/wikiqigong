@@ -1,7 +1,7 @@
 ---
 title: Glossary
 author: "Master Wong"
-description: The WikiQigong glossary — every important Chinese concept in Tai Chi and Qigong, with characters, pinyin, literal meaning, and a grounded modern explanation.
+description: The WikiQigong glossary — every important Chinese concept in Tai Chi and Qigong, with characters, pinyin, literal meaning and a grounded explanation.
 ---
 
 # Glossary

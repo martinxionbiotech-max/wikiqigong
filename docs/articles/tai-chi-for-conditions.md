@@ -1,6 +1,6 @@
 ---
 title: "Tai Chi & Qigong for Specific Health Conditions"
-description: "Evidence map of what tai chi and qigong have been studied for — balance, pain, arthritis, blood pressure, mood and sleep — with strength-of-evidence labels."
+description: "Evidence map of what tai chi and qigong have been studied for — balance, pain, arthritis, blood pressure, mood and sleep — with evidence labels."
 chinese: "太極拳 · 氣功"
 pinyin: "tàijíquán · qìgōng"
 literal: "supreme ultimate fist · qi work"

@@ -4,7 +4,7 @@ chinese: "五行"
 pinyin: "wǔxíng"
 english: "Wu Xing"
 literal: "five phases / five movements"
-description: "Wu Xing (五行, wǔxíng) — the 'five phases' of Chinese thought — extend yin–yang thinking into a richer cycle of transformation. A concise glossary definition."
+description: "Wu Xing (五行, wǔxíng) — the 'five phases' of Chinese thought — extend yin–yang thinking into a richer cycle of transformation. A brief definition."
 category: "philosophy"
 related:
   - { concept: "Yin–Yang", relation: "elaborates" }

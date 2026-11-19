@@ -4,7 +4,7 @@ chinese: "五禽戲"
 pinyin: "wǔ qín xì"
 english: "Wu Qin Xi"
 literal: "five animals play"
-description: "Wu Qin Xi (五禽戲, wǔ qín xì), the 'Five Animal Frolics,' is a movement practice imitating tiger, deer, bear, monkey, and crane. A concise glossary definition."
+description: "Wu Qin Xi (五禽戲, wǔ qín xì), the 'Five Animal Frolics,' imitates the tiger, deer, bear, monkey and crane. A short glossary definition. Read the full entry."
 category: "practice"
 related:
   - { concept: "Qigong", relation: "early form of" }

@@ -4,8 +4,22 @@
 -#}
 {% extends "base.html" %}
 
+{% block htmltitle %}
+  {% if page and page.meta and page.meta.title %}
+    <title>{{ (page.meta.title ~ ' - ' ~ config.site_name) | truncate(56, true, '…') }}</title>
+  {% elif page and page.title %}
+    <title>{{ ((page.title | striptags) ~ ' - ' ~ config.site_name) | truncate(56, true, '…') }}</title>
+  {% else %}
+    <title>{{ config.site_name }}</title>
+  {% endif %}
+{% endblock %}
+
 {% block extrahead %}
   {{ super() }}
+
+  {# Google AdSense loader — must remain server-rendered in <head> for verification. #}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7876439381319122"
+     crossorigin="anonymous"></script>
 
   {# OpenGraph + Twitter meta for social/AI sharing #}
   <meta property="og:site_name" content="{{ config.site_name }}">

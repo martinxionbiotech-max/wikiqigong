@@ -4,7 +4,7 @@ chinese: "八段錦"
 pinyin: "bā duàn jǐn"
 english: "Ba Duan Jin"
 literal: "eight pieces of brocade"
-description: "Ba Duan Jin (八段錦, bā duàn jǐn), the 'Eight Pieces of Brocade,' is the world's most practiced qigong routine — eight gentle movements as precious as woven silk."
+description: "Ba Duan Jin (八段錦, bā duàn jǐn), the 'Eight Pieces of Brocade,' is the world's most practiced qigong routine — eight movements as precious as woven silk."
 category: "practice"
 related:
   - { concept: "Qigong", relation: "classic routine of", note: "the eight-movement set is the most widely practiced qigong form" }

@@ -3,7 +3,7 @@ title: "How to Choose a Tai Chi Teacher: Lineage, Red Flags & the Right Question
 slug: "how-to-choose-a-tai-chi-teacher"
 type: "practice"
 category: "tai-chi"
-description: "How to find a tai chi teacher you can trust — lineage and teaching-quality questions to ask, red flags to avoid, and how to tell real skill from performance."
+description: "How to find a tai chi teacher you can trust — lineage and teaching-quality questions to ask, red flags to avoid, and how to spot skill from performance."
 chinese: "太極拳 · 師父"
 pinyin: "tàijíquán · shīfu"
 literal: "supreme ultimate fist · teacher-father"
