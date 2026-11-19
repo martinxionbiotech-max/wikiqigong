@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects: canonical host is the apex domain.
+https://www.wikiqigong.com/* https://wikiqigong.com/:splat 301
